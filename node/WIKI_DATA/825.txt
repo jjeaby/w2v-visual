@@ -1,0 +1,36 @@
+[목차]
+
+== 개요 ==
+[youtube(lv-oosZJGsE)]
+
+[[Yamajet]]의 4번째 앨범 「しあわせハイカロリー」(행복 하이칼로리)에 3번째 트랙으로 수록된 곡이다.
+
+== 가사 ==
+추가 바람.
+
+== [[Deemo]] ==
+[include(틀:Deemo/Yamajet Collection)]
+
+=== 채보 ===
+||||||||||<bgcolor=#f6f6f6><table bgcolor=#fff> '''Am I delicious''' ||
+||||||||||<:>[[파일:Am I Delicious.png|width=270]][br][*스포일러 일러스트를 자세히 보면 아이스바의 손잡이에 디모의 원래 이름인 HANS(한스)가 적혀 있다.]||
+||<bgcolor=#f6f6f6> 작곡 |||||||| Yamajet [br] feat. Amane ([[COOL&CREATE]]) & [[Godspeed]] ||
+||<bgcolor=#f6f6f6> BPM ||||||||<:> ||
+||<bgcolor=#f6f6f6> ||<#cf9> Easy ||<#9cf> Normal ||<#fea> Hard ||
+||<bgcolor=#f6f6f6> 레벨 ||<:> 2||<:> 5||<:> 8 ||
+||<bgcolor=#f6f6f6> 노트 수 ||<:> 333||<:> 555||<:> 888 ||
+
+==== Easy ====
+
+==== Normal ====
+
+==== Hard ====
+[youtube(WBMA9uW9Yko)]
+AC 영상. 플레이어는 Polka.
+
+전체적으로 8레벨 적정 수준의 패턴이 나오는 곡이지만, 문제가 되는 부분은 역시 29초 부근의 32비트 트릴 구간이다. 이 구간이 풀콤이나 올차밍을 하는 데 걸림돌이 될 수 있다. 슬라이드의 비중은 적은 편이다.
+
+=== 기타 ===
+ * 모든 난이도 채보의 노트 수가 동일한 숫자로만 되어 있다.
+
+[[분류:Deemo의 수록곡]]

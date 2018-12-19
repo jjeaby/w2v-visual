@@ -1,0 +1,844 @@
+include 틀 메달 오브 아너 워파이터
+상위 문서 메달 오브 아너 워파이터
+분류 메달 오브 아너 워파이터
+목차
+개요
+메달 오브 아너 워파이터 의 병과에 대한 정보를 설명한 항목
+항목별로 각 병과의 전용 장비 항목에서는 특정 병과만이 사용 가능한 주무장과 부무장 투척 무기 특수 기술 총기 액세서리 등을 열람할 수 있다
+상세
+요약하자면
+어썰터 뛰어난 범용성 대부분 거리에서 교전 가능한 주무장과 보통의 기동성을 가졌다
+스나이퍼 저격수 주무장이 스나이퍼 라이플 더 이상의 자세한 설명은 생략한다
+데몰리션 폭발물 전문가 폭탄 설치 해체 속도가 빠르며 폭발물에 의한 피해를 덜 받는다
+헤비 거너 거점 사수 특수 기술과 지원 행동이 거점 사수에 특화되어 있다
+포인트맨 돌격 정찰 특화 빠른 이동 속도와 1단계 지원 행동으로 소형 정찰기를 사용한다
+스펙 옵스 게릴라 교란 특화 빠른 이동 속도와 1단계 지원 행동으로 교란 재머를 사용한다
+본 항목 내의 거의 모든 무기 데이터의 출처는 http symthic com moh wf stats 심틱 닷컴 심틱 닷컴에서는 무기 정보를 게임 데이터 내에서 직접 추출하므로 항목 내에서 오타가 나거나 심틱 닷컴의 데이터는 업데이트되었으나 나무 위키에선 아직 수정이 안 된 경우가 아니라면 본 항목 내의 모든 무기 데이터들은 100 신뢰해도 좋다 단 심틱 닷컴의 무기 정보 데이터는 베타 버전의 게임 데이터를 기준으로 되어 있으므로 정식 출시 이후의 게임에서는 일부 변경된 점이 존재한다추출하므
+신체 부위별로 받는 대미지가 다르다
+파일 external symthic com mohwfmultipliers png
+머리 x1 3 스나이퍼 라이플의 경우 x2 0
+몸통 팔 x1 0
+다리 x0 8 스나이퍼 라이플의 경우 x0 5
+대부분의 총이 수치에 적혀 있는 대미지보다 최대 2 차이가 발생할 수 있다
+all weapons have muzzle velocity of 350m s projectiles have 1 second time to live so the projectiles disappears approximately after 350 meters accuracy stats are currently known but what they mean is unknown 심틱 닷컴 내 설명
+모든 총기는 350m s의 탄속을 가진다 발사된 물체는 1초 동안 유지된다 즉 모든 총기는 최대 사거리는 대략 350m다 정확도 통계는 알려져 있지만 그게 무엇을 의미하는지는 알 수 없다
+전용 장비 중 주무장은 개조 되지 않은 상태의 사진을 찾기 힘든 관계로 배틀로그의 사진 중 무기의 원형 상태가 가장 잘 드러난 사진 도색을 아예 안 했거나 무채색 도색을 한 것을 우선시 개머리판이 달린 것을 우선시 소음기가 부착되지 않은 것을 우선시하였고 총기의 개성을 살리기 위해 예외로 한 것도 있다 을 사용했다 특수 부대를 컨셉으로한 게임답게 daniel defense larue tactical trijicon magpul surefire과 같은 총기 액세서리 제초업체의 액세서리는 물론 커스텀 총기도 등장한다
+총기 스탯
+영향을 주는 요인 영향을 받는 요인 기타
+유효 범위 총구 총열 몸통 탄 퍼짐 크로스헤어 퍼짐 거리에 따른 대미지 감소는 없다
+탄창 크기 탄창 탄창 크기 mk16 pdw mg4 f88이 해당된다
+민첩성 총열 몸통 탄창 크기 광학 기기 정조준까지 걸리는 시간 이동 속도에 영향을 끼치지 않는다
+배율 광학 기기 광학 기기 배율
+스텔스 총구 사격시 미니맵에 탐지 유무 소음기를 장착하고 사격시 미니맵에 탐지되지 않는다
+총기의 개조나 부착물에따라 총기 스탯이 변화한다
+스나이퍼
+파일 external eaassets a akamaihd net mp sniper oga 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper jtf2 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper udt 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper fskhjk 512x256 png width 188
+us oga canadian jtf 2 rokn udt seal norwegian fsk hjk
+파일 external eaassets a akamaihd net mp sniper seal 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper alfa 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper grom 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper sfod 512x256 png width 188
+us navy seal ru spetsgruppa alfa polish grom us army sfod d
+파일 external eaassets a akamaihd net mp sniper ksk 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper sas 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper sasr 512x256 png width 188 파일 external eaassets a akamaihd net mp sniper sog 512x256 png width 188
+german ksk british sas australian sas r swedish sog
+udt seal 잠금 해제 랭크 4
+sfod d 잠금 해제 랭크 10
+sog 잠금 해제 랭크 16
+sas r 잠금 해제 랭크 22
+spetsgruppa alfa 잠금 해제 랭크 28
+fsk hjk 잠금 해제 랭크 34
+grom 잠금 해제 랭크 40
+seal 잠금 해제 랭크 46
+sas 잠금 해제 랭크 52
+ksk 잠금 해제 랭크 57
+oga 잠금 해제 랭크 63
+jtf 2 잠금 해제 랭크 69
+원거리 명중률과 완자동 보조무기가 이 요원의 진정한 위협적 요소입니다 스나이퍼 자세를 취하면 원거리 지향 미니맵이 음성 isr 정보 수정과 머리 위의 아이콘으로 플레이어를 목표로 안내합니다 게임 내 설명플레이어
+주무장으로 저격소총 부무장으로 기관권총을 사용한다 게임 맵 자체가 엄폐물이 많은 편이라 타 fps 게임보다 쏠 수 있는 시간이 많지 않아서 난이도가 꽤 있는 편이다 게임 컨셉에 맞게 맵에 우회로가 많아 상호 엄호하는 팀플레이가 중요하다 하지만 대인지뢰를 깔면 상황이 역전된다 적이 옆을 치려고 해도 대인지뢰에 나가 떨어지는 사태가 발생한다 다만 포인트맨이 쿨하게 씹고 풀로 뛰면 소용 없다 특수기술인 정찰 자세를 사용하면 양각대를 설치하는데 시야에 들어오는 적들을 자동적으로 포착 할 수 있다 잘 사용하면 적의 동선을 파악할 수 있다 전용 주무장을 선택할 때는 그리고 로 나뉜다기관권총 대인지뢰
+볼트액션 저격 소총은 고출력 광학 장비만 부착 가능하며 cq 총열 총몸뭉치를 지원하지 않는다총몸뭉치
+2017년 3월 18일 기준 9337명의 유저가 이 병과로 10만점 이상을 획득해서 순위표에 갱신되어있다
+특수기술
+양각대 설치
+양각대 설치 양각대를 설치하면 스나이퍼는 지상 위협에서 더 안전해지고 uav에 발각되지 않습니다 안정적인 기반을 바탕으로 빠른 후속 사격도 가능합니다 적 접근 위협을 경고하는 원격 탐지기가 제공되며 조준하는 모든 목표가 미니맵에 자동으로 표시되어 다른 공격조 대원들이 확인할 수 있습니다 게임 내 설명스나이퍼
+양각대를 설치 가능한 지형지물에서 사용할 수 있다 사용시 양각대를 설치하고 시야에 들어오는 모든 적들을 자동적으로 포착하여 아군의 미니맵에 표시해준다 사격 간에 재조준을 할 필요가 없어져 빠른 후속 사격이 가능하며 적에게 조준 당하지 않는 이상 스팟당하지 않는다 특수 기술 키를 다시 누르거나 이동하려할 경우 정찰 자세가 해제된다
+전용 장비
+파일 external eaassets a akamaihd net tac 300 sog png
+mcmillan tac 300
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 양각대 사용중 재장전 전술장전 시간 연사력 대미지감소 구간
+90 5 1 6개 4 4 3 5 초 4 2 3 2 초 42rpm
+300 winchester magnum이 장전되는 tac 300은 탈착 가능한 5발 탄창 스무스 액션과 부드러운 방아쇠를 지원해 레이저로 정확하게 사격할 수 있습니다 가장 적대적인 환경 속에서 이 무기가 얼마나 효과적이었는지를 증명하는 수많은 이야기가 존재합니다 배틀로그 내 설명
+5계급에서 udt seal 스나이퍼 병사와 함께 처음으로 얻게 되는 볼트액션 저격소총
+가장 먼저 사용할 수 있는 저격소총이다 모든 거리에서 상체 대미지 90이 적용되며 헤드샷을 할 경우 탱크 스탠스를 장착한 데몰리션을 제외하면 모두 한방이다 그러나 헤드샷을 노리자니 탄창도 더 크고 조준 속도도 빠른 mcmillan cs5에 밀리고 몸샷을 노리자니 상체 1타가 나는 tac 50 sniper에 밀린다 하드코어 서버에서는 절륜한 성능을 보여준다데몰리션
+광학 기기
+고출력 조준기 u s optics st 10 jng reticule u s optics st 10 moa scale reticule
+고출력 이중 조준기 u s optics sn 3 5 25x t pal mil scale gap reticule u s optics sn 3 5 25x t pal mildot reticule u s optics sn 8 u s optics st 10 mildot reticule buis
+총열 조립
+표준 총열뭉치 표준 총열 표준 총열 컨투어 카메라
+정밀 총열뭉치 헤비배럴 헤비배럴
+총구
+소음 총구 surefire 소음기 surefire 소음기
+표준 총구 소염기
+몸통 그룹
+표준 총몸뭉치 표준 개머리판
+정밀 총몸뭉치 정밀 개머리판
+탄창 스타일
+표준 탄창 5발 300 win 탄창 테이프 5발 300 win 탄창 작중 win 을 wm 으로 오기
+파일 external eaassets a akamaihd net larueobr 762 sas r png
+larue obr 7 62
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 양각대 사용중 재장전 전술장전 시간 연사력 대미지감소 구간
+45 20 1 3개 4 7 4 6 초 3 7 3 5 초 250rpm
+larue orb optimized battle rifle 의 극단적인 정확성은 대원들이 원거리에서의 위협에 대처해야 하는 개방된 지형에서의 전투에 가장 적합합니다 배틀로그 내 설명
+11계급에서 sfod d 스나이퍼 병사와 함께 얻게 되는 반자동 저격소총
+게임 내 유일한 반자동 저격소총 저격소총이라 조준속도가 느리다는 단점이 있지만 전 구간 상체 3타 헤드 2타 로 중거리의 적을 쉽게 견제할 수 있다 빠르게 사격할 경우 명중률이 떨어진다 장거리 광학 장비도 부착가능하고 중거리 광학 장비에는 근거리용 레드닷이 같이 부착되어 있어 전투상황에 맞는 다양한 변화가 가능하다
+광학 기기
+저출력 이중 조준기 trijicon ta658 308 rmr trijicon ta11j rmr
+고출력 이중 조준기 u s optics st 10 mil scale reticule u s optics st 10 mildot reticule u s optics sn 8 u s optics sn 3 5 25x t pal mdmoa reticule u s optics st 10 jng reticule buis
+총열 조립
+cq 총열뭉치 경량 총열
+표준 총열뭉치 표준 총열 표준 총열 peq 15
+정밀 총열뭉치 헤비배럴
+총구
+소음 총구 surefire 소음기
+표준 총구 소염기
+몸통 그룹
+표준 총몸뭉치 magpul ctr 개머리판 risr
+정밀 총몸뭉치 magpul prs 개머리판
+탄창 스타일
+표준 탄창 20발 7 62mm 탄창
+파일 external eaassets a akamaihd net cs5 sas png
+mcmillan cs5
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 양각대 사용중 재장전 전술장전 시간 연사력 대미지감소 구간
+60 50 10 1 4개 5 0 3 0 초 4 7 3 2 초 44rpm 55m 60m
+308 카트리지를 이용하는 cs5는 모듈식이며 빠르고 쉽게 접을 수 있어 작은 여행 가방이나 배낭에 숨길 수 있습니다 배틀로그 내 설명
+35계급에서 fsk hjk 스나이퍼 병사와 함께 얻게 되는 소형 볼트액션 저격소총
+헤드샷을 노리는 플레이어에게 최적화 되어 있다 모든 거리에서 헤드1타 상체 2타인 점은 tac 300과 같지만 더 큰 탄창 빠른 정조준 속도를 가졌기에 이쪽이 더 선호된다
+광학 기기
+고출력 조준기 u s optics st 10 moa scale reticule u s optics st 10 mildot reticule u s optics st 10 jng reticule rmr 게임내 설명 오기
+고출력 이중 조준기 u s optics sn 8 정밀 조준선 u s optics sn 3 5 25x t pal mildot reticule u s optics st 10 moa scale reticule buis u s optics sn 8 속도 조준선
+총열 조립
+표준 총열뭉치 표준 총열 llm01 표준 총열 컨투어 카메라
+정밀 총열뭉치 정밀 총열 m952v 라이트
+총구
+소음 총구 보정기
+표준 총구 소염기
+몸통 그룹
+표준 총몸뭉치 표준 개머리판 접힌 상태 표준 개머리판 황갈색 몸통
+정밀 총몸뭉치 표준 개머리판 펼친 상태
+탄창 스타일
+표준 탄창 5발 308 win 탄창 5발 308 win 탄창 테이프
+파일 external eaassets a akamaihd net tac 50 grom png
+tac50 sniper 죽창드립 너도 한방 나도 한방
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 양각대 사용중 재장전 전술장전 시간 연사력 대미지감소 구간
+110 5 1 4개 7 6 5 25 초 4 5 3 4 초 28rpm
+소부대의 스나이퍼들이 필요로 하는 극단적인 원거리 기능을 위해 지급된 50 구경 탄은 2 000미터 밖에서 인간과 사물을 효과적으로 제압합니다 2002년 3월 한 캐나다군 스나이퍼가 tac 50으로 2 430 m 2 657야드 에서 적을 사살한 바 있습니다 배틀로그 내 설명
+41계급에서 grom 스나이퍼 병사와 함께 얻게 되는 볼트액션 저격소총
+대구경 소총답게 모든거리에서 상체 한방이 가능하다 재장전과 볼트액션 동작이 느리고 정조준시 조준경이 심하게 흔들리는 단점이 있다
+광학 기기
+고출력 조준기 u s optics st 10 mildot reticule
+고출력 이중 조준기 u s optics sn 3 5 25x t pal mil scale gap reticule u s optics sn 8 u s optics sn 3 5 25x t pal mdmoa reticule u s optics sn 3 5 25x t pal mildot reticule
+총열 조립
+표준 총열뭉치 표준 총열 컨투어 카메라 윗덮개 표준 총열
+정밀 총열뭉치 헤비배럴
+총구
+소음 총구 surefire 소음기
+표준 총구 소염기 grom 소염기
+몸통 그룹
+표준 총몸뭉치 표준 개머리판 위치 3 정밀 개머리판 접힌 상태
+정밀 총몸뭉치 표준 개머리판 위치 4 정밀 개머리판 위치 2
+탄창 스타일
+표준 탄창 5발 50 cal 탄창 5발 50cal 탄창 테이프
+파일 external eaassets a akamaihd net sidearm g18 png
+g18
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+17 10 33 1 3 75 3 6 초 833rpm 8m 14m
+근접 전투와 개인 방어에 가장 적합한 완전 자동 권총입니다 적절할 때 사용하면 다수의 적을 빠르게 저지할 수 있습니다 배틀로그 내 설명
+근거리 화력이 부족한 스나이퍼에게 상당히 궁합이 잘 맞는 자동 권총
+트리비아
+mcmillan tac 300 vs mcmillan cs5 vs tac50 sniper
+비교 mcmillan tac 300 mcmillan cs5 tac50 sniper
+대미지 90 60 110
+총구 흔들림 적음 매우 적음 심함
+재장전 전술장전 4 4 3 5 초 5 0 3 0 초 7 6 5 25 초
+연사력 rpm 42 44 28
+장점 하드코어에서 강함 헤드샷용 상체1타
+어썰터
+파일 external eaassets a akamaihd net mp assaulter oga 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter jtf2 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter udt 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter fskhjk 512x256 png width 188
+us oga canadian jtf 2 rokn udt seal norwegian fsk hjk
+파일 external eaassets a akamaihd net mp assaulter seal 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter alfa 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter grom 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter sfod 512x256 png width 188
+us navy seal ru spetsgruppa alfa polish grom us army sfod d
+파일 external eaassets a akamaihd net mp assaulter ksk 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter sas 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter sasr 512x256 png width 188 파일 external eaassets a akamaihd net mp assaulter sog 512x256 png width 188
+german ksk british sas australian sas r swedish sog
+grom 잠금 해제 랭크 7
+seal 잠금 해제 랭크 13
+sas 잠금 해제 랭크 19
+ksk 잠금 해제 랭크 25
+oga 잠금 해제 랭크 31
+jtf 2 잠금 해제 랭크 37
+sfod d 잠금 해제 랭크 43
+udt seal 잠금 해제 랭크 49
+sas r 잠금 해제 랭크 56
+sog 잠금 해제 랭크 60
+fsk hjk 잠금 해제 랭크 66
+spetsgruppa alfa 잠금 해제 랭크 72
+보조 유탄 발사기를 보유한 중간 속도 대원입니다 적들이 모여 있을 때 대량 사살을 할 수 있습니다
+처음 멀티 플레이를 실행하면 먼저 이 클래스의 국적을 선택할 수 있다 돌격소총과 유탄 발사기로 무장하고 있어 범용성이 좋으며 느리지도 빠르지도 않은 정도의 이동속도를 가지고 있다 전용 주무장을 선택할 때는 대미지는 낮지만 30발 5 56mm 탄창을 사용하는 hk 416과 dd m4v1 그리고 대미지가 높지만 20발 7 62mm 탄창을 사용하는 ebr과 hk g3로 나뉜다 포인트맨의 주무장과 차이점으로는 소음기를 부착할 수 있다 2017년 3월 18일 기준 14575명의 유저가 이 병과로 10만점 이상을 획득해서 순위표에 갱신되어있다돌격소총 이동속도
+특수 기술
+파일 8vwjmlm png
+유탄 발사기
+40mm 유탄 발사기 40mm 유탄 발사기를 이용하면 대규모 병력을 상대로 직간접적 전술을 펼칠 수 있습니다 게임 내 설명
+장전된 유탄 발사기와 예비용 유탄 한방을 사용할 수 있다 준수한 대미지를 가졌으며 직격시 탱크 스탠스를 장착한 데몰리션도 사살할 수 있다 공격조 재보급을 통해 최대 2발까지 소지 가능하다 유탄발사기가 부착되어 있는 총열덮개가 아니면 따로 m79를 사용한다
+전용 장비
+파일 external eaassets a akamaihd net hk416sfod d png
+hk 416
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+20 14 30 1 6개 3 3 3 3 초 700rpm 45m 55m
+세계에서 가장 훌륭한 소형 화기로 꼽히는 이 무기는 지속적이고 정확하며 믿음직합니다 실수가 허용되지 않는 대원들은 다양한 혁신과 검증된 디자인은 높이 평가합니다 배틀로그 내 설명
+8계급에서 grom 어썰터 병사와 함께 얻게 되는 돌격소총
+광학 기기
+조준기 hk 디옵터 조준기
+반사 조준기 trijicon srs02 aimpoint compm4
+저출력 조준기 aimpoint micro t 1 3x magnifirer trijicon ta31 ch
+저출력 이중 조준기 trijicon ta31h buis
+총열 조립
+cq 총열뭉치 경량 총열 vfg peq 15
+표준 총열뭉치 표준 총열 컨투어 카메라 표준 총열 40mm 유탄 발사기
+정밀 총열뭉치 greko 중량 총열 surefire m952v 라이트 peq 14
+총구
+소음 총구 surefire 미니 몬스터 소음기 surefire 소음기
+표준 총구 소염기 소염기
+몸통 그룹
+cq 총몸뭉치 표준 개머리판 접힌 상태
+표준 총몸뭉치 greko magpul ctr 개머리판
+정밀 총몸뭉치 표준 개머리판 펼친 상태
+탄창 스타일
+표준 탄창 grom 30발 5 56mm 그린 pmag sfod 30발 5 56mm pmag seal 30발 5 56mm 탄창 30발 5 56mm 탄창
+파일 external eaassets a akamaihd net ddm4v1 oga png
+dd m4v1
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+20 14 30 1 4개 3 5 3 5 초 700rpm 45m 55m
+m4v1은 긴 레일 시스템을 이용해 개조된 사격 손잡이를 장착하며 다양한 임무를 수행하는 대원들이 필요로 하는 수많은 부착물을 지원합니다 배틀로그 내 설명m4v1
+20 계급에서 sas 어썰터 병사와 함께 얻게 되는 돌격소총
+광학 기기
+조준기 조준기
+반사 조준기 aimpoint compm4
+저출력 조준기 trijicon ta31f 556 aimpoint micro t 1 3x magnifier
+저출력 이중 조준기 specterdr
+총열 조립
+cq 총열뭉치 경량 총열 vfg m952v light
+표준 총열뭉치 표준 총열 40mm 유탄 발사기 sas 표준 총열 40mm 유탄 발사기
+정밀 총열뭉치 중량 총열 40mm 유탄 발사기
+총구
+소음 총구 surefire 소음기
+표준 총구 보정기 소염기
+몸통 그룹
+표준 총몸뭉치 magpul ctr 개머리판 magpul ubr 개머리판 magpul moe 개머리판
+정밀 총몸뭉치 magpul prs 개머리판
+탄창 스타일
+표준 탄창 30발 5 56mm pmag sas 30발 5 56mm pmag 30발 5 56mm 탄창
+파일 external eaassets a akamaihd net ebr sas r png
+ebr
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소구간
+25 20 20 1 9개 4 0 3 8 초 700rpm 30m 40m
+m14 전투 소총의 ebr 버전으로 더 가볍고 짧고 정확합니다 지정사수용 무기와 근접전투 무기 모두로 사용됩니다 배틀로그 내 설명
+38계급에서 jtf 2 어썰터 병사와 함께 얻게 되는 지정사수소총
+hk g3보다 재장전 속도가 빠르고 전술장전 시간은 느리다 그 외에는 공개된 수치상으로 같다 hk g3보다 반동 제어가 쉽기 때문에 선호도가 높다 모든 거리의 적을 상대로 강력한 성능을 보여준다
+광학 기기
+조준기 m14 조준기
+반사 조준기 trijicon 1x42 aimpoint micro t 1 대형 홀로그램 trijicon srs02
+저출력 조준기 m145
+저출력 이중 조준기 specterdr trijicon ta648 308 rmr
+총열 조립
+cq 총열뭉치 경량 총열 경량 총열 peq 11
+표준 총열뭉치 표준 총열 표준 총열 peq 15
+정밀 총열뭉치 ebr 개머리판 위장 총몸 없음
+총구
+소음 총구 surefire 소음기
+표준 총구 소염기
+몸통 그룹
+표준 총몸뭉치 ebr 개머리판 접힌 상태
+정밀 총몸뭉치 ebr 개머리판 jtf2 ebr 개머리판
+탄창 스타일
+표준 탄창 20발 7 62mm 탄창
+파일 external eaassets a akamaihd net hk ag3 png
+hk g3
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+25 20 20 1 8개 4 8 3 5 초 700rpm 30m 40m
+개량 전투 소총 ebr은 지정사수들에게 사거리가 길면서도 좁은 공간에서 사용 가능한 무기를 제공할 목적으로 개발되었습니다 이 소총은 7 62 mm 카트리지로 두 가지 목적을 충족할 뿐만 아니라 놀라운 수준의 정확성까지 제공합니다 배틀로그 내 설명카트리지
+26계급에서 ksk 어썰터 병사와 함께 얻게 되는 지정사수소총
+광학 기기
+조준기 hk 디옵터 조준기
+반사 조준기 aimpoint compcs aimpoint micro t 1 trijicon 1x42
+저출력 이중 조준기 trijicon ta11h 308 rmr specterdr
+총열 조립
+cq 총열뭉치 ag3 경량 총열 전술 레일
+표준 총열뭉치 ak4 표준 총열 spetsnaz 표준 총열
+정밀 총열뭉치 g3ka4 중량 총열
+총구
+소음 총구 surefire 소음기
+표준 총구 소염기 소염기
+몸통 그룹
+cq 총몸뭉치 ag3 총몸뭉치
+표준 총몸뭉치 g3 나무 개머리판 ak4 복합 개머리판 예상지
+정밀 총몸뭉치 g3ka4 정밀 개머리판
+탄창 스타일
+표준 탄창 20발 탄창 테이프 20발 탄창 ksk 20발 탄창 위장 없음
+파일 external eaassets a akamaihd net sidearm p226 png
+sig sauer p226
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+25 18 15 1 2 5 2 5 초 300rpm 8m 14m
+스위스의 정교함과 독일의 기술이 결합해 튼튼한 p 226이 제작되었습니다 많은 미국 navy seals 대원이 사용합니다 배틀로그 내 설명
+준수한 성능을 보여주는 반자동 권총이다
+트리비아
+hk 416 vs dd m4v1
+비교 hk 416 dd m4v1
+재장전 전술장전 3 3 3 3 초 3 5 3 5 초
+cq 총열 총몸뭉치 모두 지원 총열 지원
+유탄 발사기 장착 가능 총열 표준 총열 표준 정밀 총열
+개조에 따른 상대적 장점 높은 민첩성 빠른 유탄 발사기 전환
+hk 416이 재장전과 전술장전 속도 모두 0 2초 더 빠르다 또한 cq 총열 총몸뭉치를 모두 지원해서 민첩성을 높이는 개조가 가능하다총몸뭉치
+dd m4v1는 정밀 총열뭉치에도 유탄발사기를 장착 가능하다 정밀 총열 총몸뭉치에 유탄발사기까지 부착이 가능해서 중거리 전투에서 빠르게 유탄 발사기로 변경할 수 있다는 이점을 얻을 수 있다m4v1 유탄발사기
+ebr vs hk g3
+비교 ebr hk g3
+재장전 전술장전 4 0 3 8 초 4 8 3 5 초
+cq 총열 총몸뭉치 총열 지원 모두 지원
+기타 더 잘맞음 감성 개조
+ebr이 재장전 속도가 0 8초 더 빠르다 20발 탄창은 금방 소모되므로 재장전이 0 8초 씩이나 빠르다는건 큰 이점이다 직접 비교 사용해보면 hk g3보다 높은 정확도를 보인다 중거리 전투에서 확실한 차이가 느껴진다소모되므
+hk g3이 전술장전 속도가 0 3초 더 빠르다 몇발 쏘고 자주자주 전술장전을 하는 타입에게 유리하다 cq 총몸뭉치를 지원하지만 큰 이점은 없다 나무 총열 덮개와 나무 개머리판이 지원되서 감성을 느낄 수 있다전술장전 총몸뭉치
+어썰터 주무장 5 56mm vs 포인트맨 주무장
+비교 어썰터 주무장 포인트맨 주무장
+대미지 20 14 17 14
+순간 화력 꾸준함 강력 고출력탄 사용시
+소음기 부착 가능 부착 불가능
+정조준 속도 느림 빠름
+상대적 장점 중거리 이상에서 유리 근거리에서 유리
+어썰터는 꾸준하게 강력하고 포인트맨은 고출력 탄창을 통한 엄청난 순간 화력을 보여준다 어썰터는 모두 정밀 총열 총몸뭉치와 소음기를 지원하지만 포인트맨은 소음기를 사용할 수 없다 어썰터의 정조준 속도가 포인트맨에 비해 조금 느리다 순발력이 요구되는 상황에선 포인트맨이 유리하다 맞붙을 경우 어썰터는 중거리 이상에서 포인트맨은 근거리에서 더 유리하다포인트맨 총몸뭉치 포인트맨 포인트맨
+데몰리션
+파일 external eaassets a akamaihd net mp demo oga 512x256 png width 188 파일 external eaassets a akamaihd net mp demo jtf2 512x256 png width 188 파일 external vignette2 wikia nocookie net mp demo udt 512x256 png width 188 파일 external eaassets a akamaihd net mp demo fskhjk 512x256 png width 188
+us oga canadian jtf 2 rokn udt seal norwegian fsk hjk
+파일 external eaassets a akamaihd net mp demo seal 512x256 png width 188 파일 external eaassets a akamaihd net mp demo alfa 512x256 png width 188 파일 external eaassets a akamaihd net mp demo grom 512x256 png width 188 파일 external eaassets a akamaihd net mp demo sfod 512x256 png width 188
+us navy seal ru spetsgruppa alfa polish grom us army sfod d
+파일 external eaassets a akamaihd net mp demo ksk 512x256 png width 188 파일 external eaassets a akamaihd net mp demo sas 512x256 png width 188 파일 external eaassets a akamaihd net mp demo sasr 512x256 png width 188 파일 external eaassets a akamaihd net mp demo sog 512x256 png width 188
+german ksk british sas australian sas r swedish sog
+spetsgruppa alfa 잠금 해제 랭크 6
+fsk hjk 잠금 해제 랭크 12
+grom 잠금 해제 랭크 18
+seal 잠금 해제 랭크 24
+sas 잠금 해제 랭크 30
+ksk 잠금 해제 랭크 36
+oga 잠금 해제 랭크 42
+jtf 2 잠금 해제 랭크 48
+sfod d 잠금 해제 랭크 54
+udt seal 잠금 해제 랭크 59
+sas r 잠금 해제 랭크 65
+sog 잠금 해제 랭크 71
+속도는 가장 느리지만 데몰리션 클래스는 중무장을 하고 있어 약한 클래스들은 버티지 못하는 공격도 견딜 수 있습니다 폭탄 설치와 해체 속도도 빠르며 방탄복을 이용하면 적군의 일제 사격을 막을 수 있습니다
+주무장으로 카빈 소총이나 pdw를 사용한다 클래스에 맞게 직접 각종 폭발물을 다루는 킬 스트릭 m32 smaw 이 많다 eod 방폭복을 착용하고있고 카빈을 사용하며 이동속도는 제일 느리지만 특수기술로 일정량의 폭발 대미지를 완화시키는 탱크 스탠스를 사용할 수 있다 폭발물의 영향을 비교적 덜받는 등 탱커 스타일이다 전용 주무장을 선택할 때는 자동소총인 aks 74u mk16 pdw hk416과 그리고 자동샷건인 aa 12로 나뉜다 자동소총들은 정밀 총열 총몸뭉치를 지원하지 않는다이동속도 특수기술 hk416 자동소총 총몸뭉치
+2017년 3월 18일 기준 2233명의 유저가 이 병과로 10만점 이상을 획득해서 순위표에 갱신되어있다
+특수 기술
+방탄복
+방탄복 데몰리션 대원은 폭발물에 대한 방어력과 저항력이 뛰어나 다른 대원들보다 대미지를 적게 받습니다 또 그들은 다른 클래스보다 더 빨리 폭탄을 설치하고 해체합니다 마스크를 쓰면 방어력이 더 올라가며 마스크를 내려도 정면 장갑이 엄청난 대미지를 흡수합니다 게임 내 설명
+사용시 안면 바이저 마스크를 내리며 기본 체력 외에 방탄복 체력 100이 추가된다 방탄복 체력이 존재하는한 낙하대미지 이외의 대미지를 방탄복이 대신 받는다 방탄복의 전면이 가장 많은 대미지를 흡수하며 후면은 상당히 취약하다 데몰리션은 기본적으로 폭발물에 대한 대미지 경감이 있는데 방탄복 장착시 더욱 강화된다 단점으로는 바이저 마스크로 인해 시야가 제한되며 원래 느린 이동속도가 더욱 느려진다 특수 기술 키를 다시 누르거나 포복할 경우 바이저 마스크를 올리며 방탄복 상태에서 해제된다 방탄복의 체력이 0이 될 경우 파괴된다 공격조 재보급을 통해 재보급이 가능하다데몰리션
+전용 장비
+파일 external eaassets a akamaihd net aks 74u suchka png
+aks 74u
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+17 13 30 1 4개 3 3 2 9 초 833rpm 12m 16m
+aks 74u는 장비의 무기와 크기가 대단히 중요한 공수 부대 작전용으로 개발되었습니다 경기관총보다 성능이 뛰어난 중간형 무기가 필요한 특수 부대 사이에서 폭넓게 활용되고 있습니다 배틀로그 내 설명
+7계급에서 spetsgruppa alfa 데몰리션 병사와 함께 얻게 되는 카빈
+광학 기기
+조준기 ak74 조준기
+반사 조준기 kobra red dot trijicon srs02 aimpoint compm4
+총열 조립
+cq 총열뭉치 개조 윗덮개 vfg m720v 개조 윗덮개 vfg peq 15
+표준 총열뭉치 suchka 경량 총열 나무 윗덮개 노출된 목재 윗덮개
+총구
+표준 총구 krinkov 소염기 보정기
+몸통 그룹
+cq 총몸뭉치 magpul moe 개머리판 완충관 덮개 suchka 줄 감김 측면 접이식 개머리판
+표준 총몸뭉치 접이식 복합 개머리판
+탄창 스타일
+표준 탄창 30발 탄창 30발 탄창 사용시 탄창이 40발이 되는 버그가 존재한다 30발 베이클라이트 탄창
+다른 자동소총들과 차이점으로는 버그로 인해 30발 탄창을 사용하면 40발 탄창을 사용 가능하다자동소총
+파일 external eaassets a akamaihd net mk16 pdw fsk png
+mk16 pdw
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+17 13 30 1 20 1 축소 탄창 6개 3 6 3 4 초 833rpm 12m 16m
+소형 5 56 mm 무기로 소총과 경기관총 간의 간극을 메우는 용도로 사용됩니다 총열 길이 때문에 유효 거리가 제한됩니다 배틀로그 내 설명
+13계급에서 fsk hjk 데몰리션 병사와 함께 얻게 되는 pdw
+광학 기기
+조준기 scar 조준기
+반사 조준기 aimpoint micro t 1 trijicon 1x42 trijicon rmr aimpoint compcs
+총열 조립
+cq 총열뭉치 경량 총열 qd vfg
+표준 총열뭉치 경량 총열 m720v 경량 총열 peq 15 경량 총열 나무 윗덮개
+총구
+소음 총구 surefire 소음기
+표준 총구 소염기
+몸통 그룹
+cq 총몸뭉치 개머리판 없음
+표준 총몸뭉치 표준 개머리판 표준 개머리판 2가지 색 몸통
+탄창 스타일
+표준 탄창 20발 5 56mm 탄창
+추가 탄창 30발 5 56mm 탄창 sfod 30발 5 56mm 탄창
+다른 자동소총들과 차이점으로는 소음기를 지원한다 원한다면 20발의 탄창을 사용할 수 있다자동소총
+파일 external eaassets a akamaihd net hk416c ksk png
+hk 416c
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+17 13 30 1 4개 3 8 3 6 초 833rpm 12m 16m
+외형은 m4와 비슷하지만 hk 416c의 내부는 완전히 딴판입니다 가스 피스톤 작동방식과 다양한 부착물을 지원하는 쿼드 레일 그리고 무엇보다도 냉간 단조 총열이 있어 명중률 강도 지속 사격력이 높은 모델 c는 놀라울 정도로 가벼운 무기 플랫폼입니다 초소형 416c가 있으면 대원은 다른 특정 장비 사용을 포기하지 않고도 작은 돌격 소총을 이용할 수 있습니다 이것은 무엇을 의미할까요 배틀로그 내 설명작동방식
+19계급에서 grom 데몰리션 병사와 함께 얻게 되는 pdw 근거리 전투 이외에는 상당히 떨어지는 성능을 보여준다
+광학 기기
+조준기 hk 디옵터 조준기
+반사 조준기 aimpoint micro t 1 aimpoint compm4 trijicon srs02
+총열 조립
+cq 총열뭉치 sas 총열뭉치 llmo1 peq 2 vfg vfg m720v 라이트
+표준 총열뭉치 표준 총열 컨투어 카메라 표준 총열
+총구
+표준 총구 소염기 소염기
+몸통 그룹
+cq 총몸뭉치 pdw 개머리판 접힌 상태 개머리판 없음
+표준 총몸뭉치 pdw 개머리판 부분적으로 펼친 상태 pdw 개머리판 펼친상태
+탄창 스타일
+표준 탄창 30발 5 56mm pmag 30발 5 56mm 탄창 30발 5 56mm pmag tab jtf2 30발 5 56mm pmag
+다른 자동소총들과 차이점으로는 부착할 수 있는 악새서리가 좀 더 다양하다 실질적인 장점이 정말 없다자동소총
+파일 external eaassets a akamaihd net a12 seal png
+aa 12
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+15 4 x7 8 12 드럼 탄창 5개 2개 드럼 탄창 4 8 3 6 초 300rpm 7m 12m
+12구경 산탄을 근거리에서 분당 300발까지 발사하는 이 돌격 샷건은 놀라운 수준의 화력 지원 장치입니다 근거리 실내 전투에서는 따라올 무기가 없습니다 배틀로그 내 설명
+25계급에서 navy seal 데몰리션 병사와 함께 얻게 되는 자동 샷건 데몰리션의 다른 주무장들 성능이 매우 떨어지는 관계로 aa 12가 선호된다
+광학 기기
+조준기 aa12 조준기
+반사 조준기 aimpoint compcs trijicon 1x42 소형 홀로그램
+총열 조립
+cq 총열뭉치 경량 총열 컨투어 카메라 경량 총열 m952v light vfg
+표준 총열뭉치 표준 총열 m952v 라이트 표준 총열
+정밀 총열뭉치 헤비배럴
+총구
+표준 총구 도어 브리처 소염기 udt 도어 브리처 소염기 seal 소염기
+몸통 그룹
+표준 총몸뭉치 표준 개머리판 sog 후방 탄약 보관함 개머리판
+탄창 스타일
+표준 탄창 8발 12 ga 박스 탄창
+추가 탄창 12발 12ga 드럼 탄창
+파일 external eaassets a akamaihd net sidearm 1911 png
+vickers 1911
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+50 20 7 1 2 5 2 5 초 300rpm 8m 14m
+100년이 넘었지만 아직도 잘 작동합니다 이 대폭 개조된 버전은 delta force의 전설인 래리 빅커스의 엄격한 기준에 맞춰서 제작되었습니다 배틀로그 내 설명
+근거리에서 적을 두 방에 보내버리는 강력한 권총이다
+트리비아
+헤비 거너
+파일 external eaassets a akamaihd net mp heavygunner oga 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner jtf2 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner udt 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner fskhjk 512x256 png width 188
+us oga canadian jtf 2 rokn udt seal norwegian fsk hjk
+파일 external eaassets a akamaihd net mp heavygunner seal 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner alfa 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner grom 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner sfod 512x256 png width 188
+us navy seal ru spetsgruppa alfa polish grom us army sfod d
+파일 external eaassets a akamaihd net mp heavygunner ksk 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner sas 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner sasr 512x256 png width 188 파일 external eaassets a akamaihd net mp heavygunner sog 512x256 png width 188
+german ksk british sas australian sas r swedish sog
+ksk 잠금 해제 랭크 3
+sas 잠금 해제 랭크 8
+jtf 2 잠금 해제 랭크 14
+seal 잠금 해제 랭크 20
+udt seal 잠금 해제 랭크 26
+sfod d 잠금 해제 랭크 32
+sog 잠금 해제 랭크 38
+sas r 잠금 해제 랭크 44
+spetsgruppa alfa 잠금 해제 랭크 50
+fsk hjk 잠금 해제 랭크 55
+grom 잠금 해제 랭크 61
+oga 잠금 해제 랭크 67
+높은 연사력과 대량의 탄약 덕분에 헤비 거너는 어떤 공격조에서도 환영받습니다 사격 보조 역할을 하는 양각대로 명중률을 높일 수 있다는 점이 더욱 매력적입니다 게임 내 설명
+l gpmg를 주무기로 사용한다 이동속도와 정조준 시간이 느려서 일선에서 사용하기 불편하지만 큰 탄창용량을 이용해 지속적인 화력투사가 가능하지만 전자동으로 땡기다보면 과열로 잠시동안 행동불능 상태가 된다 게임 특성상 우회로가 많아서 길목에서 쏘고 있으면 측면 공격의 위험성이 상당히 줄어든다 동료와 함께 다니자 특수 기술인 양각대를 사용하면 탄창이 무한으로 변하고 명중률이 상승한다 당연하지만 설치중에는 움직일수 없다 전용 주무장을 선택할 때는 대부분 비슷한 성능을 가졌기에 취향에 따라 나뉜다이동속도 탄창용량
+2017년 3월 18일 기준 3697명의 유저가 이 병과로 10만점 이상을 획득해서 순위표에 갱신되어있다
+특수 기술
+양각대 설치
+양각대 설치 사수가 양각대를 설치하면 명중률도 높아지고 탄약도 무한대로 제공됩니다 또 팀의 다른대원들을 보급해줄 수도 있습니다 게임 내 설명다른대원
+양각대를 설치 가능한 지형지물에서 사용할 수 있다 사용시 양각대를 설치하고 재장전이 필요없는 무한탄창의 상태가 된다 지향 사격 명중률이 개선되며 탄퍼짐과 반동이 상당히 줄어든다 일정 시간 이상 연사시 과열이 되며 잠시 작동이 멈춘다 특수 기술 키를 다시 누르거나 이동하려할 경우 양각대 자세에서 해제된다
+전용 장비
+파일 external eaassets a akamaihd net ksp 90 png
+m249
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+20 100 1 8 6 8 6 초 700rpm
+5 56 mm 소대 지원 화기로 소규모 부대의 속도와 기동성을 저해하지 않으면서도 화력을 강화합니다 배틀로그 내 설명
+15계급에서 jtf 2 헤비 거너 병사와 함께 얻게 되는 경기관총
+광학 기기
+조준기 m249 조준기
+반사 조준기 aimpoint compm4 aimpoint compcs
+저출력 조준기 trijicon ta11mgo m249 acog
+저출력 이중 조준기 trijicon ta11mgo m249 acog rmr specterdr
+총열 조립
+표준 총열뭉치 중량 총열 m700v 표준 총열 k3 saw 표준 총열 윗덮개
+정밀 총열뭉치 중량 총열 이동 손잡이 mk 46 mod 1 중량 총열 peq 15 휴대 손잡이 ksp 90 중량 총열
+총구
+표준 총구 소염기 소염기
+몸통 그룹
+cq 총몸뭉치 mk 46 mod 1 para 개머리판 접힌 상태
+표준 총몸뭉치 ksp 90 개머리판 k3 saw 개머리판 펼친 상태 표준 개머리판 grom 개머리판
+정밀 총몸뭉치 jtf2 개머리판 펼친 상태
+탄창 스타일
+표준 탄창 100발 탄창 백 100발 탄창 백 커스텀 위장 grom 100발 탄창 박스
+다른 경기관총들과 차이점으로는 정밀 총열 총몸뭉치를 모두 지원한다경기관총 총몸뭉치
+파일 external eaassets a akamaihd net pkp spetznaz png
+pkp
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+20 100 1 9 0 9 0 초 감이 안 온다면 배틀필드 4의 대부분 벨트형 lmg의 재장전시간이 6 2초이며 가장 오래 걸리는 m60e4가 7 8초이다 700rpm
+pkm의 현대 버전인 pkp는 1979년 아프가니스탄 전쟁에서 배운 교훈을 적용한 개선된 분대 자동화기입니다 체첸에서 처음 도입되어 전 세계로 배급되었습니다 배틀로그 내 설명
+51계급에서 spetsgruppa alfa 헤비 거너 병사와 함께 얻게 되는 경기관총
+광학 기기
+조준기 pkp 조준기
+반사 조준기 대형 홀로그램 kobra red dot
+저출력 조준기 m145
+저출력 이중 조준기 specterdr trijicon ta11h 308 rmr
+총열 조립
+cq 총열뭉치 표준 총열 vfg llm01
+표준 총열뭉치 표준 총열 pkm 휴대 손잡이
+총구
+표준 총구 소염기
+몸통 그룹
+표준 총몸뭉치 spetsnaz 개머리판 나무 개머리판
+탄창 스타일
+표준 탄창 spetsnaz 100발 7 62mm 박스 탄창 100발 7 62mm 박스 탄창
+다른 경기관총들보다 운용이 까다롭다 그냥 구려서 그래
+파일 external eaassets a akamaihd net hk mg4ke png
+mg4
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+20 100 1 150 1 확장 탄창 7 8 7 8 초 700rpm
+5 56 mm 분대 자동화기로 뛰어난 화력 지원을 제공하고 사용자들은 더 많은 탄약을 휴대할 수 있습니다 저지력과 사거리는 부족하지만 연사력과 다재다능함으로 이를 보완합니다 배틀로그 내 설명자동화기
+3계급에서 ksk 헤비 거너 병사와 함께 처음으로 얻게 되는 경기관총
+광학 기기
+조준기 mg4 조준기
+반사 조준기 trijicon srs02
+저출력 조준기 trijicon ta11j mg4 조준경 m145
+저출력 이중 조준기 specterdr
+총열 조립
+cq 총열뭉치 경량 총열 윗덮개
+표준 총열뭉치 표준 총열 윗덮개
+정밀 총열뭉치 중량 총열 peq 15
+총구
+표준 총구 sasr 소염기 ksk 소염기
+몸통 그룹
+cq 총몸뭉치 개머리판 없음
+표준 총몸뭉치 표준 개머리판 윗덮개 코드 mg4ke 표준 개머리판 슬링 스트랩
+탄창 스타일
+표준 탄창 100발 5 56mm 파우치
+추가 탄창 150발 5 56mm 박스 탄창
+다른 경기관총들과 차이점으로는 150발 추가 탄창을 지원한다 또한 전용 액세서리인 mg4 조준경을 부착 가능하다경기관총
+파일 external eaassets a akamaihd net m240 fsk png
+m240
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+20 100 1 8 0 8 0 초 700rpm
+1970년대부터 사용된 이 gmpg는 믿음직하면서도 강력하며 7 62mm 탄은 인간과 장갑이 얇은 전차를 파괴할 수 있습니다 배틀로그 내 설명
+9계급에서 sas 헤비 거너 병사와 함께 얻게 되는 다목적 기관총
+광학 기기
+조준기 m240 조준기
+반사 조준기 trijicon srs02
+저출력 조준기 trijicon ta648 308h acog
+저출력 이중 조준기 specterdr trijicon ta648mgo m240 acog rmr trijicon ta11h 308 rmr
+총열 조립
+cq 총열뭉치 경량 총열
+표준 총열뭉치 mk 43 mod 1 표준 총열 peq 15 m240l 표준 총열 peq 2
+정밀 총열뭉치 중량 총열 surefire m952v light
+총구
+표준 총구 소염기 보정기
+몸통 그룹
+cq 총몸뭉치 m240 접이식 개머리판 m240b 경량 개머리판
+표준 총몸뭉치 mk 43 mod 1 나무 개머리판 m240l 표준 개머리판
+탄창 스타일
+표준 탄창 sfod 100발 7 62mm 파우치 seal 100발 7 62mm 파우치 sas 100발 7 62mm 파우치 fsk hjk 100발 7 62mm 파우치
+다른 경기관총들과 차이점으로는 다양한 저출력 이중 조준기를 부착 가능하다경기관총
+파일 external eaassets a akamaihd net sidearm hk45c png
+hk 45c
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+40 20 10 1 2 5 2 5 초 300rpm 8m 14m
+hk 45의 단축 버전으로 헤비 거너 기본 무기의 가벼운 대안이 될 수 있습니다 탄창은 10발 배틀로그 내 설명에는 8발로 되어 있으나 오타이다 을 장전합니다 배틀로그 내 설명
+트리비아
+m249 vs pkp vs mg4 vs m240
+비교 m240 pkp mg4 m240
+재장전 속도 8 6초 9 0초 7 8초 8 0초
+탄창 100발 100발 150발 100발
+정밀 총열 총몸뭉치 모두 지원 미지원 총열 지원 총열 지원
+특징 k3 총열 개조 나무 감성 150발 나무 감성
+양각대를 설치하거나 엎드려서 사격시 반동이 거의 없는 레이저총이 된다
+포인트맨
+파일 external eaassets a akamaihd net mp pointman oga 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman jtf2 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman udt 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman fskhjk 512x256 png width 188
+us oga canadian jtf 2 rokn udt seal norwegian fsk hjk
+파일 external eaassets a akamaihd net mp pointman seal 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman alfa 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman grom 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman sfod 512x256 png width 188
+us navy seal ru spetsgruppa alfa polish grom us army sfod d
+파일 external eaassets a akamaihd net mp pointman ksk 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman sas 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman sasr 512x256 png width 188 파일 external eaassets a akamaihd net mp pointman sog 512x256 png width 188
+german ksk british sas australian sas r swedish sog
+sog 잠금 해제 랭크 5
+sas r 잠금 해제 랭크 11
+spetsgruppa alfa 잠금 해제 랭크 17
+fsk hjk 잠금 해제 랭크 23
+grom 잠금 해제 랭크 29
+seal 잠금 해제 랭크 35
+sas 잠금 해제 랭크 41
+ksk 잠금 해제 랭크 47
+oga 잠금 해제 랭크 53
+jtf 2 잠금 해제 랭크 58
+sfod d 잠금 해제 랭크 64
+udt seal 잠금 해제 랭크 70
+포인트맨 요원은 보행 속도도 빠르고 적에게 고출력 탄 을 발사할 수 있습니다 이 탄은 효과가 강하고 공격력도 높으며 방탄복을 가동한 데몰리션 클래스 요원도 쓰러뜨릴 수 있습니다
+주무장으로 돌격소총 보조무장으로 산탄총을 사용한다 투척무기로 섬광탄을 가지고 있고 정조준 시간이 빨라서 즉각적인 사격에 유리해 돌파에 적합하다 특수기술인 고출력 탄환을 사용하면 순간 화력을 극대화할 수 있다 다만 30발만 지급되고 반동제어가 힘들어 적절한 점사가 필요하다 ak 103과 같은 돌격소총의 고출력 탄의 최대 대미지가 30으로 알려져 있으나 그보다 0 n정도 조금 더 높다 헤드샷과 다리샷에 대한 추가 감소 퍼센트 대미지는 일반탄과 마찬가지로 적용된다 전용 주무장을 선택할 때는 자동소총인 ak 103 f88 ak5c 그리고 반자동 소총은 larue obr 5 56로 나뉜다 어썰터의 자동소총과 차이점으로는 소음기를 지원하지 않는다 2017년 3월 18일 기준 8424명의 유저가 이 병과로 10만점 이상을 획득해서 순위표에 갱신되어있다투척무기 마찬가지 자동소총
+특수 기술
+고출력 탄
+고출력 탄 고출력 탄은 방탄복을 입은 적 공격이 목적입니다 단발 사격 모드에 가장 적합하지만 사수가 반동과 총구 들림을 통제할 수 있다면 연사로 쓸 수도 있습니다 게임 내 설명
+사용시 기존 탄창을 대미지가 강력한 고출력 탄창으로 교체한다 대미지는 각 총기 스탯에 표시되어 있으며 매우 강력해진다 단점으로는 상단 반동의 증가로 인해 제어가 어려워지고 총구의 불꽃이 시야를 방해할 정도로 심해진다 적절히 끊어 쏘면 중거리 이상의 스나이퍼도 쉽게 잡을 수 있다 특수 기술 키를 누르면 다시 일반 탄창으로 교체한다 공격조 재보급을 통해 최대 1개까지 소지 가능하다
+전용 장비
+파일 external eaassets a akamaihd net f88 austeyr png
+f88 슈타이어 aug a1의 라이센스 모델
+대미지 고출력탄 대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+17 14 30 30 1 42 1 확장 탄창 6개 4개 확장 탄창 3 5 3 1 초 700rpm 30m 55m
+steyr aug의 변종인 f88은 총열 내부의 휘어짐을 변경해 무거운 nato 카트리지에 최적화했고 2단 반자동 및 완자동 방아쇠를 해제하는 잠금 기능을 제공합니다 배틀로그 내 설명
+12계급에서 sas r 포인트맨 병사와 함께 얻게 되는 불펍식 돌격소총
+수치상으로는 ak5의 완벽한 상위 호환 준수한 연사력에 확장 탄창을 통해 좀 더 오랜시간 화력을 집중할 수 있다 최저 대미지가 되는 구간이 ak 103보다 길기 때문에 중거리 전투에서 유리하다 저격 소총을 제외하고는 유일하게 기계식 조준기를 지원하지 않는다
+광학 기기
+저출력 조준기 aimpoint micro t 1 3x magnifier aimpoint compm4 3x magnifier aug 4x 조준경 trijicon ta31 ch
+저출력 이중 조준기 specterdr
+총열 조립
+cq 총열뭉치 경량 총열 경량 총열 peq 15
+표준 총열뭉치 표준 총열
+정밀 총열뭉치 헤비배럴
+총구
+표준 총구 소염기 소염기
+몸통 그룹
+표준 총몸뭉치 fsk hjk 개머리판 sasr 개머리판 sas 개머리판
+탄창 스타일
+표준 탄창 30발 5 56mm 탄창
+추가 탄창 42발 5 56mm 확장 탄창
+다른 자동소총들과 차이점으로 42발 확장 탄창을 지원한다 하지만 기계식 조준기과 근거리용 반사 조준기를 부착할 수 없다자동소총
+파일 external eaassets a akamaihd net larueobr 556 sfod d png
+larue obr 5 56
+대미지 고출력탄 대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간 고출력탄
+30 14 40 30 30 1 4개 3 3 3 3 초 300rpm 30m 50m 25m 40m
+larue는 가볍고 믿음직하며 전면 손잡이가 뜨거워지지 않고도 고속 연사가 가능합니다 레일 시스템은 다양한 광학 장치와 장비를 부착할 수 있는 넓은 공간을 제공합니다 많은 특수 부대에서 사랑받고 있습니다 게임 내에서는 전혀 사랑을 받지 못하고 있다 배틀로그 내 설명
+36계급에서 navy seal 포인트맨 병사와 함께 얻게 되는 반자동 돌격소총
+30m 이내에서 상체 4타가 가능하지만 반자동 고정이라는 치명적 단점을 가졌다 공격적인 플레이의 포인트맨 특성상 궁합이 좋지 않은 무기 고출력탄 사용 시 헤드 두 방 상체 3방 이 가능하다
+광학 기기
+조준기 백업 조준기
+반사 조준기 trijicon srs02
+저출력 조준기 trijicon ta11j trijicon ta31 ch aimpoint micro t 1 3x magnifier
+저출력 이중 조준기 trijicon 4x32ecos rmr
+총열 조립
+cq 총열뭉치 경량 총열 핸드 스톱 경량 총열 m952v m900v
+표준 총열뭉치 표준 총열 표준 총열 컨투어 카메라 윗덮개
+정밀 총열뭉치 중량 총열 중량 총열 m720v
+총구
+표준 총구 소염기
+몸통 그룹
+표준 총몸뭉치 ctr 개머리판 블랙 앤 그린 총몸 ctr 개머리판 커스텀 손잡이 magpul ctr 개머리판
+정밀 총몸뭉치 prs 개머리판 miad 손잡이 magpul ctr 개머리판 prs 개머리판 moe 손잡이
+탄창 스타일
+표준 탄창 ksk 30발 5 56mm pmag 30발 5 56mm 탄창 seal 30발 5 56mm pmag sfod 30발 5 56mm pmag
+파일 external eaassets a akamaihd net ak 103 spetznaz png
+ak 103 ak 47
+대미지 고출력탄 대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+17 14 30 30 1 5개 3 1 3 4 초 유일하게 전술장전이 더 오래걸린다 심틱의 오타일 가능성이 농후하다 833rpm 30m 40m
+ak 74의 개선사항을 도입한 현대 버전 akm인 ak 103은 7 62 39mm m43 탄을 장전하며 원목 대신 플라스틱을 이용해 성능 저하 없이 무게를 최소화했습니다 배틀로그 내 설명개선사항 플라스틱
+18계급에서 spetsgruppa alfa 포인트맨 병사와 함께 얻게 되는 돌격소총
+특수 기술 고출력 탄환 사용시 근거리 상체 4타 헤드 3타가 가능하다 이 총이 강력한 이유는 포인트맨이 사용할 수 있는 고rpm의 돌격소총이기 때문이다 uav를 날려 지속적으로 적의 위치를 파악하면서 코너나 실내 전투에서는 부무장 870샷건으로 적을 쓸어버리는 포인트맨이 높은 연사력의 돌격소총으로 전장을 휘젓고 다닐 수 있게 되었다 포인트맨의 병과 특성인 빠른 정조준 속도로 급작스런 상황에 빠른 대처가 가능하고 빠른 이동 속도로 선두로 돌격하며 치고 빠지는 게릴라전에도 능하다 높은 연사력을 지녔지만 반동 제어는 어렵지 않은 편이다
+광학 기기
+조준기 ak 조준기
+반사 조준기 trijicon rmr kobra red dot
+저출력 조준기 trijicon ta11mgo m249 acog posp 4x24 m145 m4 reticule
+저출력 이중 조준기 trijicon ta11j rmr
+총열 조립
+cq 총열뭉치 경량 총열 surefire 레일 전방 손잡이 경량 총열 m720v peq 15 경량 총열 나무 윗덮개
+표준 총열뭉치 표준 총열 surefire 레일 m720v 표준 총열 surefire 레일
+총구
+표준 총구 ak 74 소염기 보정기
+몸통 그룹
+cq 총몸뭉치 줄 감김 측면 접이식 개머리판 ak 삼각 접이식 개머리판
+표준 총몸뭉치 표준 개머리판 반동 패드 접이식 개머리판 추가 탄창 가방
+탄창 스타일
+표준 탄창 30발 7 62mm 탄창 작중에는 접이식 개머리판 탄창 백 으로 오역하였다 30발 7 62mm 베이클라이트 탄창
+다른 자동소총들과 차이점으로는 정밀 총열 총몸뭉치를 지원하지 않는다 모든 총기중 유일하게 posp 4x24 스코프를 사용 가능하다자동소총 총몸뭉치
+파일 external eaassets a akamaihd net ak5c png
+ak5
+대미지 고출력탄 대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+17 14 30 30 1 4개 3 5 3 25 초 564rpm 30m 55m
+fn fnc의 라이선스 버전인 ak 5는 스웨덴군의 겨울 작전에 어울리도록 개조되었습니다 배틀로그 내 설명
+6계급에서 sog 포인트맨 병사와 함께 얻게 되는 돌격소총
+ak 103의 실질적 하위 호환 매우 낮은 연사력에도 불구하고 반동 제어가 쉽지 않다 대미지가 낮아서 탄소모가 큰 포인트맨의 특성상 탄약이 부족한 상황이 생길 수 있는데 낮은 연사력으로 인해 총알을 아낄 수 있다
+광학 기기
+조준기 ak5c 조준기
+반사 조준기 trijicon srs02 aimpoint compcs
+저출력 조준기 trijicon ta 31f 556 m145
+저출력 이중 조준기 trijicon 4x32ecos rmr
+총열 조립
+cq 총열뭉치 ak5c 경량 총열
+표준 총열뭉치 표준 총열
+총구
+표준 총구 소염기 소염기
+몸통 그룹
+cq 총몸뭉치 ak5c 접이식 개머리판
+표준 총몸뭉치 표준 개머리판
+정밀 총몸뭉치 표준 개머리판 치크 라이저
+탄창 스타일
+표준 탄창 30발 와플 탄창 30발 5 56mm 탄창
+파일 external eaassets a akamaihd net sidearm 870 png
+870mcs
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+15 4 x12 4 1 0 0 75 초 120rpm 5 8m 7 2m
+870은 대부분의 적을 그 자리에서 죽일 정도로 강력합니다 최강의 보조무기라 할 수 있습니다 배틀로그 내 설명
+트리비아
+f88 vs ak 130 vs ak5
+비교 f88 ak 103 ak5
+연사력 700rpm 833rpm 564rpm
+탄창 42 1 30 1 30 1
+재장전 전술장전 속도 3 1 3 5 초 3 1 3 4 초 3 5 3 25 초
+특징 불펍 디자인 감성 디자인 탄약을 아끼게 됨
+스펙 옵스
+파일 external eaassets a akamaihd net mp specops oga 512x256 png width 188 파일 external eaassets a akamaihd net mp specops jtf2 512x256 png width 188 파일 external eaassets a akamaihd net mp specops udt 512x256 png width 188 파일 external eaassets a akamaihd net mp specops fskhjk 512x256 png width 188
+us oga canadian jtf 2 rokn udt seal norwegian fsk hjk
+파일 external eaassets a akamaihd net mp specops seal 512x256 png width 188 파일 external eaassets a akamaihd net mp specops alfa 512x256 png width 188 파일 external eaassets a akamaihd net mp specops grom 512x256 png width 188 파일 external eaassets a akamaihd net mp specops sfod 512x256 png width 188
+us navy seal ru spetsgruppa alfa polish grom us army sfod d
+파일 external eaassets a akamaihd net mp specops ksk 512x256 png width 188 파일 external eaassets a akamaihd net mp specops sas 512x256 png width 188 파일 external eaassets a akamaihd net mp specops sasr 512x256 png width 188 파일 external eaassets a akamaihd net mp specops sog 512x256 png width 188
+german ksk british sas australian sas r swedish sog
+jtf 2 잠금 해제 랭크 2
+oga 잠금 해제 랭크 9
+udt seal 잠금 해제 랭크 15
+sfod d 잠금 해제 랭크 21
+sog 잠금 해제 랭크28
+sas r 잠금 해제 랭크 34
+spetsgruppa alfa 잠금 해제 랭크 40
+fsk hjk 잠금 해제 랭크 46
+grom 잠금 해제 랭크 52
+seal 잠금 해제 랭크 58
+sas 잠금 해제 랭크 64
+ksk 잠금 해제 랭크 70
+스펙 옵스 요원은 장애물을 관통해 목표를 감지하는 적외선 isr 정보 감시 정찰 비전 같은 도구로 부족한 무기를 보완합니다
+주무장으로 카빈 소총과 pdw를 사용한다 특수기술로 시그널 스캔을 사용할 수 있는데 순간적으로 주변의 플레이어를 보라색 열상으로 보여준다 스킬로 순간적인 동선 파악이 가능하고 이동속도도 빨라서 기만과 근접전에 적합하다 하지만 포인트맨은 돌격소총과 동시에 샷건을 쓸 수 있지 전용 주무장을 선택할 때는 모두 고만고만한 성능을 가져서 취향에 따라 나뉜다특수기술 플레이어 포인트맨 돌격소총
+2017년 3월 18일 기준 9002명의 유저가 이 병과로 10만점 이상을 획득해서 순위표에 갱신되어있다
+특수 기술
+시그널 스캔
+시그널 스캔 시그널 스캔은 엄폐 여부에 상관없이 적의 위치를 찾아냅니다 대원들은 이 장비를 사용해 목표 지역을 기습할 수 있습니다 게임 내 설명
+사용시 1초동안 열화상 화면에 벽을 투과하여 보라색으로 적이 표시되어 동선을 파악할 수 있다 다시 사용하기 위해서는 약 25초의 재충전 시간이 필요하다
+전용 장비
+파일 external eaassets a akamaihd net hk mp7 seal png
+mp7
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+18 15 40 1 4개 3 1 2 9 초 833rpm 15m 20m
+hk g36의 축소 버전으로 제작 구조적으로는 g36의 평범하고 입증된 구조인 가스압 회전노리쇠 방식을 smg 급으로 스케일다운시킨 형태다 된 이 무기는 기관단총이나 권총 대신 사용합니다 mp7은 대부분의 방탄복을 관통하도록 특수 제작된 고속 4 6 mm 탄을 발사합니다 배틀로그 내 설명
+10계급에서 oga 스펙 옵스 병사와 함께 얻게 되는 기관단총
+스펙 옵스의 총기 중 유일하게 40발 탄창을 지원한다 다른 두 총도 지원하지만 어디까지나 버그 때문이다
+광학 기기
+조준기 mp7 조준기
+반사 조준기 소형 홀로그램 trijicon srs02 trijicon rmr aimpoint micro t 1
+총열 조립
+표준 총열뭉치 표준 총열 llm01 표준 총열 peq 15 표준 총열 m952v 라이트 표준 총열
+총구
+소음 총구 surefire 소음기
+표준 총구 소염기
+몸통 그룹
+cq 총몸뭉치 mp7 개머리판 접힌 상태
+표준 총몸뭉치 mp7 개머리판 펼친 상태
+탄창 스타일
+표준 탄창 40발 4 6mm 탄창 40발 4 6mm 탄창 테이프
+다른 자동소총들과 차이점으로는 소음기를 부착할 수 있으며 40발 탄창을 표준 탄창으로 제공한다자동소총
+파일 external eaassets a akamaihd net dd mk18 sas png
+dd mk18
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+18 15 30 1 6개 3 3 3 3 초 833rpm 15m 20m
+이 소형 무기 시스템은 극단적인 상황에 맞게 특별 제작되었습니다 dd mk18 소총은 정확성 신뢰성과 작전상의 유연성을 높여주는 다양한 기능을 가지고 있습니다 배틀로그 내 설명
+4계급에서 jtf 2 스펙 옵스 병사와 함께 얻게 되는 cqbr 돌격소총
+광학 기기
+조준기 daniel defense 조준기 magpul mbus 조준기
+반사 조준기 aimpoint micro t 1 aimpoint compm4 trijicon srs02 소형 홀로그램
+총열 조립
+cq 총열뭉치 경량 총열 vfg 경량 총열 qd vfg
+표준 총열뭉치 경량 총열 m700v 라이트 경량 총열 m952v 라이트
+총구
+소음 총구 surefire 소음기
+표준 총구 소염기 소염기
+몸통 그룹
+cq 총몸뭉치 magpul moe 개머리판 완충관 덮개
+표준 총몸뭉치 magpul ubr 개머리판 magpul ctr 개머리판
+탄창 스타일
+표준 탄창 30발 5 56mm pmag sog 30발 5 56mm pmag 30발 5 56mm 탄창
+다른 자동소총과 차이점으로는 기계식 조준기를 골라서 사용 가능하며 cq 총열 총몸뭉치를 모두 지원한다 소음기도 사용가능하다 하지만 30발 탄창만 사용 가능하다자동소총 총몸뭉치
+파일 external eaassets a akamaihd net hk g36 fsk png
+hk g36
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+18 15 30 1 6개 4 1 2 6 초 833rpm 15m 20m
+g36은 대구경 g3를 대체할 목적으로 개발되었습니다 도입 후 독일군을 비롯한 전 세계 대원들의 기본 무기가 되었습니다 g36c는 g36의 작은 버전으로 다른 hk 무기의 제작상의 이점을 모두 가지고 있어 특수 부대들이 즐겨 사용합니다 배틀로그 내 설명g36c
+34계급에서 sas r 스펙 옵스 병사와 함께 얻게 되는 단축형 돌격소총
+광학 기기
+조준기 g36 조준기
+반사 조준기 trijicon rmr aimpoint compm4 trijicon 1x42 소형 홀로그램 대형 홀로그램
+저출력 조준기 aimpoint micro t 1 3x 확대기
+총열 조립
+표준 총열뭉치 쿼드 레일 윗덮개 표준 윗덮개 테이프 쿼드 레일 llm01 표준 윗덮개
+총구
+표준 총구 소염기
+몸통 그룹
+cq 총몸뭉치 개머리판 없음
+표준 총몸뭉치 fsk hjk 개머리판 표준 개머리판
+탄창 스타일
+표준 탄창 30발 탄창 테이프 30발 탄창 탄창이 40발이 되는 버그가 존재한다
+다른 자동소총들과 차이점으로는 저출력 조준기를 지원한다 소음기를 부착할 수 없다자동소총
+파일 external eaassets a akamaihd net ak 103 bullpup grom png
+ak 103 bullpup 정식명칭은 aku 94이다 http www imfdb org wiki ak 47 aku 94정식명칭
+대미지 장탄수 소지 탄창수 재장전 전술장전 시간 연사력 대미지감소 구간
+18 15 30 1 4개 3 6 3 0 심틱 닷컴의 수치는 게임 베타 버전 기준으로 작성되어 1로 되어 있다 오타일 가능성이 높다 초 833rpm 15m 20m
+ak 103의 불펍 버전인 이 무기는 전체적인 길이를 줄이면서도 300미터 밖에서 적과 교전할 수 있는 일반적인 크기의 소총과 같은 능력을 제공하도록 제작되었습니다 배틀로그 내 설명
+40계급에서 spetsgruppa alfa 스펙 옵스 병사와 함께 얻게 되는 불펍식 돌격소총
+광학 기기
+조준기 ak 조준기
+반사 조준기 소형 홀로그램 trijicon 1x42 kobra red dot aimpoint micro t 1 trijicon rmr
+총열 조립
+cq 총열뭉치 표준 총열 vfg m952v light 경량 총열 vfg peq 15
+표준 총열뭉치 표준 총열
+총구
+표준 총구 보정기 ak 74소염기
+몸통 그룹
+표준 총몸뭉치 불펍 개머리판 불펍 개머리판 슬링 스트랩
+탄창 스타일
+표준 탄창 30발 7 62mm 베이클라이트 탄창 탄창이 40발이 되는 버그가 존재한다 30발 7 62mm 탄창
+다른 자동소총과 차이점으로는 소음기 부착이 불가능하다 버그로 인해 40발 탄창을 사용할 수 있다자동소총
+파일 external eaassets a akamaihd net sidearm g23 png
+g23
+대미지 장탄수 재장전 전술장전 시간 연사력 대미지감소 구간
+33 4 18 0 13 1 2 5 2 5 초 300rpm 8m 14m
+g19의 40구경 버전으로 개조된 부품 때문에 약간 더 무겁습니다 표준 탄창은 13발을 장전합니다 배틀로그 내 설명
+트리비아
+비교 mp7 dd mk18 hk g36 ak 103 bullpup
+탄창 40 1 30 1 30 1 30 1
+재장전 전술장전 속도 3 1 2 9 초 3 3 3 3 초 4 1 2 6 초 3 6 초
+cq 총열 총몸뭉치 총몸 지원 모두 지원 총몸 지원 총열 지원
+소음기 지원 지원 미지원 미지원
+상대적 특징 40발 탄창 민첩성 특화 개조 가능 저출력 조준기 지원 불펍 디자인
+수류탄 투척 장비
+파일 external eaassets a akamaihd net grenade m67 frag png
+m67 grenade
+사용 가능 병과 소지 가능 개수
+어썰터 스펙 옵스 2개
+제2차 세계 대전 도중 개발된 파인애플 수류탄의 3번째 버전인 이 파쇄 수류탄은 위험 반경이 15미터 45피트 이고 사살 반경은 5미터 15미터 입니다 신병들의 타고난 투척 능력을 이용할 수 있도록 야구공처럼 제작되어 쉽게 훈련하고 적용할 수 있습니다 배틀로그 내 설명
+투척키를 오랫동안 누르고 있으면 스스로 폭발한다 스펙 옵스의 경우 시그널 스캔으로 근처 적의 움직임을 파악하고 동선에 맞춰 수류탄을 미리 투척하는 공격법이 있다
+파일 external eaassets a akamaihd net grenade v40 png
+v40 mini grenades
+사용 가능 병과 소지 가능 개수
+헤비 거너 2개
+3개 단위로 배치되는 소형 수류탄은 포화 지역이나 다수의 적과 교전할 때 가장 이상적입니다 배틀로그 내 설명
+작은 수류탄 3개를 뭉텅이로 던져 비교적 넓은 범위를 무력화 시키는 광역기 수류탄 수류탄이 넓게 퍼지기도 하고 각각의 폭발력은 낮기 때문에 데몰리션에게는 상대적으로 약한 모습을 보인다 다른 병과들은 얄짤없이 끔살데몰리션
+파일 external eaassets a akamaihd net grenade flashbang png
+flashbang
+사용 가능 병과 소지 가능 개수
+포인트맨 2개
+섬광 수류탄은 적 병사의 방향 감각을 잃게 하고 공격 부대가 파쇄 수류탄으로 인한 부수적 피해를 입지 않게 합니다 배틀로그 내 설명
+강력한 섬광과 폭음을 내뿜어 일시적으로 상대의 시각과 청각 모니터와 스피커 을 마비시키고 또 무력 상태가 되게 하는 무기 제대로 맞을 경우 화면 ui까지 일시적으로 안보인다 정말 운이 없다면 체력이 얼마 없을 때 플래시뱅에 대미지를 입고 죽을 수도 있다 적이 숨어 있을 법한 곳에 던져보고 그곳에 적이 있을 경우 플래시뱅에 대해 외치는 소리가 들린다 실내 같은 좁은 공간에서 약간의 파훼법으로는 포인트맨은 섬광탄을 던진 뒤 샷건을 들고 돌진해오므로 최대한 적이 들어오는 입구에서 멀리 도망가거나 아니면 입구를 향해 총질을 하자포인트맨 돌진해오므
+주로 적을 무력화 시킬 때 적이 있나 확인해 볼 때 pdm 86 지뢰를 제거할 때 아군에게 트롤링 등에 사용된다
+파일 external eaassets a akamaihd net grenade proxymine png
+pdm 86
+사용 가능 병과 소지 가능 개수
+스나이퍼 2개
+설치하면 대단히 효과적인 대인지뢰가 되는 m86은 다수의 인계철선을 방출해 단일 장치보다 훨씬 더 강력한 접근 및 이동 저지 효과를 발휘합니다 하지만 수명이 제한돼 있고 미리 설정한 시간이 지나면 자동으로 폭파합니다 배틀로그 내 설명인계철선
+투척키를 오랫동안 누르고 있을수록 멀리 던진다 죽어도 이전에 설치한 것은 남아 있으며 설치 갯수가 2개를 초과할 경우 먼저 설치한 순서대로 사라진다 또한 설치한지 2 3분이 지나면 자동으로 사라진다 적팀 어썰터와 스나이퍼 헤비 거너는 살짝 건드리기만해도 얄짤없이 죽는다 포인트맨과 스펙 옵스는 제대로만 안 밟으고 전력 질주로 피하면 살 수 있다 데몰리션은 정통으로 밟지 않는 이상 안죽는다 앗 동료가 밟으면 위험하겠어 내가 밟아야겠군 설치하는 공간도 어느정도 정해져 있고 계단 좁은 골목 코너 건물 출입구에서는 살펴보고 들어가자 따로 스팟하지 않아도 근처에 다가가면 미니맵에 표시된다 크기는 작지만 인계철선 때문에 눈에 잘띈다 제거 방법으로는 지뢰 본체를 총으로 쏘기 근처 폭발물의 폭발 인계철선에 다른 물체의 간섭 스펙 옵스의 재머 교란기 직접 밟기 등이 있다포인트맨 데몰리션
+파일 external eaassets a akamaihd net grenade remotecharge png
+remote charge 원격충전
+사용 가능 병과 소지 가능 개수
+데몰리션 1개
+강력한 폭발물로 휴대 기기 중 가장 강력한 폭발력을 제공합니다 방아쇠를 한 번 누르면 장비를 던지고 한 번 더 누르면 폭파합니다
+던져두고 원할 때 폭발시킬 수 있는 원격 조종 폭탄 투척키를 오랫동안 누르고 있을수록 멀리 던진다 죽어도 이전에 설치한 것은 남아 있지만 원격으로 폭발시킬 수 없다 설치 갯수가 1개를 초과할 경우 이전에 설치한 원격 조종 폭탄은 사라진다 폭발력과 반경은 상당하다 폭탄을 투척하기 전에 옆면을 자세히 보면 문구가 적혀있는데 get well soon 번역하자면 쾌유를 빌어요 가 적혀있다 너는 이미 죽어 있다 제거 방법으로는 지뢰 본체를 총으로 쏘기 근처 폭발물의 폭발 스펙 옵스의 재머 교란기 등이 있다 총으로 쏴서 제거할 때는 앞서 말했듯이 폭발력과 반경이 상당하기 때문에 안전 거리가 확보되지 않는다면 그냥 무시하고 지나가자
+근접 병기
+파일 external eaassets a akamaihd net tomahawk png
+토마호크 tomahawk
+적에게 모욕감을 주는 궁극의 무기 배틀로그 내 설명
+적의 측면이나 후면 가까이서 백병전을 시도할 경우 근접공격 애니메이션으로 이어진다 그 외에 백병전을 시도할 경우 토마호크를 휘두르며 히트 시 80의 대미지를 준다 토마호크로 적을 사살할 시 굴욕 100 점수를 추가로 받을 수 있다토마호크 토마호크

@@ -1,0 +1,21 @@
+5 tablewidth 100 bgcolor ffffff jr 히가시니혼 3ea343 jr 히가시니혼 3ea343 의 일반철도
+5 도호쿠 본선 000000 도호쿠 본선
+width 30 도쿄역 gray 도쿄 gray 방면 br 니혼마츠역 000000 니혼마츠 width 5 1 br 4 2 km width 30 000000 아다치 width 5 1 br 5 0 km width 30 모리오카역 gray 모리오카 gray 방면 br 마츠카와역 000000 마츠카와
+5 bgcolor 3ea343 jr 히가시니혼 ffffff jr 히가시니혼
+5 bgcolor 3cb371 도호쿠 본선 ffffff 도호쿠 본선
+width 30 신시라카와역 gray 신시라카와 gray 방면 br 니혼마츠역 000000 니혼마츠 width 5 1 br 4 2 km width 30 000000 아다치 width 5 1 br 5 0 km width 30 센다이역 미야기현 gray 센다이 gray 방면 br 마츠카와역 000000 마츠카와신시라카
+1 adachi station
+일본 철도 정보 역 관련 정보
+tablealign right bgcolor 3ea343 jr 히가시니혼 ffffff jr 히가시니혼 br 2 ffffff br ffffff
+include 틀 지도 장소 너비 100 높이 300px
+bgcolor c0c0c0 역정보
+영어표기 adachi
+한글표기 아다치
+width 80px 소재지 후쿠시마 현 니혼마츠시 유이 후루야시키 5 br 5
+개업일 1917년 7월 11일
+파일 external upload wikimedia org 640px e5 ae 89 e9 81 94 e9 a7 85 ef bc 882008 e5 b9 b48 e6 9c 887 e6 97 a5 ef bc 89 jpg
+일본 후쿠시마 현 니혼마츠 시에 있는 jr 히가시니혼 도호쿠 본선 의 역이다 섬식 승강장의 지상역으로 역사와 홈은 과선교로 연결되어 있다 니혼마츠역 이 관리하는 업무위탁역으로 도호쿠 종합서비스에서 역무를 맡고 있으며 구내에 자동발권기 자동판매기 등이 마련되어 있다
+역 주변은 대부분 논밭이며 아다치 우편국 베이시아 슈퍼센터 tsutata 코메리파워 등이 있다
+각주
+분류 일본의 철도역
+분류 도호쿠 본선

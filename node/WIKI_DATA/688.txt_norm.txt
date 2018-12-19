@@ -1,0 +1,51 @@
+상위 문서 전함소녀 전함소녀 미국
+table width 480px table align center 999 bgcolor blue white 전함소녀의 함선 목록
+width 30 bgcolor c0c0ff no 306 br 바플뢰르 전함소녀 바플뢰르 width 5 bgcolor f0f0f0 width 30 bgcolor ffc0a0 no 307 br 베스탈 전함소녀 베스탈 width 5 bgcolor f0f0f0 width 30 bgcolor c0c0ff no 308 br 고틀란트 전함소녀 고틀란트
+include 틀 전함소녀 미국 보급함
+table align center bgcolor f0f0f0 2 일러스트
+width 50 bgcolor ffffff 파일 vestal png width 100 width 50 bgcolor ffffff 파일 vestal d png width 100
+bgcolor f0f0f0 기본 bgcolor f0f0f0 중파
+table align center bgcolor f0f0f0 2 sd 일러스트
+width 50 bgcolor ffffff 파일 vestal c png width 100 width 50 bgcolor ffffff 파일 vestal cd png width 100
+bgcolor f0f0f0 기본 bgcolor f0f0f0 중파
+uss vestal ar 4
+목차
+소개
+미국의 수리함 베스탈을 모티브로 한 함선소녀 게임 내에선 보급함 함종에 들어가 있다
+2016년 중국서버의 서비스 2주년 기념 이벤트 최종보상으로 나왔지만 이벤트의 미칠듯한 난이도와 달리 성능이 영 좋지 못하다 보니 애초에 전투용 함선이 아니었다보니 포격이 약하고 보급함종으로 분류되어 주간포격전에만 참가 가능한데다 장착할 수 있는 장비는 기껏해야 터빈이나 개그성 장비 뿐이다 그나마 함체가 구축함급으로 컸기에 장비슬롯이 3개이고 항속도 20노트를 넘는다는 점에서 초계정인 수크바타르 전함소녀 수크바티르 나 오딘 전함소녀 오딘 보다는 양호한 성능이랄 수 있다 얻고 방치하는 장식용으로 전락하였다 실제 역사에서는 사우스 다코타 새러토가 엔터프라이즈 등 수많은 손상을 입은 미국 함선들을 수리해 전선에 복귀시켰던 영웅이자 명의였던 함선이었는데 베스탈의 명성을 너무 낭비한 감이 있다 그리고 1년 후 일본 서버 1주년 기념이벤트에서 역시나 스킬이 구현되지 않은 상태로 스테이지 보상으로 지급되었다 결국 2017년 12월이 되어서야 매 전투마다 가장 큰 피해를 입은 아군을 수리해주는 스킬을 부여받았고 실용적인 스킬은 아니지만 보급함을 편성하는 게 일종의 야리코미 인 상황에서 베스탈의 명성과 게임속 캐릭터성에 걸맞는 스킬이 생기기라도 했다는 점에서 의미가 있다 더 나아가 해역에서 전투를 치르고 있는 함선이 hp를 조금이나마 수복하는 기능이 구현됨으로써 요크타운 전함소녀 요크타운 과 같이 응급수리로 전적을 세웠던 함선들이 해당 일화와 관련된 스킬을 부여받을 수 있다는 기술적 가능성이 확보되었다 성탄절에 즈음해서 중국서버와 일본서버 양쪽 모두 건조로 입수 가능하게 되었다 본래 양국 모두에서 12월 22일부로 건조가 개방될 예정이라고 공지되었으나 중국 서버의 클라이언트 업데이트가 12월 23일부로 확정되면서 일본 서버보다 하루 늦게 풀리게 되었다20노트 응급수리 중국서버 22일부 23일부
+1942년까지 베스탈의 함장이 캐신 영이었다 즉 구축함 캐신 영 전함소녀 캐신 영 이 이름을 따온 대상 하지만 그 연관성이 딱히 대사에 반영된 것 같지는 않다
+여담으로 로리거유 작달막한 체격이면서도 글래머 체형 이고 중파 자세가 요상야릇한것이 섹드립 장난 의 대상이 되기도 했다 jise의 그림솜씨야말로 베스탈의 구린 성능과 장기간의 스킬 부재에도 불구하고 불만을 잠재운 베스탈의 존재 이유였던 셈이다그림솜씨야말
+이름의 유래가 헤스티아 이다보니 던전에서 만남을 추구하면 안 되는 걸까 의 헤스티아 던만추 던만추 복장을 한 팬아트가 그려지기도 했다 마침 둘 다 로리거유이기도 하고 saru가 그린 3주년 축전 일러스트 겸 로그인 화면 일러스트에서 악당 같은 모습으로 그려진 베스탈 역시 가슴팍에 vestal 이 아니라 hestia 라고 적혀 있고 가슴 밑에 끈을 받치고 있는 모습으로 던만추 헤스티아를 오마쥬 했다헤스티아
+성능
+초기
+table width 400px bgcolor blue 999 white 베스탈
+width 4 bgcolor f90 v 6 br br br br width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 width 26 bgcolor c0c0ff 40 width 22 bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 width 26 bgcolor c0c0ff 8 28
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 bgcolor c0c0ff 0 bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 bgcolor c0c0ff 7 22
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 bgcolor c0c0ff 0 bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운 bgcolor c0c0ff 25
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 bgcolor c0c0ff 21 71 bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 bgcolor c0c0ff 15 45
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 bgcolor c0c0ff 단 bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 bgcolor c0c0ff 6 16
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 bgcolor c0c0ff 0 bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 bgcolor c0c0ff 16
+table width 400px bgcolor 9090ff 스킬 없음
+bgcolor c0c0ff n a
+table width 400px bgcolor 90ff90 연비
+rowbgcolor c0ffc0 width 25 연료 width 75 40
+rowbgcolor c0ffc0 탄약 20
+table width 400px bgcolor e0e0e0 2 추가 능력치
+bgcolor f0f0f0 2 분해 시 자원
+bgcolor ffffff 2 2 2 2 0
+bgcolor f0f0f0 2 강화 수치
+bgcolor ffffff 2 4 0 4 4
+bgcolor f0f0f0 2 개조
+bgcolor f7f7f7 width 25 레벨 width 75 bgcolor ffffff n a
+bgcolor f7f7f7 자원 bgcolor ffffff n a
+bgcolor f7f7f7 코어 bgcolor ffffff n a
+bgcolor f0f0f0 2 장비
+bgcolor ffffff 2 u country 5in gun
+bgcolor ffffff 2 없음
+bgcolor ffffff 2 없음
+bgcolor ffffff 2 장비 불가
+bgcolor f0f0f0 2 건조 시간
+bgcolor ffffff 2 n a
+bgcolor f0f0f0 2 획득 방법
+bgcolor ffffff 2 2주년 이벤트 보상
+분류 전함소녀 함선

@@ -1,0 +1,25 @@
+5 tablewidth 100 cc1144 게이큐 전철 ffffff 게이큐 전철
+5 00bfff 게이큐 본선 ffffff 게이큐 본선 br ffffff 호리노우치역 ffffff 쿠리하마선 직통 센가쿠지역 ffffff 아사쿠사선 경유 케이세이 본선 호쿠소선 스카이엑세스선 직통
+5 e85298
+width 30 시나가와역 gray 시나가와 gray 방면 br 헤미역 000000 헤 미 000000 kk 57 width 5 1 br 1 1 km width 30 000000 시오이리 br 000000 kk 58 width 5 1 br 0 7 km width 30 우라가역 gray 우라가 gray 방면 br 요코스카츄오역 000000 요코스카츄오 000000 kk 59
+1 shioiri station
+일본 철도 정보 역 관련 정보
+tablealign right cc1144 게이큐 전철 ffffff 게이큐 전철 br 2 ffffff br ffffff
+include 틀 지도 장소 너비 100 높이 300px
+c0c0c0 역정보
+영어표기 shioiri
+한글표기 시오이리
+역번호 00bfff ffffff kk 58 게이큐 본선 ffffff 게이큐 본선
+width 80px 소재지 가나가와 현 요코스카 시 시오이리쵸2초메 41 br 41
+개업일 1930년 4월 1일
+파일 external upload wikimedia org 600px keikyu shioiri station platform jpg
+일본 가나가와 현 요코스카 시에 위치한 게이큐 전철 게이큐 본선 본선 의 역이다 상대식 승강장의 지상역으로 역 대부분이 성토상에 있으며 우라가 방면은 터널에 접한다 개찰구는 1곳 있다
+요코스카시 중심시가지 서쪽에 해당하며 주변에는 오래된 상점가가 늘어서 있다 주요 시설로는 쇼퍼즈 플라자 요코스카 요코스카 예술극장 멜큐르 호텔 요코스카 등이 있으며 주일미군 요코스카 기지 베이스 및 해상자위대 요코스카 기지 등이 있다 서쪽 400m 거리에 요코스카선 요코스카역 이 있다
+완급결합
+e8334a ffffff 특 급
+width 100px 옷파마역 옷파마 1 width 100px 시오이리 1 width 100px 요코스카츄오역 요코스카츄오
+808080 ffffff 보 통
+width 100px 헤미역 헤 미 1 width 100px 시오이리 1 width 100px 요코스카츄오역 요코스카츄오
+각주
+분류 일본의 철도역
+분류 게이큐 본선

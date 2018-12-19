@@ -1,0 +1,33 @@
+5 tablewidth 100 bgcolor e6002d 아키타내륙종관철도 ffffff 아키타내륙종관철도
+5 bgcolor 0b7200 아키타 내륙선 ffffff 아키타 내륙선
+width 28 타카노스역 gray 타카노스 gray 방면 br 타카노스역 000000 타카노스 width 8 1 br 1 3 km width 28 000000 니시타카노스 width 8 1 br 2 4 km width 28 카쿠노다테역 gray 카쿠노다테 gray 방면 br 오가타역 아키타현 000000 오가타
+1 nishi takanosu station
+일본 철도 정보 역 관련 정보 아키타현
+tablealign right bgcolor e6002d 아키타내륙종관철도 ffffff 아키타내륙종관철도 br 2 ffffff br ffffff
+include 틀 지도 장소 너비 100 높이 300px
+bgcolor c0c0c0 역정보
+영어표기 nishi takanosu
+한글표기 니시타카노스
+width 80px 소재지 아키타 현 키타아키타시 타카노스 히가시나카타이 br
+개업일 1989년 4월 1일
+파일 external facility homemate navi com 46000000000000001126 0000002096 5 jpg width 640
+http www homemate research station com dtl 46000000000000001126 출처
+목차
+개요
+일본 아키타 현 키타아키타시에 위치한 아키타내륙종관철도 아키타 내륙선 의 역으로 무인역이다 역사는 없으며 승강장 위에 대합실이 있다
+역은 이름 그대로 키타아키타 시내 서쪽 타카노스 끝에 위치하며 주변에는 시민 수영장 키타아키타 경찰서 키타아키타시 소방본부 시립 타카노스 소학교 등이 있다
+승강장
+단선식 승강장을 갖춘 지상역이다
+2 타카노스역 타카노스
+width 10px ㅣ width 10px bgcolor 0b7200 ffffff
+2 오가타역 아키타현 오가타
+bgcolor 0b7200 2 ffffff 2 0b7200 아키타 내륙선 상행 타카노스역 타카노스 방면
+하행 아이카와역 아키타현 아이카와 아니마에다역 아니마에다 아니아이역 아니아이 히타치나이역 히타치나이 카미히노키나이역 카미히노키나이 마츠바역 마츠바 카쿠노다테역 카쿠노다테 방면
+완급 결합
+bgcolor 303192 ffffff 쾌 속
+width 170px 타카노스역 타카노스 방면 br 타카노스역 타카노스 1 width 170px 니시타카노스 1 width 170px 카쿠노다테역 카쿠노다테 방면 br 오가타역 아키타현 오가타
+bgcolor 808080 ffffff 보 통
+width 170px 타카노스역 타카노스 방면 br 타카노스역 타카노스 1 width 170px 니시타카노스 1 width 170px 카쿠노다테역 카쿠노다테 방면 br 오가타역 아키타현 오가타
+각주
+분류 일본의 철도역
+분류 아키타 내륙선

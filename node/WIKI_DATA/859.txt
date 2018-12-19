@@ -1,0 +1,4 @@
+||<-6><tablealign=center><#555555><tablebordercolor=#555555> '''[[Free Fire|{{{#white Free Fire}}}]]''' ||
+|| [[Free Fire/아이템|아이템]] || [[Free Fire/무기|무기]] || [[Free Fire/전략 및 팁|전략 및 팁]] || [[Free Fire/지도|지도]] || [[Free Fire/탈것|탈것]] || [[Free Fire/캐릭터|캐릭터]] ||
+
+[[분류:둘러보기 틀/게임]] [[분류:Free Fire]]

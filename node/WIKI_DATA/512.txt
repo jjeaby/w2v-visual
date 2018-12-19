@@ -1,0 +1,324 @@
+* 상위 문서: [[마피아42]]
+
+[목차]
+== 개요 ==
+일종의 도전과제 시스템이며, 특정한 미션을 수행하면 주어지는 것으로 프로필 사진을 대체한다. 같이 써있는 명언 때문에 모으는 사람도 상당히 많다. 색깔이 [[http://steamcommunity.com/stats/TF2/achievements|여기서]] 따온 듯 하다.
+
+얻기 어려운 컬렉션의 경우 [[마피아42#s-9.4|컬작방]]에서 얻는 방법이 있다. 
+
+11월 25일자 시즌 4 업데이트로, 현재 컬렉션 획득시 보상을 얻을 수 있다. 
+
+[[자음의숲42]]와 컬렉션이 공유된다. 따라서 [[자음의숲42]] 컬렉션도 마피아로 띄울 수 있다.
+
+도둑은 훔친 직업의 컬렉션을 얻을 수 있다.[* 예를 들어, 기자 직업을 훔친 뒤, 특종 능력을 발동시키지 못하고 죽으면 언론탄압 컬렉션을 얻을 수 있다.] [* 오류인지 모르지만 비폭력투쟁을 비롯한 컬랙션들이 얻지 못하는 경우가 있다. 확인 후 수정바람.]
+== 컬렉션 ==
+ 인게임 컬렉션(직업별 컬렉션 중 마피아팀 컬렉션과 시민팀 컬렉션) 게임 시스템을 통한 컬렉션, 이벤트를 통한 컬렉션, 카페 컬렉션 으로 나눌 수 있다.
+
+ 다음은, 컬렉션을 순서대로 배치한 표이다.
+
+||<table align=center> [[파일:external/s32.postimg.org/reward_mafia_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_police_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_doctor_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_spy_01.png|width=75&align=center]] ||
+||<:> 재앙의 시작 ||<:> 정의 구현 ||<:> 생명의 소중함 ||<:> 악의 결합 ||
+||<:> [[파일:external/s32.postimg.org/reward_psychic_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_politician_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_soilder_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_lover_01.png|width=75&align=center]] ||
+||<:> 영혼 달래기 ||<:> 카리스마 ||<:> 전투태세 ||<:> 마지막 선물 ||
+||<:> [[파일:external/s32.postimg.org/reward_facebook_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_lover_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_mafia_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_spy_02.png|width=75&align=center]] ||
+||<:> 페이스북 ||<:> 사랑의 힘 ||<:> 막다른 길 ||<:> 프로모션 ||
+||<:> [[파일:external/s32.postimg.org/reward_soldier_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_instigation.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_vote.png|width=75&align=center]]||<:> [[파일:external/s32.postimg.org/reward_prelonged_02.png|width=75&align=center]] ||
+||<:> 순국선열 ||<:> 선동의 희생양 ||<:> 인기왕 ||<:> 백년전쟁 ||
+||<:> [[파일:external/s32.postimg.org/reward_gangster.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_reporter.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_happyending_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_beginners_luck_02.png|width=75&align=center]] ||
+||<:> 과격한 설득 ||<:> 호외발행 ||<:> 해피엔딩 ||<:> 초심자의 행운 ||
+||<:> [[파일:external/s32.postimg.org/reward_gods_medicine_02.png|width=75&align=center]] ||<:> [[파일:external/s31.postimg.org/collection_nonviolence_struggle_92.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_ob.png|width=75&align=center]][br][* 시즌2 가입 유저부터는 다음과 같은 컬렉션을 받을 수 있다. [[파일:external/s32.postimg.org/collection_old_ob.png|width=50&align=center]] ][* 시즌1 가입 유저부터는 다음과 같은 컬렉션을 받을 수 있다. [[파일:external/s17.postimg.org/collection_older_ob.png|width=50&align=center]] ][* 베타시즌 가입 유저부터는 다음과 같은 컬렉션을 받을 수 있다. [[파일:external/s11.postimg.org/collection_ob4.jpg|width=50&align=center]] ] ||<:> [[파일:external/s31.postimg.org/capitalism_03.png|width=75&align=center]] ||
+||<:> 의술의 신 ||<:> 비폭력 투쟁 ||<:> OB[* 시즌2 가입 유저부터는 낡은 OB을, 시즌1 가입 유저부터는 오래된 유물을, 베타시즌 가입 유저부터는 노익장을 받았다. ] ||<:> 자본주의  ||
+||<:> [[파일:external/s32.postimg.org/reward_suppression_of_the_press_02.png|width=75&align=center]] ||<:> [[파일:external/s31.postimg.org/reward_coup_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_noblesse_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_wide_foot_01.png|width=75&align=center]] ||
+||<:> 언론탄압 ||<:> 쿠데타 ||<:> 노블레스 ||<:> 마당발 ||
+||<:> [[파일:external/s32.postimg.org/reward_millennium_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_goldrank5500_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_silent_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_02.png|width=75&align=center]] ||
+||<:> 밀레니엄 ||<:> 황금기 ||<:> 묵언수행 ||<:> 간첩 말살 ||
+||<:> [[파일:external/s32.postimg.org/reward_army_doctor_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_beastman_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_cafe_activity_03.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_grumble_02.png|width=75&align=center]] ||
+||<:> 군의관 ||<:> 피의 복종 ||<:> 우리들의 카페 ||<:> 넋두리 ||
+||<:> [[파일:external/s32.postimg.org/reward_scandal_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_special_thanks_to_03.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_42_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_beastman_02.png|width=75&align=center]] ||
+||<:> 스캔들 ||<:> 특별공로상 ||<:> 42의 비밀 ||<:> 포식자 ||
+||<:> [[파일:external/s32.postimg.org/reward_tutorial_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_detective_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_an_evil_omen_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_event.png|width=75&align=center]] ||
+||<:> 튜토리얼 ||<:> 범죄 수사 ||<:> 불길한 징조 ||<:> 한가위 ||
+||<:> [[파일:external/s32.postimg.org/reward_democracy_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_guild_master_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_last_hero_02.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_millionaire_01.png|width=75&align=center]] ||
+||<:> 민주주의 ||<:> 우두머리 ||<:> 라스트 히어로 ||<:> 재벌 ||
+||<:> [[파일:external/s32.postimg.org/collection_falsestart_03.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_ghoul_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_opportunism_02.png|width=75&align=center]] ||<:> [[파일:external/s31.postimg.org/iphone_collection.png|width=75&align=center]] ||
+||<:> 부정출발 ||<:> 공수래공수거 ||<:> 기회주의 ||<:> 아이폰 ||
+||<:> [[파일:external/s31.postimg.org/android_collection.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/button_collection.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_last_argument_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/reward_market_01.png|width=75&align=center]] ||
+||<:> 안드로이드 ||<:> 진짜 주네?! ||<:> 대자보 ||<:> 거상 ||
+||<:> [[파일:external/s31.postimg.org/artist_collection.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_ja.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_terrorist_01.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_sacrifice_02.png|width=75&align=center]] ||
+||<:> 예술가 ||<:> 자음퀴즈 ||<:> 복수의 화신 ||<:> 희생 ||
+||<:> [[파일:external/s32.postimg.org/collection_summer_event.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_halloween.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_temptation.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_obsession.png|width=75&align=center]] ||
+||<:> 물총 전사 ||<:> 할로윈 ||<:> 미인계 ||<:> 집착 ||
+||<:> [[파일:external/s32.postimg.org/collection_shadow_government.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_blacksmith.jpg|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_bounty_hunter.jpg|width=75&align=center]] ||<:> [[파일:external/s31.postimg.org/collection_20.jpg|width=75&align=center]] ||
+||<:> 음모론 ||<:> 대장장이 ||<:> 현상금 사냥꾼 ||<:> 약관 ||
+||<:> [[파일:external/s32.postimg.org/collection_trial.jpg|width=75&align=center]] ||<:> [[파일:external/s16.postimg.org/collection_atlas_1.png|width=75&align=center]] ||<:> [[파일:external/s31.postimg.org/collection_femmefatale.png|width=75&align=center]] ||<:> [[파일:external/s32.postimg.org/collection_rich_overnight.jpg|width=75&align=center]]  ||
+||<:> 명판결 ||<:> 사건 해결 도감 ||<:> 팜므 파탈 ||<:> 일확천금 ||
+||<:> [[파일:external/s31.postimg.org/collection_grudge_of_the_dead.png|width=75&align=center]] ||<:>[[파일:external/s31.postimg.org/collection_couple.png|width=75&align=center]] ||<:> [[파일:external/s11.postimg.org/collection_homepage.png|width=75&align=center]] ||<:> [[파일:external/s31.postimg.org/collection_ghoul_no_job.png|width=75&align=center]] ||
+||<:> 망자의 원혼 ||<:> 사랑 ||<:> 홈페이지 ||<:> 파괴된 유산 ||
+||<:> [[파일:external/s10.postimg.org/collection_artisan.png|width=75&align=center]] ||<:> [[파일:external/s11.postimg.org/collection_waiting_woman.jpg|width=75&align=center]] ||<:> [[파일:external/s18.postimg.org/collection_voter.jpg|width=75&align=center]] ||<:> [[파일:external/s17.postimg.org/collection_assistant.jpg|width=75&align=center]] ||
+||<:> 장인 ||<:> 망부석 ||<:> 유권자 ||<:> 조력자 ||
+||<:> [[파일:external/s17.postimg.org/collection_namemaker.jpg|width=75&align=center]] ||<:> [[파일:external/s21.postimg.org/collection_ghost_hunter.jpg|width=75&align=center]] ||<:> [[파일:external/s11.postimg.org/collection_resurrection.jpg|width=75&align=center]] ||<:> [[파일:external/s11.postimg.org/collection_corruption.jpg|width=75&align=center]] ||
+||<:> 성명학자 ||<:> 유령 사냥꾼 ||<:> 기적 ||<:> 타락 ||
+||<:> [[파일:external/s11.postimg.org/collection_repentance.jpg|width=75&align=center]] ||<:> [[파일:external/s30.postimg.org/collection_christmas.png|width=75&align=center]] ||<:> [[파일:external/s30.postimg.org/collection_mentor.png|width=75&align=center]] ||<:> [[파일:collection_summer_event_king.png|width=75&align=center]]||
+||<:> 회개 ||<:> 크리스마스 ||<:> 스승 ||<:> 물총왕 ||
+||<:> [[파일:reward_cult_01.png|width=75&align=center]] ||<:>[[파일:collection_second_coming.png|width=75&align=center]]||<:>[[파일:collection_golden_wedding.png|width=75&align=center]]||<:>[[파일:externalFile/love_patrick.png|width=75&align=center]]||
+||<:> 사이비||<:> 재림||<:>금혼식||<:>최강의 패||
+||<:>[[파일:collection_chuseok_tiger.png|width=75&align=center]]||<:> [[파일:HGMN.png|width=75&align=center]]||<:>[[파일:20180313_211838.png|width=75&align=center]]||<:>[[추가바람]]||
+||<:>호랑이의 보은||<:>헤게모니||<:>소매치기||<:>도전자||
+||<:>[[파일:externalFile-9.jpg|width=75&align=center]]||<:>[[파일:20180313_211816.png|width=75&align=center]]||
+||<:>최종병기||<:>악어의 눈물||
+=== 인게임 컬렉션 ===
+게임을 해서 얻을 수 있는 컬렉션을 소개한다. 이 컬렉션들은 8인 이상 방에서만 얻을 수 있으며, 비번 방은 제외한다.
+==== 공동 컬렉션 ====
+팀 상관없이 모든 직업이 획득할 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> 초심자의 행운  ||<:> [[파일:external/s32.postimg.org/collection_beginners_luck_02.png|width=75&align=center]] ||<:> 행운은 마음의 준비가 있는 사람에게만 미소를 짓는다. [br][br] '''[[루이 파스퇴르]]''' ||<:> 첫날 무투후 기자 취재된 마피아를 바로 다음 투표로 죽이기 ||<:> 루블 1000개 ||
+||<:> 묵언수행  ||<:> [[파일:external/s32.postimg.org/reward_silent_02.png|width=75&align=center]] ||<:> 웅변은 은이요, 침묵은 금이다. [br][br] '''[[아리스토텔레스]]''' ||<:>본인의 직업을 사용하며 말하지 않고 승리 ||<:> 루블 1000개 ||
+||<:> 인기왕 ||<:> [[파일:external/s32.postimg.org/reward_vote.png|width=75&align=center]] ||<:> 모든 사람이 그를 미워하더라도 반드시 살펴야 한다. [br][br] '''[[공자]]''' ||<:>살아있는 모든 플레이어가 [br] 전부 같은 대상에게 투표후 찬성[* A 플레이어에서 H 플레이어가 있을 시, 투표시간에 A 플레이어를 제외한 나머지 모든 플레이어가 A 플레이어를 투표해도 A 플레이어는 해당 컬렉션을 얻게 된다.] ||<:> 밀서 3개 ||
+||<:> [[백년전쟁]] ||<:> [[파일:external/s32.postimg.org/reward_prelonged_02.png|width=75&align=center]] ||<:> 장기적으로 보면, 우리는 모두 죽는다. [br][br] '''[[존 메이너드 케인스]]''' ||<:> 7번째 밤까지 게임 진행 ||<:> 루블 1000개 ||
+||<:> 진짜 주네?! ||<:> [[파일:external/s32.postimg.org/button_collection.png|width=75&align=center]] ||<:> 당신이 진정으로 믿는 일은 반드시 이루어진다. [br] 그 믿음이 그것을 실현시킨다. [br][br] '''조지 괴텔스''' ||<:> 최후의 반론 시간에, [br] 플러스키 연타 ||<:> 루나 5개 ||
+
+==== 마피아팀 컬렉션 ====
+마피아팀으로 얻을 수 있는 컬렉션을 소개한다.
+===== 마피아 =====
+마피아를 배정받았을 시, 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> 재앙의 시작 ||<:> [[파일:external/s32.postimg.org/reward_mafia_01.png|width=75&align=center]] ||<:> 세상은 공공연한 범죄가 넘치는 곳 [br] 살인과 악행으로 가득 찬 곳이 아닌가! [br][br] '''토마스 키드''' ||<:> 마피아로 다른 플레이어 처형[* 마피아일 때 한 플레이어를 살해하는 마피아 능력 ] ||<:> 루블 250개 ||
+||<:>막다른 길 ||<:> [[파일:external/s32.postimg.org/reward_mafia_02.png|width=75&align=center]] ||<:> 지난 12년 동안 민족에게 봉사하면서 [br] 내 일상의 업무 대부분을 처리한 이곳에서 [br] 즉시 불태워 진다는 것이 우리들의 의지다. [br][br] '''[[아돌프 히틀러]]''' ||<:> 마피아일 때 자살 혹은 [br] 마피아일 때 타 플레이어에게 살해 당하기[br](살해당한 마피아만 획득)||<:> 루블 500개 ||
+||<:>비폭력 투쟁 ||<:> [[파일:external/s31.postimg.org/collection_nonviolence_struggle_92.png|width=75&align=center]] ||<:> 우리는 민족의 이념을 위해 [br] 타인을 사살하는 집단의 일원이 되고 싶지 않았다. [br][br] '''리하르트 휠젠베크''' ||<:>마피아가 [처형]능력을 사용하지 않고 승리하기 ||<:> 루블 1500개 ||
+||<:> 회개 ||<:> [[파일:external/s11.postimg.org/collection_repentance.jpg|width=75&align=center]] ||<:> 신께서는 나를 용서하실거야. 그게 그분의 직업이거든. [br][br] '''하인리히 하이네''' ||<:> 첫날 마피아가 살해당한 후 도굴꾼에게 약탈을 당해 시민이 된 뒤 성직자에게 부활당하기[br](현재는 얻지 못하는 컬이다) [* 현재는 시민과 악인이 분류가 되어있기 때문에 그렇다.]||<:> 루블 2500개 ||
+
+===== 마피아 보조직업 컬렉션 =====
+마피아팀 중 보조직(스파이, 짐승인간, 마담)이 되었을 때 얻을 수 있는 컬렉션을 소개한다. 악의 결합은 스파이와
+짐승인간 공통 컬렉션,  프로모션은 스파이 컬렉션, 피의 복종과 포식자는 짐승인간 컬렉션, 미인계와 집착은 마담 컬렉션, 소매치기와 악어의 눈물은 도둑 컬렉션이다.
+
+====== 스파이, 짐승인간 공통 컬렉션 ======
+스파이, 짐승인간이 공통으로 얻을 수 있는 컬렉션을 소개한다.
+마담과 도둑은 못 얻는다.
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득방법||<:>보상 ||
+||<:> 악의 결합 ||<:> [[파일:external/s32.postimg.org/reward_spy_01.png|width=75&align=center]] ||<:> 외모는 속임수이다. [br][br] '''서양 격언''' ||<:> 스파이나 짐승인간일 때 마피아와 접선[* 스파이가 마피아를 조사하면 접선하는 스파이 고유 능력]||<:> 루블 250개 ||
+====== 스파이 ======
+스파이만 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> [[프로모션]] ||<:> [[파일:external/s32.postimg.org/reward_spy_02.png|width=75&align=center]] ||<:> 힘으로써 이기는 것은 승리의 절반에 지나지 않는다. [br][br] '''[[존 밀턴]]''' ||<:> 접선한 스파이가 단독으로 살아남아 승리 ||<:> 일반 엽서 1개 ||
+
+====== 짐승인간 ======
+짐승인간만 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> 피의 복종 ||<:> [[파일:external/s32.postimg.org/reward_beastman_01.png|width=75&align=center]] ||<:> 개의 충성심은 인간과의 우정 [br] 그 이상의 어떠한 도덕적 책임감도 필요로 하지 않는[br]그들의 고귀한 본성이다. [br][br] '''[[콘라트 로렌츠]]''' ||<:> 짐승인간일 때 마피아에게 길들여지기[* 짐승인간이 선택한 플레이어가 마피아에게 죽거나, 짐인이 공격받으면 길들여지는 고유 능력]  ||<:> 루블 250개 ||
+||<:> [[포식자]] ||<:> [[파일:external/s32.postimg.org/reward_beastman_02.png|width=75&align=center]] ||<:> 한 사람을 죽이면 그는 살인자다. [br] 수백만 명을 죽이면 그는 정복자다. [br] 모든 사람을 죽이면 그는 신이다. [br][br] '''장 로스탕''' ||<:> 길들여진 짐승인간이 [br] 마피아가 전부 죽은 뒤 3명의 플레이어를 살육 ||<:> 루블 2000개 ||
+
+====== 마담 ======
+마담일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> 미인계 ||<:> [[파일:external/s32.postimg.org/collection_temptation.png|width=75&align=center]] ||<:> 어떤 남자라도 여자의 이상한 아름다움에는 저항할 수 없다 [br][br] '''[[탈무드]]''' ||<:> 마담일 때 유혹[* 마담일 때 투표 시간에 한 플레이어를 투표하여 고유 능력 직업군 ex.영매의 접신(밤마다 죽은 플레이어의 대화를 들을 수 있는 영매 고유 능력)을 제외한 나머지 직업들의 능력을 사용못하게 하는 마담 고유 능력 ] 능력 사용 ||<:> 루블 250개 ||
+||<:> 집착 ||<:> [[파일:external/s32.postimg.org/collection_obsession.png|width=75&align=center]] ||<:> 대부분의 사람들이 유혹에서 구제받고 싶어하지만 [br] 또한 유혹을 계속 받고 싶어한다. [br][br] '''로버트 오벤''' ||<:> 랭크게임에서 접선한 마담과 건달만이 남은 상황에서 [br] 마담이 건달을 10밤까지 유혹 ||<:> 루블 2500개 ||
+====== 도둑 ======
+도둑일 때 얻을 수 있는 컬렉션을 소개한다.
+도둑은 훔친 직업의 컬렉션을 얻을 수 있다.
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> 소매치기 ||<:> [[파일:20180313_211838.png|width=75&align=center]] ||<:> 기회가 도둑을 만든다 [br][br] '''라틴어 속담''' ||<:> 도둑일 때 도벽[* 도둑이 투표한 플레이어(군인, 예언자, 간호사제외)의 능력을 훔쳐 사용하는 도둑 고유 능력]능력 사용 ||<:> 루블 250개 ||
+||<:> 악어의 눈물 ||<:> [[파일:20180313_211816.png|width=75&align=center]] ||<:> 쏘지 마시오. [br][br] '''무아마르 카다피''' ||<:> 도둑이 의사를 훔쳐서 자살하려는 마피아 살리기 ||<:> 루블 1500개 ||
+ 
+==== 시민팀 컬렉션 ====
+시민팀 직업들을 배정받았을 때 얻을 수 있는 컬렉션을 소개한다.
+
+===== 시민팀 공통 컬렉션 =====
+해피엔딩 컬렉션은 시민팀일 때 공통으로 얻을 수 있는 컬렉션이다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> [[해피엔딩]] ||<:> [[파일:external/s32.postimg.org/reward_happyending_02.png|width=75&align=center]] ||<:> 모든 시련은 결국에는 축복이 되기 마련이다. [br][br] '''리처드 바크''' ||<:> 시민팀 사망없이 승리 ||<:> 밀서 3개 ||
+
+===== 중요 직업(중직) 컬렉션 =====
+경찰과 의사를 배정받았을 때 얻을 수 있는 컬렉션을 소개한다. 정의구현과 선동의 희생양은 경찰 배정일 때 얻을 수 있는 컬렉션이고, 생명의 소중함과 의술의 신, 군의관은 의사 배정일 때 얻을 수 있는 컬렉션이다.
+
+====== 경찰 ======
+경찰일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> [[정의구현]] ||<:> [[파일:external/s32.postimg.org/reward_police_01.png|width=75&align=center]] ||<:> 진실은 백일하에 드러날 것이고 [br] 살인도 오래 숨기지는 못한다. [br][br] '''[[윌리엄 셰익스피어]]''' ||<:> 경찰일 때 마피아 수색[* 경찰일 때 밤마다 플레이어 한 명을 조사하여 마피아 여부를 알아내는 경찰 능력 ] ||<:> 루블 250개 ||
+||<:> 선동의 희생양 ||<:> [[파일:external/s32.postimg.org/reward_instigation.png|width=75&align=center]] ||<:> 약간의 진실로 거짓된 선동하기는 쉽고 [br] 그것을 진실로 반박하려고 하면 이미 늦다. [br] 사람들이 이미 다 선동 되어있기 때문이다. [br][br] '''[[파울 요제프 괴벨스]]''' ||<:> 마피아를 찾은 경찰이 [br] 다음날에 투표에서 처형 당하기 ||<:> 사망확인서 5개 ||
+
+====== 의사 ======
+의사일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> 생명의 소중함 ||<:> [[파일:external/s32.postimg.org/reward_doctor_01.png|width=75&align=center]] ||<:> 나는 나의 능력과 판단에 따라 [br] 내가 환자의 이익이라 간주하는 [br] 섭생의 법칙을 지킬 것이며 [br] 심신에 해를 주는 어떠한 것들도 멀리 하겠노라. [br][br] '''[[히포크라테스 선서]]''' ||<:> 의사일 때 치료[* 밤마다 자신을 제외한 다른 플레이어 중 한 플레이어를 마피아의 처형을 막아주는 의사 능력 ] 한 번 성공 ||<:> 루블 250개 ||
+||<:> 의술의 신 ||<:> [[파일:external/s32.postimg.org/reward_gods_medicine_02.png|width=75&align=center]] ||<:> 사람의 몸은 한 나라와 같으니라. [br][br] '''[[허준]]''' ||<:> 연속 상관없이 한 판에 치료 세 번 성공 ||<:> 루블 1000개 ||
+||<:> [[군의관]] ||<:> [[파일:external/s32.postimg.org/reward_army_doctor_02.png|width=75&align=center]] ||<:> 전쟁터는 외과의에게 있어서는 [br] 가장 적당한 배움터이다. [br][br] '''[[히포크라테스]]''' ||<:> 방탄 능력을 사용한 군인 상대로 치료 성공[* 한동안 획득이 불가능했었다.]||<:> 루블 1000개 ||
+===== 특수 직업(특직) 컬렉션 =====
+군인, 연인, 영매, 정치인, 건달, 기자, 사립탐정, 도굴꾼, 테러리스트를 배정받았을 때 얻을 수 있는 컬렉션을 소개한다. 직업별로 얻을 수 있는 컬렉션은 아래와 같다.
+
+ * 군인 - 전투태세, 순국선열, 간첩말살
+ * 연인 - 마지막 선물, 사랑의 힘, 스캔들, 팜므 파탈, 망부석
+ * 영매 - 영혼 달래기, 넋두리, 망자의 원혼
+ * 정치인 - 카리스마, 민주주의
+ * 건달 - 과격한 설득, 라스트 히어로, 쿠데타
+ * 기자 - 호외발행, 언론탄압
+ * 사립탐정 - 범죄수사, 불길한 징조
+ * 도굴꾼 - 공수래공수거, 기회주의, 파괴된 유산
+ * 테러리스트 - 복수의 화신, 희생
+ * 성직자 - 기적, 타락
+
+
+====== 군인 ======
+군인일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상 ||
+||<:> 전투태세 ||<:> [[파일:external/s32.postimg.org/reward_soilder_01.png|width=75&align=center]] ||<:> 창을 베고 자면서 아침을 기다린다. [br][br] '''[[진서]] 유곤전''' ||<:> 군인일 때 방탄[* 마피아에게 살해당할 때 한 번 방어해주는 군인의 고유 능력 ] 능력 사용 ||루블 250개||
+||<:> 순국선열 ||<:> [[파일:external/s32.postimg.org/reward_soldier_02.png|width=75&align=center]] ||<:> 나라 위해 몸바침은 군인의 본분이다. [br][br] '''[[안중근]]''' ||<:> 군인일 때 방탄 능력 사용 이후 마피아에게 살해당하기 ||사망확인서 5개||
+||<:> 간첩 말살 ||<:> [[파일:external/s32.postimg.org/reward_02.png|width=75&align=center]] ||<:> 배신자는 죄인의 기생충이다. [br][br] '''[[장폴 사르트르]]''' ||<:> 불침번[* 스파이가 군인을 첩보하여 군인이 스파이가 있음을 서로 알게 되는 군인 고유 능력 ] 능력이 사용된 [br] 밤에 방탄 능력 사용 ||경고엽서 1개||
+
+====== 연인 ======
+연인일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> 마지막 선물 ||<:> [[파일:external/s32.postimg.org/reward_lover_01.png|width=75&align=center]] ||<:> 그대만큼, 사랑스러운 사람을 본 일이 없다. [br][br] '''김남조, 편지''' ||<:> 연인일 때 희생[* 한 연인이 마피아에게 처형당할 때 상대 연인이 대신 죽는 연인 고유 능력 ] 능력 사용 ||루블 250개||
+||<:> 사랑의 힘 ||<:> [[파일:external/s32.postimg.org/reward_lover_02.png|width=75&align=center]] ||<:> 사랑으로 행해진 일은 언제나 선악을 초월한다 [br][br] '''[[프리드리히 니체]]''' ||<:> 연인 둘끼리만 살아남아 승리 ||밀서 3개||
+||<:> [[스캔들]] ||<:> [[파일:external/s32.postimg.org/reward_scandal_02.png|width=75&align=center]] ||<:> 연애는 누구나 자신을 속이는 데서 시작하고, [br] 남을 속이는 데서 끝나는 것이 보통이다. [br] 이것이 지상에서 일컬어지는 로맨스이다. [br][br] '''[[오스카 와일드]]''' ||<:> 연인일 때 기자에게 취재당하기[* 취재당한 플레이어만 얻을 수 있다. ] ||밀서 3개||
+||<:> 팜므 파탈 ||<:> [[파일:external/s31.postimg.org/collection_femmefatale.png|width=75&align=center]] ||<:> 클레오파트라의 코가 조금만 낮았더라면 [br] 세계의 역사가 바뀌었을 것이다. [br][br] '''[[블레즈 파스칼]]''' ||<:> 첫날 도굴꾼이 다른 연인을 물려받은 뒤 희생당하기(성직자가 죽은 연인을 살려도됨.) [br] [* 이 컬렉션을 받을 때 망부석 컬렉션도 받을 수 있는지는 의문이다.] ||루블 1500개||
+||<:> 망부석 ||<:> [[파일:external/s11.postimg.org/collection_waiting_woman.jpg|width=75&align=center]] ||<:> 달님이시여 높이높이 돋아 멀리멀리 비추소서. [br] 당신 가는 곳 어두워질까 두렵습니다. [br][br] '''[[정읍사]] 中''' ||<:> 살아남은 연인 한 명만 승리||밀서 3개||
+
+====== 영매 ======
+영매일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> 영혼 달래기 ||<:> [[파일:external/s32.postimg.org/reward_psychic_01.png|width=75&align=center]] ||<:> 죽은 자를 위해 울지 말라. [br] 그는 휴식을 취하고 있기 때문이다. [br][br] '''[[레오나르도 다 빈치]]''' ||<:> 영매일 때 성불[* 밤마다 영매가 죽은 사람의 능력을 알아내는 영매의 능력 ] 하기 ||<:>루블250개||
+||<:> 넋두리 ||<:> [[파일:external/s32.postimg.org/reward_grumble_02.png|width=75&align=center]] ||<:> 내가 헛되이 보낸 오늘하루는 [br] 어제 죽어간 이가 [br] 그토록 살고 싶었던 내일이다. [br][br] '''[[소포클레스]]''' ||<:> 영매일 때 낮에 죽은 사람들이 [br] 100마디 이상 대화하기[* 죽은 사람의 수는 상관없다. 참고로 최반때는 도배 가능하다! 도배기가 없다면 아무나 최반올려서 이모티콘 도배를 활용하자.]  ||<:>사망확인서 5개||
+||<:> 망자의 원혼 ||<:> [[파일:external/s31.postimg.org/collection_grudge_of_the_dead.png|width=75&align=center]] ||<:> 관우의 망령이 나타나 [br] 여몽의 멱살을 잡으며 [br] "내가 누구인지 알겠느냐"고 말한 뒤 [br] "나는 관우다"라고 외치자, [br] 여몽은 온몸에서 피를 뿜으며 죽었다. [br][br] '''[[나관중]], [[삼국지연의]] 中''' ||<:> 마피아팀을 알고있는 시민팀[* ex.경크내고 죽은 경찰.군크내고 죽은 군인 ] 성불 ||<:>사망확인서 5개||
+====== 정치인 ======
+정치인일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> [[카리스마]] ||<:> [[파일:external/s32.postimg.org/reward_politician_01.png|width=75&align=center]] ||<:> 주장이 정당하면 [br] 누가 재판관이든 두려울 것이 없을 것이다. [br][br] '''푸블리우스 시루스''' ||<:> 정치인일 때 처세[* 정치인이 투표로 처형대에 올라 정치인임을 인증하는 정치인의 고유 능력 ] 능력 사용 ||<:>루블 250개||
+||<:> 민주주의 ||<:> [[파일:external/s32.postimg.org/reward_democracy_02.png|width=75&align=center]] ||<:> 대한민국의 주권은 국민에게 있고, [br] 모든 권력은 국민으로부터 나온다. [br][br] '''[[대한민국 헌법 제1조]] 2항''' ||<:> 정치인일 때 마피아와 1대1로 남아 승리 ||<:>일반엽서 1개||
+
+
+====== 건달 ======
+건달일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> 과격한 설득 ||<:> [[파일:external/s32.postimg.org/reward_gangster.png|width=75&align=center]] || 친절한 말과 총을 더하면, 말만 할 때 보다 더 많은 것을 얻는다. [br][br]'''[[알 카포네]]''' ||<:> 건달일 때 플레이어 한명 협박 [* 건달이 밤마다 플레이어 한 명을 협박하여 해당 플레이어가 투표를 못하게 하는 건달 능력 ] ||<:>루블 250개||
+||<:> 라스트 히어로 ||<:> [[파일:external/s32.postimg.org/reward_last_hero_02.png|width=75&align=center]] ||<:> 자신의 운명을 짊어질 수 있는 용기를 지닌 자만이 영웅이 될 수 있다.[br][br] '''[[헤르만 헤세]]''' ||<:>건달, 마피아, 시민팀 2명인 상황에서 건달이 협박을 하지 않고 마피아에게 처형당한후 시민팀 2명이 마피아를 투표하여 찬반투표때 찬성 후 시민 한 명 중퇴.[* 건달의 간접상향 이후 건달이 협박하여 마피아팀 투표권수가 0이 될 경우 즉시 게임이 종료되기 때문에 조건이 변경되었다. 간접상향에 관한 내용은 [[마피아42/직업]]문서 참조.]||<:>일반 엽서 1개||
+||<:> [[쿠데타]] ||<:> [[파일:external/s31.postimg.org/reward_coup_02.png|width=75&align=center]] ||<:> 혁명의 목적은 정권 쟁취에 있다. 그 이후에 어떻게 할 것인지는 그때 가서 판단하기로 한다.[br][br] '''[[블라디미르 레닌]]'''||<:> 건달일 때 처세[* 정치인이 투표로 처형대에 올라 정치인임을 인증하는 정치인의 고유 능력 ] 능력 사용한 정치인 협박 ||<:>루블 500개--와 경고엽서 뭉치--||
+
+
+====== 기자 ======
+기자일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> 호외발행 ||<:> [[파일:external/s32.postimg.org/reward_reporter.png|width=75&align=center]] ||<:> 펜은 칼보다 강하다. [br][br] '''에드워드 리턴''' ||<:> 기자일 때 특종[* 플레이어 한 명을 취재하여 모든 사람에게 취재당한 플레이어의 직업 알려주는 기자 능력 ] 능력 사용[* 밤에 마피아에게 죽어 기사를 내지 못하게 되면 얻을 수 없다. ] ||<:>루블 250개||
+||<:> 언론탄압 ||<:> [[파일:external/s32.postimg.org/reward_suppression_of_the_press_02.png|width=75&align=center]] ||<:> 기자를 죽이는게 불법입니까? [br][br] '''보비 피셔''' ||<:> 기자가 특종내기 전, 마피아가 기자 살해[* 이땐 사람들에게 기자가 택한 사람의 직업이 알려지지는 않는다. ~~그리고 기자는 경크띄우고 죽은 듯한 깊은 빡침을 체험하게 된다~~ ] ||<:>사망확인서 5개||
+
+
+====== 사립탐정 ======
+사립탐정일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> 범죄수사 ||<:> [[파일:external/s32.postimg.org/collection_detective_01.png|width=75&align=center]] ||<:> 사람이 만든 문제라면 사람이 풀 수 있다. [br][br] '''[[아서 코난 도일]]''' ||<:> 사립탐정일 때 플레이어 한 명 추리[* 밤마다 플레이어를 선택하였을 때, 해당 플레이어가 누구를 눌렸는지 알수있는 사립탐정의 능력 ] ||<:>루블 250개||
+||<:> 불길한 징조 ||<:> [[파일:external/s32.postimg.org/collection_an_evil_omen_02.png|width=75&align=center]] ||<:> 항상 죽을 각오를 하고 있는 사람만이 [br] 참으로 자유로운 인간이다. [br][br] '''[[디오게네스]]''' ||<:> 사립탐정일 때 마피아를 조사하고 [br] 조사한 마피아에게 처형 당하기[* 이럴 경우 마피아가 자신을 죽이려고 찍는 게 빤히 보이기 때문에 당하면 은근 열 받는다. ~~경찰일 거야 경찰일 거야 경찰일... ('사탐님이 죽었습니다')...아이 젠장~~ ] ||<:>루블 1000개||
+
+
+====== 도굴꾼 ======
+도굴꾼일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> 공수래공수거 ||<:> [[파일:external/s32.postimg.org/collection_ghoul_01.png|width=75&align=center]] ||<:> 우리는 모두 벌거숭이로 이 세상에 왔으니, [br] 벌거숭이로 이 세상을 떠나리라. [br][br] '''[[이솝]]''' ||<:> 도굴꾼일 때 직업 물려받기[* 첫날 마피아에게 죽은 사람의 직업을 얻는 도굴꾼 고유 능력]||<:>루블 250개||
+||<:> 기회주의 ||<:> [[파일:external/s32.postimg.org/collection_opportunism_02.png|width=75&align=center]] ||<:> 누가 당신을 한 번 배신했다면 그 사람 탓이고, [br] 두 번 배신했다면 당신 탓이다. [br][br] '''엘리노어''' ||<:> 도굴꾼일 때 마피아팀 또는 교주팀 직업 얻기 ||<:>경고엽서 1개||
+||<:> 파괴된 유산 ||<:> [[파일:external/s31.postimg.org/collection_ghoul_no_job.png|width=75&align=center]] ||<:> 나는 이제 죽음이오, 세상의 파괴자가 되었도다. [br][br] '''[[로버트 오펜하이머]]''' ||<:> 도굴꾼 배정을 받은 후 [br]첫날 테러가 마피아의 공격에 의해 [br] 자폭 능력을 사용 ||<:>루블 1500개||
+||<:> 재림 ||<:> [[파일:collection_second_coming.png|width=75&align=center]] ||<:> 신은 죽었다. [br][br] '''니체, 즐거운 학문 中''' ||<:> 도굴꾼으로 교주 직업 얻기 ||<:>루블 1500개||
+====== 테러리스트 ======
+테러리스트일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:>보상||
+||<:> 복수의 화신 ||<:> [[파일:external/s32.postimg.org/collection_terrorist_01.png|width=75&align=center]] ||<:> 눈에는 눈, 이에는 이 [br][br] '''[[함무라비 법전]]''' ||<:> 테러리스트로 산화[* 투표로 인해 처형될 때 플레이어 한 명을 데려가면 얻는 테러리스트의 고유 능력 ] 능력 사용 ||<:>루블 250개||
+||<:> 희생 ||<:> [[파일:external/s32.postimg.org/collection_sacrifice_02.png|width=75&align=center]] ||<:> 양초는 남을 밝게 해 주며, 자신을 소비한다 [br][br] '''H.G. 보운''' ||<:> 마피아, 테러리스트, 시민 1명이 남은 상태에서 [br] 테러가 마피아를 데려가 승리 ||<:>일반엽서 1개||
+
+====== 성직자 ======
+성직자일 때 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상||
+||<:> 기적 ||<:> [[파일:external/s11.postimg.org/collection_resurrection.jpg|width=75&align=center]] ||<:> 나는 부활이요, 생명이니 [br] 나를 믿는 자는 죽어도 살겠고 [br] 무릇 살아서 나를 믿는 자는 영원히 죽지 아니하리니. [br][br] '''[[요한복음]] 11장 25절''' ||<:> 성직자로 소생[* 죽은 플레이어 한명만 부활시킬 수 있는 성직자의 능력 ] 능력 사용 ||<:>루블 250개||
+||<:> 타락 ||<:> [[파일:external/s11.postimg.org/collection_corruption.jpg|width=75&align=center]] ||<:> 성서에서 훔친 낡은 몇 마디 문구로 벌거벗은 악행을 감추니, [br] 악마처럼 행하면서도 성자처럼 보이는구나! [br][br] '''[[셰익스피어]], [[리처드 3세]] 中''' ||<:> 기자 취재된 뒤 죽은 [br] 마피아팀 부활시키기
+||<:> 경고 엽서 1개       ||
+
+==== 교주팀 컬렉션  ====
+교주팀으로 얻을 수 있는 컬렉션을 소개한다.
+===== 교주 =====
+교주일 때 얻을 수 있는 컬렉션을 소개한다
+'''재림은 도굴 컬이다.'''
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득방법 ||<:> 보상||
+||<:> 사이비 ||<:> [[파일:reward_cult_01.png|width=75&align=center]] ||<:> 이는 하나님이 그에게 주사 반드시 속히 될 일을 그 종들에게 보이시려고 그 천사를 그 종 요한에게 보내어 지시하신 것이라. [br][br] '''요한묵시록 1장 1절'''[* 성경책을 보면 요한'묵시록'이 아닌 요한'계시록'이라고 쓰여 있다.] || 교주로 플레이어 1명 포교하기[* 교주일 때 홀수밤마다 마피아,성직자를 제외한 플레이어 1명을 포교해 교주팀으로 만드는 교주 고유 능력] ||<:> 루블 250개||
+=== 아웃게임 컬렉션 ===
+각종 이벤트나 게임 내 시스템을 통해 얻을 수 있는 컬렉션을 소개한다.
+
+==== 기간 한정인 컬렉션 ====
+특정 기간에 특정 조건을 만족할 시 얻을 수 있는 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상||
+||<:> OB ||<:>[[파일:external/s32.postimg.org/collection_ob.png|width=75&align=center]] ||<:> 나는 오래된 것은 모두 좋다. [br] 오래된 친구, 오랜 세월, 오래된 관습, 오래된 책, 오래된 와인.[br][br]''' 올리버 골드스미스 ''' ||<:>한 시즌 동안[br] 꾸준히 플레이 ||<:> 루블 0개[* 보상이 없다.] ||
+||<:> 낡은 OB ||<:>[[파일:external/s32.postimg.org/collection_old_ob.png|width=75&align=center]] ||<:> 사람은 뭔가를 추구하고 있는 한 [br]절대로 노인이 아니다.[br][br] ''' 진 로스탠드 ''' ||<:>OB 컬렉션 보유중인 플레이어가[br]한 시즌 동안 꾸준히 플레이 ||<:> 루블
+0개  ||
+||<:> 오래된 유물 ||<:>[[파일:external/s32.postimg.org/collection_older_ob.png|width=75&align=center]]  ||<:> 자기가 노인이라는 것을 아는 사람은 별로 없다.[br][br]''' 라 로스퓨코 ''' ||<:> 낡은 OB 컬렉션 보유중인 플레이어가[br]한 시즌 동안 꾸준히 플레이 ||<:> 루블 0개 ||
+||<:> 노익장 ||<:>[[파일:external/s11.postimg.org/collection_ob4.jpg|width=75&align=center]]  ||<:> 대장부가 뜻을 품었다면, 마땅히 곤궁해졌을 때에 더욱 굳세어지고,[br]늙어서는 더욱 건강해져야 한다.[br][br]''' [[마윈]] ''' ||<:> 오래된 유물 컬렉션 보유중인 플레이어가[br]한 시즌 동안 꾸준히 플레이 ||<:> 루블 0개 ||
+||<:> 부정출발 ||<:> [[파일:external/s32.postimg.org/collection_falsestart_03.png|width=75&align=center]] ||<:> 일찍 일어나는 새가 벌레를 잡는다. [br][br] ''' 영국 속담 ''' ||<:> ~ 시즌2[br]새로운 시즌이 시작됐을 때 [br] 은장(RP4500 이상)으로 시작.[br][br]시즌3 ~[br]랭크포인트 명예의 전당에 들기 ||<:> 낡은 징벌의 엽서 1개||
+||<:> 예술가 ||<:> [[파일:external/s31.postimg.org/artist_collection.png|width=75&align=center]] ||<:> 인생은 짧고 예술은 길다.[br][br] ''' [[히포크라테스]] ''' ||<:> 봄맞이 사생대회 참가 후 메일 제출 완료 ||<:> 루나 25개||
+||<:> 유권자 ||<:> [[파일:external/s18.postimg.org/collection_voter.jpg|width=75&align=center]] ||<:> 정치를 외면한 가장 큰 대가는 [br] 저질스러운 자들에게 지배당하는 것이다. [br][br] '''[[플라톤]]''' ||<:> GM정치인이나 봄맞이 사생대회 투표기간에 [[https://mafia42.com/#/community/election/electionShow/5|홈페이지]]에서 투표하기[* 후보자 프로필 아래에 있는 투표 버튼을 누르면 된다. ] ||<:> 루나 10개||
+||<:> 물총 전사 ||<:> [[파일:external/s32.postimg.org/collection_summer_event.png|width=75&align=center]] ||<:> 여름에는 노래가 절로 나온다. [br][br] ''' 윌리엄 카를로스 윌리엄스 ''' ||<:> 시즌 1[br]▷ 물총 싸움에서 승리[br][br]시즌 2[br]▷ 물총 싸움에서 승리 후, 상자 개봉[br][br]시즌 3[br]▷ 물총 싸움에서 승리 후, 상자 개봉 ||<:> 해변의 엽서 1개||
+||<:> [[한가위]] ||<:> [[파일:external/s32.postimg.org/collection_event.png|width=75&align=center]] ||<:> 더도말고 덜도 말고 가윗날만 같아라. [br][br] '''한국 속담''' ||<:> 한가위 한정 컬렉션.[br][br]시즌 1[br]▷ 달조각 42개 모으기[br][br]시즌 2[br]▷ 한가위 이벤트에서 보름달이 5번 뜨기 [br][br]시즌 3[br]▷ 각 직업들을 알아내서 얻은 재료를[br]포장 후 개봉[* 포장지 종류는 상관없다.][br][br]시즌 4[br]▷카드 12개를 모아 포장해서
+호랑인간과 교환해 한가위 아이템카드 개봉하기||<:> 한가위 기념엽서 1개||
+||<:> 할로윈 ||<:> [[파일:external/s32.postimg.org/collection_halloween.png|width=75&align=center]] ||<:> 이제 바로 그 마법이 걸리는 밤 [br] 교회 묘지가 열리고 지옥 그 자체가 [br] 세상으로 역병을 내뿜는 때다! [br][br] '''[[셰익스피어]], [[햄릿]]''' ||<:> 시즌 3 : Trick or Treat! 채널에서 [br] 할로윈 사탕으로 호박색 닉네임 염색약과[br]할로윈 기념 엽서 구입[br][* 오류때문에 모든 플레이어가 얻게 됨][br]시즌 4 : 할로윈 경고 엽서에 사탕 보내기||<:> 할로윈 기념엽서 1개||
+||<:> 유령 사냥꾼 ||<:> [[파일:external/s21.postimg.org/collection_ghost_hunter.jpg|width=75&align=center]] ||<:> 괴물과 유령들은 실존한다.[br]그들은 우리 안에 살아있으며, 때때로 그들은 이긴다. [br][br] '''[[스티븐 킹]]''' ||<:> 시즌 3 : 할로윈 미니게임 점수 1000점 넘기기
+시즌 4 : 봉인된 사탕 1000개 보내기[* 이틀이 지나야 컬렉션이  지급된다는 썰이 있다.] ||<:> 유령 엽서 1개||
+||<:> 크리스마스 ||<:> [[파일:external/78d470eb280b6b1d82bfd7b06435560ed1c308e4c40b848dd3ccf95d574f6043.png|width=75&align=center]] ||<:> 인류 역사의 중심점은 베들레헴의 마구간에 있다. [br][br] '''랄프 W. 쇼크만''' ||<:> 크리스마스 선물 상자 열기 ||<:> 산타 엽서 1개||
+||<:> 물총왕 ||<:> [[파일:collection_summer_event_king.png|width=75&align=center]]|| 내 이름은 오지만디아스, 왕 중의 왕. 나의 업적을 보라, 너희 강대하다는 자들아, 그리고 절망하라![br][br]'''셸리, 오지맨디아스 中''' ||<:> 물총싸움 시즌에서 순위권에 들기 ||<:> 대양의 보배 1개||
+||<:> 최강의 패 ||<:> [[파일:externalFile/love_patrick.png|width=75&align=center]] ||<:> 신은 주사위놀이를 하지 않는다.[br][br]'''[[알버트 아인슈타인]]''' ||<:> 한가위 카드맞추기 이벤트에서 연인과 테러리스트 카드를 뒤집기 ||<:> 평범한 한가위 아이템카드 1개 ||
+||<:> 호랑이의 보은 ||<:> [[파일:collection_chuseok_tiger.png|width=75&align=center]] ||<:> 떡 하나 주면 안잡아먹지! [br][br]'''전래동화 해님달님 中''' ||<:> 한가위 카드맞추기 이벤트 순위 안에 들기 ||<:> 호랑이 꼬리 1개 ||
+||<:> 헤게모니 ||<:> [[파일:HGMN.png|width=75&align=center]] ||<:> 왔노라, 보았노라, 이겼노라. [br][br]'''율리우스 카이사르''' ||<:> 시즌 종료 때 랭킹[* 환경설정에 들어가면 있다.시즌4에는 클래식,듀얼,재판,명성,길드,경험치였고 시즌5부터는 클래식,듀얼 랭크포인트가 통합되었고 수집이 추가되었다.][* 6개 부문 각각의 1위에게 주어진다. 단,길드는 마스터에게만 주어진다.]에서 1위 하기 ||<:> 6티어 카드 1개 ||
+==== 기간 한정이 아닌 컬렉션 ====
+게임 내 시스템에서 특정 조건을 만족할 시 얻을 수 있는 컬렉션을 소개한다. 
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상||
+||<:> [[안드로이드]] ||<:>[[파일:external/s31.postimg.org/android_collection.png|width=75&align=center]] ||<:>안드로이드는[br]도덕적, 사용자 중심적[br]무료 휴대전화를 위한 중대한 걸음이다.[br][br]'''[[리처드 스톨먼]]''' ||<:> [[안드로이드(OS)|안드로이드]] 기기로 접속 ||<:> 루블 100개||
+||<:> [[아이폰]] ||<:> [[파일:external/s31.postimg.org/iphone_collection.png|width=75&align=center]] ||<:> 오늘, 우리는 세 번째로[br]혁명적인 새로운 제품을 소개하려고 합니다.[br][br]'''[[스티브 잡스]]''' ||<:>[[Apple(기업)|애플]] 기기로 접속 ||<:> 루블 100개||
+||<:> 홈페이지 ||<:> [[파일:external/s11.postimg.org/collection_homepage.png|width=75&align=center]] ||<:> [[https://mafia42.com/|mafia42.com]][br][br]'''마피아42 홈페이지 주소''' ||<:> 마피아42 공식 홈페이지에서[br]게시글 작성 ||<:> 루나 10개||
+||<:> 튜토리얼 ||<:> [[파일:external/s32.postimg.org/reward_tutorial_01.png|width=75&align=center]] ||<:> 시작은 그일의 가장 중요한 부분이다.[br][br]'''[[플라톤]]''' ||<:> 튜토리얼[* 환경설정에 들어가면 있다.] 진행 ||<:> 루나 5개||
+||<:> 42의 비밀 ||<:> [[파일:external/s32.postimg.org/reward_42_01.png|width=75&align=center]] ||<:> 삶[br]우주[br]그리고 모든것에 대한 궁극적 질문의 해답은 '''[[42]]'''이다. [br][br] '''[[더글러스 애덤스]] [br] [[은하수를 여행하는 히치하이커를 위한 안내서]]''' ||<:>아래 중 하나를 만족[br][br]▷ 명성 42 달성[br]▷ 승률 42% 달성[br]▷ 42승 42패 달성[br]▷ 42번째 밤까지 게임을 진행[* 전원이 잠수타고 있으면 의외로 쉽다. 단, 게임이 끝나지 않을 수 있다.] [* 만약 영매 직업 상태라면 넋두리와 함께 얻을 수도 있다.] ||<:> 이력서 1개||
+||<:> [[밀레니엄]] ||<:> [[파일:external/s32.postimg.org/reward_millennium_01.png|width=75&align=center]] ||<:> 천리길도 한걸음부터[br][br]'''[[도덕경]]''' ||<:>1000승 달성 ||<:> 루나 10개||
+||<:> 황금기 ||<:> [[파일:external/s32.postimg.org/reward_goldrank5500_01.png|width=75&align=center]] ||<:> 황금 보기를 돌같이 하라.[br][br]'''[[최영]]''' ||<:>RP 5500 달성 ||<:> 일반티켓 10개||
+||<:> 특별공로상 ||<:> [[파일:external/s32.postimg.org/reward_special_thanks_to_03.png|width=75&align=center]] ||<:> 마피아42를 사랑해 주셔서 감사드립니다. [br][br] '''TEAM42''' ||<:>아래 중 하나 만족 [br]▷ RP 7000 이상 달성 [br]▷ 게임전적 5000판(중퇴제외) 달성 [br]▷ 비밀조건 달성[* 한 유저가 게임전적이 3천판대이며 RP가 4000인데도 얻은것을 보아 다른 조건이 하나 더 있다고 추측.현질 4242지르니까 얻은사람도 있다..!][* 이 컬렉션은 획득이 한동안 불가능했다가 다시 가능해졌다! 획득조건을 예전에 만족시켰지만 받지 못한 유저들에게도 수여되었다.] ||<:> 고귀한 엽서 1개||
+||<:> 약관 ||<:> [[파일:external/s31.postimg.org/collection_20.jpg|width=75&align=center]] ||<:> 자, 이번엔 너 혼자서 건너 봐.[br]어른이 된다는 걸 두려워해서는 안돼.[br][br]'''J. M. 데 바스콘셀로스, [[나의 라임오렌지나무]] 中''' ||<:> 20세 이상 채널[* 한때 폐지되었으나 다시 생김]에서[br]8인 이상의 방에서 게임을 진행 ||<:> 루나 10개||
+||<:> 장인 ||<:> [[파일:external/s10.postimg.org/collection_artisan.png|width=75&align=center]] ||<:> 그래봤자 바둑, 그래도 바둑.[br][br]'''[[조치훈]]''' ||<:>아래 조건을 모두 만족[br]▷ 한 직업 백금 뱃지 이상 도달[br]▷ 백금 뱃지 이상 도달한 직업을 보유하고 프로필 대표직업으로 설정 ||<:> 마녀의 연마제 1개||
+||<:> 자음퀴즈 ||<:> [[파일:external/s32.postimg.org/collection_ja.png|width=75&align=center]] --퀴즈시간--||<:> 한 나라가 잘 되고 못 되는 열쇠는[br]그 나라의 국어를 얼마나 사랑하느냐에 있다.[br][br]'''[[주시경]]''' ||<:>[[자음의숲42]] 최대 레벨 달성 ||<:> 루나 25개||
+||<:> [[자본주의]] ||<:> [[파일:external/s31.postimg.org/capitalism_03.png|width=75&align=center]] ||<:> 돈은 최선의 종이요, 최악의 주인이다.[br][br]'''[[프랜시스 베이컨]]''' ||<:>상점에서 42루나 이상 현질||<:> 루나 42개||
+||<:> 재벌 ||<:> [[파일:external/s32.postimg.org/reward_millionaire_01.png|width=75&align=center]] ||<:> 한 사람의 부자가 있기 위해서는[br]5백 명의 가난뱅이가 있어야 한다.[br][br]'''[[애덤 스미스]]''' ||<:>42만 루블 보유 ||<:> 명장의 망치 1개||
+||<:> 사건 해결[br]도감 ||<:> [[파일:external/s16.postimg.org/collection_atlas_1.png|width=75&align=center]] ||<:> 인생은 하나의 경험이다.[br]경험이 많을 수록 더 좋은 사람이 된다.[br][br]'''랠프 월도 에머슨''' ||<:> 모든 일일퀘스트를 완료하세요. ||<:> 루나 50개||
+||<:> 일확천금 ||<:> [[파일:external/s32.postimg.org/collection_rich_overnight.jpg|width=75&align=center]] ||<:> 700회 첫번째 볼은 빨간색 29번, 빨간색 29번입니다! [br][br] '''[[나눔로또]] 700회 추첨 방송 中''' ||<:>의문의 상자에서[br]고액의 상품 or 상금 획득[br]보상의 배경색이 빨간색임. ||<:> 확성기 1개||
+||<:> [[대자보]] ||<:> [[파일:external/s32.postimg.org/reward_last_argument_01.png|width=75&align=center]] ||<:> 용기가 없다면 [br] 대중을 위해 글을 쓸 수가 없다. [br][br] '''하인리히 하이네''' ||<:>최후의 반론 창에서[br]42개의 찬성 얻기||<:> 루나 10개||
+||<:> [[노블레스]] ||<:> [[파일:external/s32.postimg.org/reward_noblesse_01.png|width=75&align=center]] ||<:> 명성을 쌓는데는 20년이 걸리지만, [br] 이를 무너트리는데는 채 5분도 걸리지 않는다.[br][br]'''[[워런 버핏]]''' ||<:>10이상의 명성 얻기 ||<:> 고급엽서 1개||
+||<:> 마당발 ||<:> [[파일:external/s32.postimg.org/reward_wide_foot_01.png|width=75&align=center]] ||<:> 내 친구들이여, 세상에 친구란 없다네. [br][br] '''[[가브리엘 샤넬]]''' ||<:>20명의 친구 맺기 ||<:> 루나 10개||
+||<:> 우두머리 ||<:> [[파일:external/s32.postimg.org/reward_guild_master_01.png|width=75&align=center]] ||<:> 그대들은 나보다 더 좋은 리더를 만날 수 있을지도 모르나, [br] 나보다 그대들을 더 사랑하는 리더는 만날 수 없을 것이다. [br][br] '''[[엘리자베스 1세]] 여왕''' ||<:>길드 생성하기[* 다른 사람이 생성한 길드를 물려받으면 획득할 수 없다.] ||<:> 루나 10개||
+||<:> 사랑 ||<:> [[파일:external/s31.postimg.org/collection_couple.png|width=75&align=center]] ||<:> 내가 그대를 한여름날에 비해볼까요? [br][br] '''[[셰익스피어]], 소네트 18번 中''' ||<:>큐피트의 화살 또는 황금
+큐피트의 화살로 [br] 상대방과 커플이 되면 얻게 된다. ||<:> 마법의 하트 염색약 1개||
+||<:> 명판결 ||<:> [[파일:external/s32.postimg.org/collection_trial.jpg|width=75&align=center]] ||<:> 임금이 이러한 판결을 내렸다는 소문이 온 나라에 퍼지자, [br] 임금에게 하느님의 지혜가 있어 공정한 판결을 내린다는 것을 [br] 알고는 임금을 두려워하였다. [br][br] '''열왕기 상 3장 28절''' ||<:>재판소에서 10연속으로 판결이 일치 ||<:> 루나 10개||
+||<:> 현상금 사냥꾼 ||<:> [[파일:external/s32.postimg.org/collection_bounty_hunter.jpg|width=75&align=center]] ||<:> 용병에 의해 국가를 유지하는 군주는 안전할 수 없다. [br] 용병들은 알량한 보수 이상의 명분이나 유대관계에 의해 [br] 싸우지 않기 때문이다. [br][br] '''마키아벨리, 군주론 中''' ||<:>일일퀘스트 클리어 ||<:> 루나 10개||
+||<:> 대장장이 ||<:> [[파일:external/s32.postimg.org/collection_blacksmith.jpg|width=75&align=center]] ||<:> 쇠가 달궈질 때까지 두드리는 것을 미루지 말고, [br] 스스로 두드려서 쇠를 달구라. [br][br] '''윌리엄 버틀러 예이츠''' ||<:>보석8강이상하기 ||<:> 마법의 연마제 1개||
+||<:> 음모론 ||<:> [[파일:external/s32.postimg.org/collection_shadow_government.png|width=75&align=center]] ||<:> 뉴스는 만드는것이다. [br][br] '''[[테드 터너]]''' ||<:>신비한 합창 명패 획득[* 현재까지 신비한 합창을 구매한 유저가 적어서 잘 알려져 있지 않으나, 최근엔 늘어나는 추세이다. ][* 운영자인 TEAM42가 이 명패가 나올 때 제일 먼저 명패를 사서 제일 먼저 이 컬렉션을 얻었다. ][* 여담으로 이 신비한 합창 명패가 나오고 산 유저를 운영자가 "이걸 왜 사요?"라고 했다는 소리가 있다. ][* 극악의 확률로 의문의 상자에서 나오기도 한다고 한다.(진짜 나오면 운 다쓴거???)] ||<:> 블랙카드 1개--효과가 뭐지--||
+||<:> 성명학자 ||<:> [[파일:external/s17.postimg.org/collection_namemaker.jpg|width=75&align=center]] ||<:> 이름이 바르면 모든 일이 순조롭다.[br][br]'''[[공자]]'''||<:> 작명소에서[br]자기가 올린 닉네임 1000루나 이상에 입찰 성공 ||<:> 루나 50개||
+||<:> 조력자 ||<:> [[파일:external/s17.postimg.org/collection_assistant.jpg|width=75&align=center]] ||<:> 어려울 때 친구가 진정한 친구이다.[br][br]'''서양 속담'''||<:> 운영자에게 게임에 대한 버그를 알려 주었을때 얻을수 있고   마피아42 유저와의 만남 참가시 얻을수 있다.[* 현재 사실상 획득불가 컬렉션임. ][* 성직자가 생긴후 테스트 플레이를 도와준 플레이어 7명이 받은 적 있다.~~간담회에 참여하면 이 컬렉션을 준다고 했지만 실제 간담회에 간 유저는 받지 않았으며 운영진은 1대1 무의에도 답하지 않으며 지급하지 않고 있음.~~ ] ||<:> 고귀한 엽서 1개||
+||<:>스승  ||<:> [[파일:external/s30.postimg.org/collection_mentor.png|width=75&align=center]] ||<:> 교육의 목적은 인간성의 조화적 발달에 있다.[br][br]'''요한 하인리히 페스탈로치'''||<:> 멘토점수 100점 달성하기 ||<:> 루나 50개||
+||<:> 금혼식 ||<:> [[파일:collection_golden_wedding.png|width=75&align=center]] ||<:> 내게는 당신만이 남겨져 있지. 당신만이 진짜야.[br][br]'''[[리처드 파인만]]'''||<:> 큐피드를 365일까지 유지하기 ||<:> 러브레터 1개||
+||<:> 도전자 ||<:> [[추가바람]] ||<:> 우리는 우주에 발자취를 남기려고 태어났습니다. 그렇지 않고서야 우리가 왜 여기 존재할까요?[br][br]'''[[스티브 잡스]]'''||<:> 랭크게임 1판 하기 ||<:> 4티어 카드 1개 ||
+||<:> 최종병기 ||<:> [[파일:externalFile-9.jpg|width=75&align=center]] ||<:> 힘은 산을 뽑을 만하고 기운은 세상을 덮을 만하였다.[br][br]'''[[사기(역사책)|사기]] 中 [[항우|항우기]]''' ||<:> 6티어 카드 1장 만들기 ||<:> 루나 10000개 ||
+==== 획득할 수 없는 컬렉션 ====
+게임 내 시스템에 오류가 일어나 지급받지 못하거나, 운영진 측에서 지급을 중단시킨 컬렉션을 소개한다.
+
+||<:> 컬렉션명 ||<:> 이미지 ||<:> 내용 ||<:> 획득 방법 ||<:> 보상 ||
+||<:> [[페이스북]] ||<:> [[파일:external/s32.postimg.org/reward_facebook_01.png|width=75&align=center]] ||<:> 인간사회는 얼굴이 지배한다. [br][br] '''[[장폴 사르트르]]''' ||<:>마피아42 환경설정에서 [br]'페이스북에 홍보하기' 버튼 클릭 [* 구글 계정으로는 얻을 수 없고 현재에도 얻을 수 없는 컬렉션이다. ] ||<:> 루나12개||
+||<:> 거상 ||<:> [[파일:external/s32.postimg.org/reward_market_01.png|width=75&align=center]] ||<:> 장사는 돈을 버는 것이 아니라 사람을 버는 것이다.[br][br]'''[[임상옥]]''' ||<:>암시장에 210루나 이상 팔기[* 시즌4 업데이트 후에 암시장이 사라져서 획득 불가 ] ||<:> 고대의 제작서 1개||
+||<:> 우리들의[br]카페 ||<:> [[파일:external/s32.postimg.org/reward_cafe_activity_03.png|width=75&align=center]] ||<:> 그곳은 기분좋은 카페였으며,[br]나는 코트에서 노트와 연필을 꺼내 글을 쓰기 시작했다.[br][br]'''[[어니스트 헤밍웨이]]''' ||<:>마피아42 공식 카페에서[br]아래 중 하나를 만족[br][br]시즌 1[br]▷ 방문 10위 이내[br]▷ 게시글 10위 이내[br]▷ 댓글 10위 이내[br][br]시즌 2[br]▷ 댓글, 방문 30위 이내[br]▷ 게시글, 방문 30위 이내[br]▷ 게시글 30위 이내+댓글 30위 이내[br]▷ 게시글, 댓글, 방문 30위 이내[br][* 자세한 기준은 [[http://cafe.naver.com/mafia42|이곳]]을 참고][* 최근에는 운영진이 카페에 관심이 없어서 못 얻는다...] ||<:> 루나 50개||
+[[분류:모바일 게임]]

@@ -1,0 +1,19 @@
+[[파일:external/p.eagate.573.jp/201609_msc_03.jpg]]
+
+[목차]
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡, 작곡은 unatra×Nego_tiator.
+
+== [[MÚSECA]] ==
+||||||||||||||<:><bgcolor=white> {{{#8b1c21 MÚSECA 난이도 체계}}} ||
+|| 곡명 |||||||||||| eXtridia ||
+|| [[BPM]] |||||||||||| 136 ||
+||<|2><:> 난이도 || {{{#green 翠}}} || {{{#orange 橙}}} || {{{#red 朱}}} ||
+|| {{{#green 4}}} || {{{#orange 10}}} || {{{#red 14}}} ||
+|| 체인 || {{{#green 171}}} || {{{#orange 439}}} || {{{#red 926}}} ||
+
+[youtube(nD2RRgC21d4, width=360, height=640)]
+朱 난이도 플레이 영상
+
+
+[[분류:MÚSECA의 수록곡]]

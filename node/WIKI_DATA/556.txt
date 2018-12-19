@@ -1,0 +1,10 @@
+[include(틀:토막글)]
+
+[목차]
+
+== 개요 ==
+[[https://sites.google.com/site/sleepasandroid/|홈페이지]] [[https://play.google.com/store/apps/details?id=com.urbandroid.sleep|다운로드]]
+
+Sleep as Android 앱은 [[Urbandroid Team]]에서 만든  [[안드로이드(운영체제)|안드로이드]] 수면시간 관리 및 알람 앱이다. 14일 동안 유료버전의 평가판을 사용할 수 있다.
+
+[[분류:애플리케이션]] [[분류:토막글/소프트웨어]]

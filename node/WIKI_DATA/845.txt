@@ -1,0 +1,118 @@
+*상위 문서: [[인터스테이트 하이웨이]]
+[[분류:미국의 도로]]
+[목차]
+
+= 개요 =
+주간고속도로 제 405호선(캘리포니아)는 [[캘리포니아]]주 [[로스앤젤레스]] 북부의 샌퍼난도 인근에서 [[주간고속도로 제 5호선]]에서 갈라져 나와
+캘리포니아주 어바인에서 다시 주간고속도로 제 5호선과 합류하는 남북간 고속도로이다.
+
+= 노선 정보 =
+샌퍼난도 - 밴나이스 - UCLA - [[로스앤젤레스 국제공항|LAX]] - 카슨 - 롱 비치 - 웨스트민스터 - 어바인
+
+= 구간 =
+||<-2> 소재지 || 번호 || 접속도로 || 비고 ||
+||<|33> 오렌지 카운티 ||<|11> 어바인 || || 주간고속도로 제 5호선 || [[샌디에이고]] 방향 진출과 로스앤젤레스 방향 진입만 가능, 남쪽 시종점 ||
+|| - || [[주간고속도로 제 5호선]] || 카풀 전용, 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 1A || Lake Forest Drive ||<|2> 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 1B || Bake Parkway ||
+|| 1C || Irvine Center Drive || 로스앤젤레스 방향은 1번으로 표기 ||
+|| 2 || 캘리포니아 주 고속도로 제 133호선 || 로스앤젤레스 방향에서 133호선 북으로 진입 불가 ||
+|| 3 || Shady Canyon Drive, Sandy Canyon Avenue || ||
+|| 4 || Jeffrey Road, University Drive || ||
+|| 5 || Culver Drive || ||
+|| 7 || Jamboree Road || ||
+|| 8 || MacArthur Boulevard || 존 웨인 오렌지 카운티 공항 접속도로 ||
+||<|8> 코스타 메사 || 9A || 캘리포니아 주 고속도로 제 55호선 || ||
+|| - || 캘리포니아 주 고속도로 제 55호선 북 || 카풀 전용 ||
+|| 9B || Anton Boulevard, Avenue of the Arts || 로스앤젤레스 방향 진출만 가능 ||
+|| 9B || Bristol Street || ||
+|| 10 || 캘리포니아 주 고속도로 제 73호선 (유료도로) || 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 11 || South Coast Drive || 로스앤젤레스 방향 진출만 가능 ||
+|| 11A || Fairview Road ||<|2> 로스앤젤레스 방향은 11번으로 표기 ||
+|| 11B || Harbor Boulevard ||
+||<|3> 파운틴 밸리 || 12 || Euclid Street, Newhope Street, Ellis Avenue || ||
+|| 14 || Brookhurst Street || ||
+|| 15A || Warner Avenue || ||
+||<|2> 헌팅턴 비치 || 15B || Magnolia Street || 로스앤젤레스 방향은 15번으로 표기 ||
+|| 16 || 캘리포니아 주 고속도로 제 39호선 || ||
+||<|5> 웨스트민스터 || 18 || Bolsa Avenue, Goldenwest Street ||
+|| 19 || Westminster Boulevard, Springdale Street || ||
+|| 20 || Bolsa Chica Road || 샌디에이고 방향 진출입만 가능 ||
+|| - || 캘리포니아 주 고속도로 제 22호선 || 카풀 전용, 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 21 || 캘리포니아 주 고속도로 제 22호선 / Valley View Street || SR-22 중첩구간 남쪽 시종점 ||
+||<|4> 씰 비치 || 22 || Seal Beach Boulevard, Los Alamitos Boulevard || ||
+|| 23 || 캘리포니아 주 고속도로 제 22호선 || SR-22 중첩구간 북쪽 시종점 ||
+|| - || 주간고속도로 제 605호선 || 카풀 전용, 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 24A || 주간고속도로 제 605호선 || 로스앤젤레스 방향은 24번으로 표기 ||
+||<|62> 로스앤젤레스 카운티 ||<|7> 롱 비치 || 24B || Studebaker Road || 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 25 || Palo Verde Avenue || 샌디에이고 방향 진출로 없음 ||
+|| 26A || Woodruff Avenue || 샌디에이고 방향은 25번으로 표기 ||
+|| 26B || Bellflower Boulevard, Los Coyotes Diagonal || 샌디에이고 방향은 26번으로 표기 ||
+|| 27 || Lakewood Boulevard || 롱 비치 공항 접속도로 ||
+|| 29A || Temple Avenue, Spring Street ||  ||
+|| 29B || Cherry Avenue || ||
+|| 시그널 힐 || 29C || Orange Avenue, 32nd Street || ||
+||<|5> 롱 비치 || 30A || Atlantic Avenue || ||
+|| 30B || Long Beach Boulevard || ||
+|| 32A || Pacific Place || 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 32 || 주간고속도로 제 710호선 || 샌디에이고 방향은 32B와 32C로, 로스앤젤레스 방향은 32A와 32B로 표기 ||
+|| 32C || Wardlow Road, Santa Fe Avenue, Hughes Way || 샌디에이고 방향은 32D로 표기 ||
+||<|6> 카슨 || 33A || Alameda Street, 223rd Street, Wardlow Road || ||
+|| 33B || Wilmington Avenue || ||
+|| 34 || Carson Street || ||
+|| 35 || Avalon Boulevard || ||
+|| 36 || Main Street || 로스앤젤레스 방향 진출과 샌디에이고 방향 진입만 가능 ||
+|| 37A || 주간고속도로 제 110호선 || 로스앤젤레스 방향은 37번으로 표기 ||
+||<|3> 로스앤젤레스 || 37 || Vermont Avenue, 190th Street || 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 38A || Normandie Avenue, 190th Street || ||
+|| 38B || Western Avenue, 190th Street || ||
+||<|3> 토랜스 || 39 || Crenshaw Boulevard, 182nd Street || ||
+|| 40 || Artesia Boulevard || 샌디에이고 방향은 40A로 표기 ||
+|| 40B || Redondo Beach Boulevard || 샌디에이고 방향 진출과 로스앤젤레스 방향 진입만 가능 ||
+|| 론데일 || 42A || Hawthorne Boulevard || ||
+|| 레돈도 비치 || 42B || Inglewood Avenue || ||
+||<|2> 허손 || 43 || Rosecrans Avenue, Hindry Avenue || 샌디에이고 방향은 43A와 43B로 분리 표기 ||
+|| 44 || El Segundo Boulevard || ||
+||<|2> 로스앤젤레스 || 45A || 주간고속도로 제 105호선 || 샌디에이고 방향은 45번으로 표기 ||
+|| 45B || Imperial Highway || 샌디에이고 방향은 46번으로 진출 ||
+||<|2> 잉글우드 || 46 || Century Boulevard || ||
+|| 47 || Manchester Boulevard, La Cienega Boulevard || ||
+||<|2> 로스앤젤레스 || 48 || La Tijera Boulevard || ||
+|| 49A || Howard Hughes Parkway || 샌디에이고 방향은 49번으로 표기 ||
+||<|5> 컬버 시티 || 49B || Sepulveda Boulevard || 로스앤젤레스 방향 진출 전용 ||
+|| 50A || Jefferson Boulevard || 로스앤젤레스 방향 50B ||
+|| 50B || 캘리포니아 주 고속도로 제 90호선 || 로스앤젤레스 방향 50A ||
+|| 51 || Culver Boulevard, Sawtelle Boulevard, Braddock Drive || ||
+|| 52 || Sawtelle Boulevard, Sepulveda Boulevard || ||
+||<|22> 로스앤젤레스 || 53A || National Boulevard || 로스앤젤레스 방향 진출 및 샌디에이고 방향 진입만 가능 ||
+|| 53B || [[주간고속도로 제 10호선]] || 샌디에이고 방향은 53번으로 표기 ||
+|| 54 || Sawtelle Boulevard, Cotner Avenue || 샌디에이고 방향 진출 및 로스앤젤레스 방향 진입만 가능 ||
+|| 55A || 캘리포니아 주 고속도로 제 2호선 (Santa Monica Boulevard) || ||
+|| 55B || Wilshire Boulevard || 샌디에이고 방향은 55B 및 55C로 표기 ||
+|| 57A || Sunset Boulevard || 샌디에이고 방향은 57번으로 표기 ||
+|| 57B || Sepulveda Boulevard, Moraga Drive || 로스앤젤레스 방향 진출입 전용 ||
+|| 59 || Sepulveda Boulevard || ||
+|| 61 || Mulholland Drive, Skirball Center Drive || ||
+|| 63A || Ventura Boulevard, Valley Vista Boulevard || ||
+|| 63B || US 하이웨이 제 101호선 || ||
+|| 64 || Burbank Boulevard || ||
+|| 65 || Victory Boulevard, Haskell Avenue || ||
+|| 66 || Sherman Way, Haskell Avenue || 로스앤젤레스 방향은 66A 및 66B로 표기 ||
+|| 68 || Roscoe Boulevard || ||
+|| 69 || Nordhoff Street || ||
+|| 70 || Devonshire Street || ||
+|| 71A || 캘리포니아 주 고속도로 제 118호선 || 샌디에이고 방향은 71번으로 표기, 샌디에이고 방향에서 SR-118 동으로 진출 불가, SR-118 서에서 로스앤젤레스 방향으로 진입 불가 ||
+|| 71B || San Fernando Mission Boulevard, Orion Avenue || 로스앤젤레스 방향 진출 및 샌디에이고 방향 진입만 가능 ||
+|| 72 || Rinaldi Street, Sepulveda Boulevard || ||
+|| || [[주간고속도로 제 5호선]] || 로스앤젤레스 방향 진출 및 샌디에이고 방향 진입만 가능, 북쪽 시종점 ||
+
+= 기타 =
+ *[[캘리포니아 대학교/어바인 캠퍼스|캘리포니아 대학교 어바인]]은 University Drive를 통해 연결되며, [[캘리포니아 대학교/로스앤젤레스 캠퍼스|캘리포니아 대학교 로스앤젤레스]]는 Wilshire Boulevard와
+ Sunset Boulevard를 통해 연결된다. 
+
+ *오렌지 카운티와 로스앤젤레스 카운티의 여러 공항으로 연결이 가능하다. 
+  *MacArthur Boulevard를 통해 오렌지 카운티 존 웨인 공항으로 연결 
+  *Lakewood Boulevard와 Spring Street를 통해 롱 비치 공항으로 연결
+  *주간고속도로 제 105호선과 Century Boulevard를 통해 [[로스앤젤레스 국제공항]]으로 연결
+
+ *미국 서남부 물류의 메카인 롱 비치 - 카슨 - LAX를 잇는 고속도로이니 만큼 화물차들이 많이 다닌다. 거기에 출퇴근시간에는 오렌지 카운티와 로스앤젤레스 근교지역에서 로스앤젤레스 다운타운으로 출퇴근하는 인구가 합쳐져 엄청난 [[헬게이트]]가 열린다. 얼마나 극심하면 2011년 7월 15일부터 3일간 고속도로 일부분을 폐쇄하기 전에 지역언론들이 폐쇄기간동안 "카마겟돈[* car(자동차) +[[아마겟돈]]]" 혹은 "카포칼립스[* car+[[아포칼립스]]]"가 일어날 것이라고 예측하는 보도를 내놓았었다. 하지만 정작 실제 폐쇄기간동안의 교통량은 평상시 교통량보다 적었다.

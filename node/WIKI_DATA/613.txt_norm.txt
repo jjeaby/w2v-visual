@@ -1,0 +1,30 @@
+1 nishi gory station
+일본 철도 정보 역 관련 정보 홋카이도
+tablealign right 6 2 니시고료역
+6 bgcolor 2cb431 jr 홋카이도 ffffff jr 홋카이도
+width 34 2 bgcolor ffffff 아사히카와역 html div style font size 13px font color 000000 아사히카와 방면 font 미도리가오카역 홋카이도 미도리가오카 br 1 2 km width 32 2 bgcolor aa5ea6 후라노선 html div style font size 11px font color ffffff 후라노선 font html div style font size 11px font color ffffff f31 font width 34 2 bgcolor ffffff 후라노역 html div style font size 13px font color 000000 후라노 방면 font 니시미즈호역 니시미즈호 br 2 2 km아사히카
+6 include 틀 지도 장소 너비 100 높이 300px
+6 bgcolor c0c0c0 다국어 표기
+2 일본어 4 br
+2 영어 4 nishi gory
+6 bgcolor c0c0c0 주소
+6 홋카이도 아사히카와 시 니시고료4죠 3초메 br 4 3아사히카
+6 bgcolor c0c0c0 역 운영기관
+2 bgcolor aa5ea6 후라노선 ffffff 후라노선 4 bgcolor ffffff jr 홋카이도 파일 jr홋카이도 png width 150
+6 bgcolor c0c0c0 개업일
+6 1958년 3월 25일
+6 bgcolor c0c0c0 노선거리표
+width 34 2 bgcolor ffffff 아사히카와역 html div style font size 13px font color 000000 아사히카와 방면 font 미도리가오카역 홋카이도 미도리가오카 br 1 2 km width 32 2 후라노선 br 니시고료 width 34 2 bgcolor ffffff 후라노역 html div style font size 13px font color 000000 후라노 방면 font 니시미즈호역 니시미즈호 br 2 2 km아사히카
+파일 external userdisk webry biglobe ne jp 144664426108617196178 jpg width 640
+http s webry info sp onetouchdrawing2008 at webry info 201407 article 35 html 출처
+목차
+개요
+일본 홋카이도 아사히카와 시에 위치한 jr 홋카이도 후라노선 의 역으로 무인역이다아사히카
+역 주변에는 도립 아사히카와 공업고등학교 니시고료치 소학교 고료 공원 등이 있다아사히카
+역 및 승강장 구조
+단선식 승강장을 갖춘 지상역이다
+2 미도리가오카역 홋카이도 미도리가오카
+width 10px ㅣ bgcolor aa5ea6 ffffff
+2 니시미즈호역 니시미즈호
+bgcolor aa5ea6 ffffff aa5ea6 후라노선 상 하행 아사히카와역 아사히카와 비에이역 비에이 후라노역 후라노 방면아사히카
+분류 일본의 철도역 분류 후라노선

@@ -1,0 +1,225 @@
+상위문서 전함소녀 심해함선
+목차
+개요
+이벤트에 등장하는 특수 심해함선들 중 독일쪽을 모티브로 한 함선들의 목록
+비스마르크
+table align center bgcolor f0f0f0 1 일러스트 ns
+width 100 bgcolor ffffff 파일 l normal 9813 png width 100
+bgcolor f0f0f0 비스마르크
+능력치
+bgcolor blue 999 white 비스마르크
+bgcolor 9090ff 형식 bgcolor 1175aa white 비스마르크 lv 100
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 126
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 123
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 0
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 116
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 78
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 73
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 장
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 45
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 32
+bgcolor 9090ff 4 장비 대형 3연장포
+대형 3연장포
+심해정찰기
+대공레이더 형
+bgcolor 9090ff 100 출현 해역
+100 비스마르크 2016 발키리 이벤트 ex 3 boss
+설명
+2016년 발키리 이벤트의 3해역 기함 공격받으면 반격하기 때문에 귀찮다
+티르피츠
+table align center bgcolor f0f0f0 1 일러스트 ns
+width 100 bgcolor ffffff 파일 l normal 9814 png width 100
+bgcolor f0f0f0 티르피츠
+능력치
+bgcolor blue 999 white 티르피츠
+bgcolor 9090ff 형식 bgcolor 1175aa white 티르피츠 lv 100
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 325
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 156
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 0
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 173
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 87
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 101
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 장
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 40
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 28
+bgcolor 9090ff 4 장비 독일 380mm 2연장포
+독일 150mm 2연장포
+ar 196 수상정찰기
+bgcolor 9090ff 100 출현 해역
+100 비스마르크 2016 발키리 이벤트 ex 5 boss
+설명
+2016년 발키리 이벤트의 5해역 기함 엄청난 내구력때문에 귀찮다
+힌덴부르크
+table align center bgcolor f0f0f0 1 일러스트 15k
+width 100 bgcolor ffffff 파일 l normal 9818 png width 100
+bgcolor f0f0f0 힌덴부르크
+능력치
+bgcolor blue 999 white 힌덴부르크
+bgcolor 9090ff 형식 bgcolor 1175aa white 힌덴부르크 lv 94
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 288
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 116
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 16
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 132
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 58
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 78
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 장
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 40
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 32
+bgcolor 9090ff 4 장비 대형 3연장포
+대형 3연장포
+심해고속 정찰기
+대공레이더 형
+bgcolor 9090ff 100 출현 해역
+100 힌덴부르크 2017 불의 고리 이벤트 ex 5 boss
+설명
+h급 전함 을 모티브로 한 심해함선
+바르바로사
+table align center bgcolor f0f0f0 1 일러스트 15k
+width 100 bgcolor ffffff 파일 l normal 9817 png width 100
+bgcolor f0f0f0 바르바로사
+능력치
+bgcolor blue 999 white 바르바로사
+bgcolor 9090ff 형식 bgcolor 1175aa white 바르바로사 lv 100
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 2333
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 145
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 16
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 136
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 1
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 69
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 장
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 37
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 32
+bgcolor 9090ff 4 장비 독일 533mm 2연장포
+독일 533mm 2연장포
+추가장갑 대형
+개량형 터빈
+bgcolor 9090ff 100 출현 해역
+100 바르바로사 2017 불의 고리 이벤트 ex 6 boss
+내용
+o급 순양전함을 모티브로 한 심해함선 2333이라는 정신나간 내구도를 자랑한다 특히 불의 고리 ex 6은 보급이 안되기 때문에 난이도가 상당히 높다
+데르플링거
+table align center bgcolor f0f0f0 1 일러스트 15k
+width 100 bgcolor ffffff 파일 l normal 9819 png width 100
+bgcolor f0f0f0 데르플링거
+능력치
+bgcolor blue 999 white 데르플링거
+bgcolor 9090ff 형식 bgcolor 1175aa white 데르플링거 lv 90
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 234
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 138
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 12
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 90
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 53
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 48
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 장
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 65
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 26
+bgcolor 9090ff 4 장비 대형 3연장포
+대형 3연장포
+심해고속정찰기
+대공레이더 ii형
+bgcolor 9090ff 100 출현 해역
+100 데르플링거 2017 두려움이 없는 바다 이벤트 ex 5 boss
+내용
+데르플링거급 순양전함을 모티브로 한 심해함선 2017년 5월 이벤트의 e 4 해역 보스로 등장했다 순양전함이라서 항모 폭격으로 살살 녹았다 e 7해역에서는 그로세의 수반함이 되어 다시 등장했다 유틀란트 해전을 재현하고자 6 4해역의 d지점에서도 등장하게 되었다
+프리드리히 데어 그로세
+table align center bgcolor f0f0f0 2 일러스트 15k
+width 50 bgcolor ffffff 파일 l normal 9820 png width 100 width 50 bgcolor ffffff 파일 l normal 9821 png width 100
+bgcolor f0f0f0 프리드리히 데어 그로세 bgcolor f0f0f0 프리드리히 데어 그로세 개
+능력치
+bgcolor blue 999 white 프리드리히 데어 그로세
+bgcolor 9090ff 형식 bgcolor 1175aa white 프리드리히 데어 그로세 lv 100 bgcolor 1175aa white 프리드리히 데어 그로세 최후 lv 120
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 236 312
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 177 200
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 0 0
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 150 233
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0 0
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 68 88
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 86 103
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 장 초장
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 42 45
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 28 28
+bgcolor 9090ff 4 장비 독일 380mm 2연장포 독일 406mm 2연장포
+독일 150mm 2연장포 독일 150mm 2연장포
+대형 3연장포 대형 3연장포
+ar 196 수상정찰기 ar 196 수상정찰기
+bgcolor 9090ff 100 출현 해역
+100 프리드리히 2017 두려움이 없는 바다 ex 6 boss br 프리드리히 개 2017 두려움이 없는 바다 ex 7 boss
+내용
+카이저급 전함 2번함 프리드리히 데어 그로세를 모티브로 한 심해함선 2017년 5월 해역이벤트에 등장했다 이미지가 처음 공개되었을 때에는 모자의 해골장식 때문에 아우구스트 폰 마켄젠 을 모티브로 한 마켄젠급 순양전함 마켄젠으로 여겨졌다
+e 6해역에서도 이벤트 최종보스급 스펙을 자랑했지만 최종해역인 7해역에서는 중파 티가 나는 외형으로 변한데다 성능도 한층 더 파워업 해서 내구312에 장갑이 무려 233이란 경이로운 맷집을 자랑한다 항모의 폭격으로는 흠집도 안 날 정도 잠수함 어뢰 죽창에는 얄짤 없다
+2017년 6월부로 중국 서버에서는 유틀란트 해전을 기념하여 워스파이트 전함소녀 워스파이트 로열 오크 전함소녀 로열 오크 의 스킨 발매와 함께 몰트케 전함소녀 몰트케 가 보상으로 지급되는 미니이벤트가 실시되었는데 이벤트와 맞물려 그로세와 데르플링거가 6 4해역의 d 지점에서 랜덤으로 등장하게 되었다 몰트케의 지급조건이 바로 그로세를 격침시키는 것
+슐레스비히 홀슈타인
+table align center bgcolor f0f0f0 1 일러스트 15k
+width 100 bgcolor ffffff 파일 l normal 9825 png width 100
+bgcolor f0f0f0 슐레스비히 홀슈타인
+능력치
+bgcolor blue 999 white 슐레스비히 홀슈타인
+bgcolor 9090ff 형식 bgcolor 1175aa white 슐레스비히 홀슈타인 lv 42 bgcolor 1175aa white 슐레스비히 홀슈타인 lv 80 bgcolor 1175aa white 슐레스비히 홀슈타인 lv 95 bgcolor 1175aa white 슐레스비히 홀슈타인 lv 100
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 128 94 172 125
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 123 128 145 145
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 0 0 0 0
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 80 40 108 54
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0 98 0 108
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 65 35 80 35
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 60 0 77 0
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 장 중 장 중
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 38 28 62 40
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0 0 0 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 15 15 15 15
+bgcolor 9090ff 명중
+bgcolor 9090ff 대공보정 0 0 0 0
+bgcolor 9090ff 4 장비 15인치 연장포 개 소형단장고사포 15인치 연장포 개 소형단장고사포
+40mm 4연장 폼폼포 심해고속어뢰 40mm 4연장 폼폼포 심해고속어뢰
+없음 대수상레이더 ii형 없음 대수상레이더 ii형
+없음 심해폭뢰투사기 ii형 없음 심해폭뢰투사기 ii형
+bgcolor 9090ff 100 출현 해역
+100 슐레스비히 홀슈타인 lv 42 2017 사상최대의 작전 이벤트 ex 2 boss기함 br 슐레스비히 홀슈타인 lv 80 2017 사상최대의 작전 이벤트 ex 5 boss보조함 br 슐레스비히 홀슈타인 lv 95 2017 사상최대의 작전 이벤트 ex 7 boss기함 br 슐레스비히 홀슈타인 lv 100 2017 사상최대의 작전 이벤트 ex 10 boss보조함
+내용
+독일제국의 도이칠란트급 전드레드노트함 슐레스비히 홀슈타인을 모티브로 한 심해함선 최초의 모니터함종의 심해함선이다홀슈타인
+레오폴드 k5
+table align center bgcolor f0f0f0 2 일러스트 15k
+width 50 bgcolor ffffff 파일 l normal 9826 png width 100 width 50 bgcolor ffffff 파일 l normal 9827 png width 100
+bgcolor f0f0f0 레오폴트 bgcolor f0f0f0 레오폴트 개
+능력치
+bgcolor blue 999 white 레오폴트
+bgcolor 9090ff 형식 bgcolor 1175aa white 레오폴트 lv 56 bgcolor 1175aa white 레오폴트 lv 87 bgcolor 1175aa white 레오폴트 lv 105 bgcolor 1175aa white 레오폴트 lv 100
+width 22 bgcolor 9090ff 파일 전함소녀 내구도 png width 20 내구 233 600 333 900
+bgcolor 9090ff 파일 전함소녀 화력 png width 20 화력 108 122 153 166
+bgcolor 9090ff 파일 전함소녀 탑재량 png width 20 탑재 200 200 200 200
+bgcolor 9090ff 파일 전함소녀 장갑 png width 20 장갑 0 0 0 0
+bgcolor 9090ff 파일 전함소녀 어뢰 png width 20 어뢰 0 0 0 0
+bgcolor 9090ff 파일 전함소녀 행운 png width 20 행운
+bgcolor 9090ff 파일 전함소녀 회피 png width 20 회피 10 10 10 10
+bgcolor 9090ff 파일 전함소녀 대공 png width 20 대공 100 120 135 150
+bgcolor 9090ff 파일 전함소녀 사정거리 png width 20 사정 최장 최장 최장 중
+bgcolor 9090ff 파일 전함소녀 색적 png width 20 색적 75 80 80 90
+bgcolor 9090ff 파일 전함소녀 대잠 png width 20 대잠 0 0 0 0
+bgcolor 9090ff 파일 전함소녀 속도 png width 20 속도 1 1 1 1
+bgcolor 9090ff 명중
+bgcolor 9090ff 대공보정 0 0 0 0
+bgcolor 9090ff 4 장비 대형 3연장포 대형 3연장포 대형 3연장포 대형 3연장포
+대형 3연장포 대형 3연장포 대형 3연장포 대형 3연장포
+심해폭격기 ii형 심해폭격기 ii형 심해폭격기 ii형 심해폭격기 ii형
+탈리에도 스티파 탈리에도 스티파 탈리에도 스티파 탈리에도 스티파
+bgcolor 9090ff 100 출현 해역
+100 레오폴트 lv 56 2017 사상최대의 작전 이벤트 ex 3 boss기함 br 레오폴트 lv 87 2017 사상최대의 작전 이벤트 ex 5 boss기함 br 레오폴트 lv 105 2017 사상최대의 작전 이벤트 ex 8 boss기함 br 레오폴트 lv100 2017 사상최대의 작전 이벤트 ex 10 boss기함
+내용
+2차 대전때 나치독일의 열차포 k5 를 모티브로 한 심해함선 육상기지로 특이하게 켄타우로스처럼 생겼다육상기지

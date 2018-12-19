@@ -1,0 +1,65 @@
+include 틀 프로젝트 문서 프로젝트 나무위키 일본철도 프로젝트
+6 tablewidth 100 bgcolor ffffff jr 니시니혼 0072bc jr 니시니혼 0072bc 의 일반철도
+6 한와선 000000 한와선
+width 28 텐노지역 gray 텐노지 gray 방면 br 키이나카노시마역 000000 키이나카노시마 width 8 1 br 1 1 km 2 width 28 000000 와카야마 width 8 1 width 28 gray 시종점
+6 키세이 본선 000000 키세이 본선
+width 28 카메야마역 미에현 gray 카메야마 gray 방면 br 미야마에역 000000 미야마에 width 8 1 br 2 1 km 2 width 28 000000 와카야마 width 8 1 br 1 8 km width 28 와카야마시역 gray 와카야마시 gray 방면 br 키와역 와카야마현 000000 키 와
+6 와카야마선 000000 와카야마선
+width 28 오지역 나라현 gray 오지 gray 방면 br 타이노세역 000000 타이노세 width 8 1 br 4 6 km 2 width 28 000000 와카야마 width 8 1 width 28 gray 시종점
+6 bgcolor 0072bc jr 니시니혼 ffffff jr 니시니혼
+6 bgcolor ff6600 한와선 000000 r br 한와선
+width 28 텐노지역 gray 텐노지 gray 방면 br 키이나카노시마역 000000 키이나카노시마 000000 jr r53 width 8 1 br 1 1 km 2 width 28 000000 와카야마 br 000000 jr r54 width 8 1 width 28 gray 시종착
+3 bgcolor 00a6b4 키세이 본선 ffffff w br 키세이 본선 3 bgcolor 808080 키세이 본선 ffffff 키세이 본선
+width 28 고보역 gray 고보 gray 방면 br 미야마에역 000000 미야마에 width 8 1 br 2 1 km 2 2 width 28 000000 와카야마 width 8 1 width 28 gray 시종착
+width 28 gray 시종착 width 8 1 width 8 1 br 1 8 km width 28 와카야마시역 gray 와카야마시 gray 방면 br 키와역 와카야마현 000000 키 와
+6 bgcolor ffc0cb 와카야마선 000000 t br 와카야마선
+width 28 오지역 나라현 gray 오지 gray 방면 br 타이노세역 000000 타이노세 width 8 1 br 4 6 km 2 width 28 000000 와카야마 width 8 1 width 28 gray 시종착
+6 da381b 와카야마 전철 ffffff 와카야마 전철
+6 e15e45 와카야마 전철 s 2 ffffff 키시가와선
+width 28 gray 시종착 width 8 1 2 width 28 000000 와카야마 br 000000 01 width 8 1 br 0 6 km width 28 키시역 와카야마현 gray 키시 gray 방면 br 타나카구치역 000000 타나카구치 000000 02
+1 wakayama station
+일본 철도 정보 역 관련 정보 와카야마현
+tablealign right bgcolor 0072bc jr 니시니혼 ffffff jr 니시니혼 ffffff 와카야마 전철 ffffff 와카야마 전철 br 2 ffffff br ffffff
+include 틀 지도 장소 jr 너비 100 높이 300px
+bgcolor c0c0c0 역정보
+영어표기 wakayama
+한글표기 와카야마
+2 역번호 bgcolor ff6600 000000 jr r54 한와선 000000 한와선
+bgcolor e15e45 ffffff 01 와카야마 전철 s 2 ffffff 키시가와선
+width 80px 소재지 와카야마 현 와카야마 도시 와카야마 시 미소노초5초메 61 br 61
+개업일 1924년 2월 28일
+파일 external community c yimg jp f64e1280 jpg width 800px
+http community travel yahoo co jp mymemo izuminosakura blog 137765 html
+목차
+개요
+일본 와카야마 현 와카야마 도시 와카야마 시에 위치한 jr 니시니혼 과 와카야마 전철 의 철도역이며 양사의 공동사용역이다 jr 니시니혼 의 한와선 과 와카야마선 의 시종착역이자 키세이 본선 키노쿠니선 의 경유역이며 와카야마 전철 의 키시가와선의 시발역이다 하지만 키세이 본선의 경우 이 역과 와카야마시역 구간은 지선으로 분류되어 구간 왕복 열차로 달리며 대부분의 열차가 한와선과 직통운행한다 비슷한 역명의 와카야마시역 과의 구분을 위해 일반적으로 이 역을 와역 와카야마시역 을 시역 으로 부르기도 한다
+역 앞에 와카야마 터미널 빌딩이 서 있으며 여기에는 킨테츠백화점이 입점해 있어 주변 상권을 담당하고 있다 여담으로 현청 시청이나 와카야마 성 등은 이 역이 아닌 와카야마시역에 가야 가깝다 하지만 번화가는 단연 이쪽이다
+역 및 승강장
+1 ff6600 한와선 텐노지 신오사카 교토 방면 주로 특급 쿠로시오
+2 3 ff6600 한와선 텐노지 신오사카 교토 방면 주로 보통 쾌속
+2 4 5 00bfff 키노쿠니선 고보 키이타나베 시라하마 신구 방면
+ff6600 한와선 히네노 오토리 텐노지 간사이공항 방면
+7 ffc0cb 와카야마선 코카와 하시모토 고조 방면
+8 999999 키세이선 키와 와카야마시 방면
+9 e15e45 키시가와선 교통센터앞 키시 방면
+전체 5면 8선식 승강장이며 1 5번 승강장을 한와선과 키세이 본선이 사용하고 7번 승강장은 와카야마선 8번 승강장은 키세이선 와카야마시 방향 지선 9번 승강장은 키시가와선이 사용한다
+와카야마 전철 에서는 자동개찰구를 사용하지 않기 때문에 jr 노선에서 키시가와선으로 환승할 때에는 플랫폼에 있는 매표소에서 표를 사야한다 와카야마역에서 기본요금만 내는 구간으로 이동할 때에는 표를 사지 않고 승무원에게 바로 현금을 내도 된다 반대로 키시가와선에서 jr로 환승할 때에는 매표소 직원에게 열차에서 뽑은 정리권과 함께 요금을 내 정산권을 받은 뒤 jr 개찰구로 나가서 표를 사거나 도착역 역무원에게 정산을 받아야 한다 icoca 를 사용하는 사람은 매표소 옆에 있는 자동개찰구를 이용하면 된다자동개찰구 자동개찰구
+완급결합
+한와선 키노쿠니선 키슈지 쾌속은 키세이 본선에서 보통으로 바뀐다
+0072bc ffffff 쿠 로 시 오
+width 100px 텐노지역 텐노지 br 이즈미후츄역 이즈미후츄 br 히네노역 히네노 br 이즈미스나가와역 이즈미스나가와 1 width 100px 와카야마 1 width 100px 카이난역 카이난이즈미스나가
+ff6600 ffffff 쾌 속
+width 100px 무소타역 무소타 1 width 100px 와카야마 1 width 100px 키미이데라역 키미이데라
+335099 ffffff 직 통 쾌 속
+width 100px 무소타역 무소타 1 width 100px 와카야마 1 width 100px 시종착역
+ff6600 ffffff 키슈지쾌속 width 100px 무소타역 무소타 1 width 100px 와카야마 1 width 100px 미야마에역 미야마에
+009933 ffffff 구간 쾌속
+width 100px 키이나카노시마역 키이나카노시마 1 width 100px 와카야마 1 width 100px 시종착역
+808080 ffffff 보 통
+width 100px 키이나카노시마역 키이나카노시마 1 width 100px 와카야마 1 width 100px 미야마에역 미야마에
+와카야마선
+ff6600 ffffff 쾌 속
+width 100px 이와데역 이와데 1 width 100px 와카야마 1 width 100px 시종착역
+808080 ffffff 보 통
+width 100px 타이노세역 타이노세 1 width 100px 와카야마 1 width 100px 시종착역
+분류 일본의 철도역 분류 한와선 분류 키세이 본선 분류 와카야마선 분류 와카야마 전철 키시가와선

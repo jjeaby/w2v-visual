@@ -1,0 +1,77 @@
+=== 리그 개요 ===
+ * 총 상금: ₽ 3,000,000
+ * 시작일: 2015-05-30
+ * 종료일: 2015-07-26
+=== 참가팀 ===
+ * Carpe Diem 
+ * Dragon Team 
+ * RoX
+ * Team Just
+ * Dolphins of Wall Street
+ * Hard Random
+ * SolarWind
+ * Your Exit
+=== Summer Promotion ===
+ * Spring Split에서 꼴찌를 기록한 두 팀과 SLTV ProSeries라는 2군 리그의 최상위 두 팀, 그리고 대학배틀 우승팀 
+ * 즉, 승강전이다. 
+==== 참가팀 ====
+StarSeries에서 내려온 두 팀 
+ * Internationally V
+ * Team Just
+프로시리즈에서 올라온 두 팀 
+ * SolarWInd
+ * Team Galaxy
+대학배틀 우승팀
+ * NAU
+
+==== 결과 ====
+A조
+|| JUST || 0 || 2 || SOL ||
+B조 1경기
+|| Galaxy || W || 기권 || NAU ||
+B조 2경기
+|| Galaxy || 2 || 0 || IV ||
+
+* Team Just와 Galaxy가 붙어 Team Just가 승리
+
+=== Summer split ===
+||<#3399FF> 순위 ||<#3399FF> 팀명 ||<#3399FF> '''승패''' ||<#3399FF> 점수||
+||<#87CEFA> 1 || Hard Random || '''10-4''' || 30 ||
+||<#87CEFA> 2 || Dolphins of Wall Street || '''9-5''' || 27 ||
+||<#87CEFA> 3 || RoX || '''9-5''' || 27 ||
+||<#87CEFA> 4 || Carpe Diem || '''9-5''' || 27 ||
+||<#87CEFA> 5 || Team Just || '''8-6''' || 24 ||
+||<#87CEFA> 6 || SolarWind || '''6-8''' || 18 ||
+||<#87CEFA> 7 || Dragon Team || '''3-11''' || 9 ||
+||<#87CEFA> 8 || Your Exit || '''2-12''' || 6 ||
+==== Tiebreaker ====
+||<#3399FF> 순위 ||<#3399FF> 팀명 ||<#3399FF> '''승패''' ||<#3399FF> 점수||
+||<#87CEFA> 1 || Dolphins of Wall Street || '''2-0''' || 6 ||
+||<#87CEFA> 2 || RoX || '''1-1''' || 3 ||
+||<#87CEFA> 3 || Carpe Diem || '''0-2''' || 0 ||
+==== 플레이오프 A ====
+|| RoX || 3 || 0 || SOL ||
+==== 플레이오프 B ====
+|| CD || 3 || 2 || Just ||
+
+=== Summer Finals ===
+ * 싱글 엘리미네이션
+ * 여기서 이긴 1위 팀이 2015 롤드컵(와일드카드)에 CIS대표 자격으로 참가한다. 
+ * 5판 3승제
+
+==== 참가자 ====
+ * Carpe Diem 
+ * Dolphins of Wall Street
+ * Hard Random
+ * RoX
+
+==== 경기 결과 ====
+|| 준결승 ||
+||  HR || 3 || 0 || CD ||
+|| DWS || 3 || 0 || RoX ||
+
+|| 결승 ||
+|| HR || 3 || 2 || DWS ||
+
+3,4위 결정전 
+||  CD || 0 || 3 || RoX ||

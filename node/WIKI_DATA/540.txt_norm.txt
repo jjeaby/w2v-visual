@@ -1,0 +1,8 @@
+tablewidth 100 tablealign center tablebordercolor 396 bgcolor fc0 파일 고양시 ci 배경제거 png 덕양구 ffffff 덕양구 틀 덕양구의 법정동 ffffff 의 법정동 ffffff 법정동
+ffffff folding 펼치기 접기
+tablewidth 100 bgcolor 039 width 10 4 법정동 white 법정동 rowbgcolor fff width 10 강매동 width 10 고양동 width 10 관산동 width 10 내곡동 고양 내곡동 width 10 내유동 width 10 대자동 width 10 대장동 고양 대장동 width 10 덕은동
+rowbgcolor fff 도내동 동산동 벽제동 북한동 삼송동 선유동 성사동 신원동 고양 신원동
+rowbgcolor fff width 10 신평동 고양 신평동 width 10 오금동 고양 오금동 width 10 용두동 고양 용두동 width 10 원당동 고양 원당동 width 10 원흥동 width 10 주교동 고양 주교동 width 10 지축동 width 10 토당동
+rowbgcolor fff 행신동 행주내동 행주외동 향동동 현천동 화전동 고양 화전동 화정동 고양 화정동 효자동 고양 효자동
+bgcolor 396 9 white 밑줄 은 구청 white 구청 소재지
+분류 일반구의 읍면동 틀

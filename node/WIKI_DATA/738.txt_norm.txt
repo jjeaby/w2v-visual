@@ -1,0 +1,13 @@
+19 080 tablealign center 1 말리 역사 ffd700 말리의 역사 histoire du mali
+folding 펼치기 접기
+wiki style margin 11px margin bottom 15px
+3 ffffff 고대 009000 고대 4 ffffff 중세 009000 중세 4 ffffff 중근세 009000 중근세 2 ffffff 근대 009000 근대 2 ffffff 현대 009000 근현대 4 ffffff 현대 009000 현대
+5 ffcc33 베르베르 만데 유목민 1 2 ffcc33 베르베르 베르베르 1 cc0000 1 무라비트 fff 무라비트 1 1 f43b2e 베르베르 fff 베르베르 1 f43b2e 투아레그 fff 투아레그 1 1 f43b2e 베르베르 fff 베르베르 5 a52a2a 송가이 제국 fff 송가이 제국 2 2 cc0000 사드 왕조 fff 사드 왕조 br br 베르베르 ffffff 베르베르 2 2 cc0000 알리위 왕조 fff 알라위 왕조 br br 베르베르 ffffff 베르베르 1 cc0000 알라위 왕조 fff 알라위 9 003399 프랑스 fff 프랑스 9 003399 말리 fff 말리 공화국 9 003399 말리 fff 말리 공화국 br br 서아프리카 연방 ffffff 말리 세네갈 연방 9 080 말리 fff 말리 공화국 9 000 말리 fff 말리 내전 br br 서아프리카 연방 ffffff 아자와드 공화국 br br vs br br 알카에다 br br vs br br 정부군 9 080 말리 fff 말리 공화국
+2 4 cd853f 가오 왕국 fff 가오 왕국 br 송가이 왕국 ffffff 송가이 왕국 7 006400 말리 제국 fff 말리 제국 1 1 f43b2e 투아레그 fff 투아레그 1 f43b2e 투아레그 fff 투아레그
+1 1 d2691e 가나 왕국 fff 가나 2 af002a 송가이 제국 fff 송가이 2 af002a 덴디 왕국 fff 덴디 왕국 5 006400 바마나 제국 fff 바마나 제국 4 a52a2a 마시나 제국 fff 마시나 제국 5 1 8b4513 투쿨로르 제국 fff 투쿨로르 제국
+2 ffcc33 유목민 만데 6 d2691e 가나 왕국 ffffff 가나 제국 1 f4a460 메마 왕국 fff 메마 1 f4a460 소꼬 왕국 fff 소꼬 1 d2691e 메마 왕국 fff 메마
+1 2 f4a460 젠네 왕국 ffffff 젠네 1 d2691e 젠네 fff 젠네 2 2 d2691e 마시나 왕국 fff 마시나 왕국
+3 2 cd853f 가나 왕국 fff 가나 br 왕국 2 f4a460 칸가베 왕조 fff 칸가베 1 f4a460 사마 왕국 ffffff 사마 3 2 006c35 말리 fff 말리 제국
+f4a460 디아피누 왕국 ffffff 디아피누 1 2 006c35 말리 제국 fff 말리 제국 1 1 006c35 바마나 제국 fff 바마나 제국
+1 f4a460 타크룰 왕국 fff 타크룰 1 f4a460 기르유 왕국 fff 기르유 2 2 cd853f 풀로 왕국 fff 풀로 제국 2 2 cd853f 카르타나 케네두구 fff 카르타나 케네두구 1 cd853f 사모리 왕국 fff 사모리
+분류 둘러보기 틀 역사

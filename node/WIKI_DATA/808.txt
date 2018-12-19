@@ -1,0 +1,2 @@
+{{{#!wiki style="border: 5px solid #04529c;padding:10px;margin-bottom:0px;background-color:unset;#AAA;border-radius:5px;background-color:white;text-align:center;"
+[[파일:external/upload.wikimedia.org/250px-Golden_State_Warriors_logo.svg.png|width=100]][br]{{{+5 {{{#04529c 이 사용자는 [[골든스테이트 워리어스|{{{#ffcc33 골든스테이트 워리어스}}}]]의 팬입니다.}}}}}}}}}[[분류:유저박스]]

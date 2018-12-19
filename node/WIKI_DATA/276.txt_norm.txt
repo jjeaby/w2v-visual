@@ -1,0 +1,25 @@
+5 tablewidth 100 4169e1 세이부 철도 ffffff 세이부 철도
+5 ff6600 세이부 치치부선 ffffff 치치부선 br 아가노역 ffffff 세이부 이케부쿠로선 직통 치치부 본선 ffffff 치치부 본선 요코제역 ffffff 나가토로 ffffff 세이부치치부역 ffffff 미츠미네구치 방면 ffffff 직통
+width 28 아가노역 gray 아가노 gray 방면 br 쇼마루역 000000 쇼마루 000000 si 33 width 8 1 br 6 1 km width 28 000000 아시가쿠보 br 000000 si 34 width 8 1 br 4 0 km width 28 세이부치치부역 gray 세이부치치부 gray 방면 br 요코제역 000000 요코제 000000 si 35
+1 ashigakubo station
+일본 철도 정보 역 관련 정보
+tablealign right 4169e1 세이부 철도 ffffff 세이부 철도 br 2 ffffff br ffffff
+include 틀 지도 장소 너비 100 높이 300px
+c0c0c0 역정보
+영어표기 ashigakubo
+한글표기 아시가쿠보
+역번호 ff6600 ffffff si 34 세이부 치치부선 ffffff 치치부선
+width 80px 소재지 사이타마 현 치치부 군 요코제쵸 아시가쿠보 1925 br 1925
+개업일 1969년 10월 14일
+파일 external upload wikimedia org 600px ashigakubo sta platform jpg
+일본 사이타마 현 치치부 군 요코제정에 위치한 세이부 철도 치치부선 의 역이다 섬식 승강장의 지상역으로 역사는 북측에 있으며 홈보다 낮은 곳에 위치해 있기 때문에 밑에 연결된 통로로 연결된다 특급은 통과하지만 이 역에서 특급권을 살 수 있다
+하루 이용객은 341명으로 세이부 전체에서 쇼마루역 다음으로 적다
+역 주변은 전형적인 산동네이며 요코제 정청 아시가쿠보 출장소 요코제 활성화센터 사이타마현 청소년종합야외활동센터 등이 있다
+완급결합
+9900aa ffffff 쾌속급행
+width 100px 쇼마루역 쇼마루 1 width 100px 아시가쿠보 1 width 100px 요코제역 요코제
+666666 ffffff 각역정차
+width 100px 쇼마루역 쇼마루 1 width 100px 아시가쿠보 1 width 100px 요코제역 요코제
+각주
+분류 일본의 철도역
+분류 세이부 치치부선

@@ -1,0 +1,100 @@
+* 상위 항목 : [[수학]], [[수학 관련 정보]]
+
+[목차]
+
+== 개요 ==
+연속함수는 직관적으로 생각한다면 끊어짐이 없이 이어진 [[함수]]이다. 연속함수는 [[위상수학]], 특히 일반 위상수학에서 가장 중요하게 다루는 요소다.[* 해석학에서도 중요하게 여기긴 하지만 해석학은 수치화한 연속에 연산을 병행하는 학문이다 특히 해석학은 '''미분'''을 행해야 하는 학문이기에 연속만으로는 모자란 감이 있다. 그래서 해석학에서는 일반적인 연속보다는 미분가능(differentiable), 균등연속(uniformly continuous) 그리고 해석적(analytic) 등으로 조건을 강화한다. 게다가 '''적분'''을 하는데에는 연속이 필요조건인것도 아니다.] 애초에 일반 위상수학이란 학문 자체가 미적분학이나 해석학에서 사용되는 극한과 연속성의 개념이 열린 [[구간]]에 의존된다는 것을 추상화하면서 생겨난 것이기 때문이다. 이 연속개념에 의해서 두 위상공간이 위상적으로 같은 공간인지 아닌지를 판단할 수 있게 된다. 그리고 위상적으로 같은 공간이 가지고 있는 공통적인 성질을 찾는다거나 위상적으로 다른 공간으로 구분하는 것은 위상수학에서 추구하는 것이기도 하다.
+
+연속하면 바로 떠오르는 중간값 정리, 최대최소의 정리 등은 위상에서의 연결과 컴팩트를 이용해 증명 가능하다. 어차피 실수에서 닫힌구간은 컴팩트이므로 직관적으로 성립하니까 '다들 연속함수 그려보면 알지? 자세한 것은 생략'으로 넘어가지만...
+
+== 실가 함수의 연속 ==
+함수  <math> f\left(x\right) </math> 가 정의역의 한 점 <math>a </math>에 대하여 다음 세 조건을 만족할 때, '''함수 <math> f\left(x\right) </math> 는 <math> x=a </math> 에서 연속'''이라고 한다. 그리고 정의역 내의 모든 점에 대해 연속이 되면 이 함수를 연속함수라 한다. 이것은 코시의 정의이다.
+ * 함수  <math>f\left(x\right) </math> 가 <math> x=a </math>에서 정의되어 있다.
+ * 극한값  <math>\displaystyle \lim_{x \to a}f\left(x\right) </math>가 존재한다.
+ * <math>\displaystyle \lim_{x \to a}f\left(x\right) = f\left(a\right) </math>
+
+이와는 반대로, 함수 <math> f\left(x\right) </math>가 <math> x=a </math> 에서 연속이 아닐 때, 즉 위의 조건에서 하나 이상을 만족하지 못할 때 함수  <math> f\left(x\right) </math>는 <math> x=a </math> 에서 '''불연속'''이라고 한다. 직관적으로 본다면, 정의역이 실수 전체인 함수의 그래프를 그려보았을 때 함수 <math> y=f\left(x\right) </math> 의 그래프가 <math> x=a </math> 에서 이어져 있으면 <math> x=a </math> 에서 연속인 것이고, <math> x=a </math> 에서 끊어져 있으면 <math> x=a </math> 에서 불연속이라는 것이다. [* 매끄럽다는 표현에 대한 가장 큰 오해 중 하나는 시각적으로 끊어져만 있으면 모두 불연속으로 본다는 것이다. 가장 쉽게 접할 수 있는 오해가 바로 <math>y= 1/x </math>와 <math>y= tan x</math>의 그래프를 모두 불연속으로 보는 것. 연속의 개념은 정의역 내의 한 점에서 발생하여 이를 전역적으로 넓히는 것이므로, 정의역에 속하지 않는 점에 대해서는 논할 이유가 없다. 위 두 함수는 모두 정의역 내의 점에서 연속이므로 연속함수이다. ]
+
+=== 엄밀한 정의 ===
+> <math> X </math> 와 <math> Y </math> 를 거리 공간이라 하고, <math> d_X , d_Y </math> 를 각각 <math> X </math> 와 <math> Y </math> 에서의 거리 함수라고 하자. 그리고 함수 <math> f:X \rightarrow Y </math> 를 생각하자. 임의의 양수 <math>\epsilon</math>에 대해 적당한 양수 <math>\delta</math>가 존재하며 <math> X </math> 의 임의의 원소 x와 한 원소 a에 대해서, <math> d_X\left(x,a\right) < \delta </math> 이면 <math> d_{Y}\left(f\left(x\right),f\left(a\right)\right) < \epsilon </math> 가 될 때, <math> f\left(x\right) </math> 는 <math> x=a </math> 에서 연속이라 한다. 
+여기서 실수에 보통 거리 함수(절대값)를 주면 일반적으로 실수에서 실수로 가는 함수의 정의가 된다. 여기서는 좀 더 일반적인 거리 공간(물론 거리 공간이 아니어도 연속은 생각할 수 있다)에 대해 생각하자.
+
+
+엄밀하게 정의하고 증명하고 넘어가는 방식을 채택하고 있는 대한민국 교육과정마저도 [[행렬]] 부분과 [[미적분]] 부분에 있어선 증명하지 않고 넘어가는 게 많은데, [[행렬]]은 [[선형대수학]]의 선형사상 때문이고 [[미적분]]은 [[해석학]]의 [[엡실론 - 델타 논법]] 때문이다! 하지만, 다시 말해서 이거 가지고 해석학 이거저거 다 증명한다는 소리이므로 '''이걸 이해하는 것이 해석학에 있어서는 필수라는 것.''' 당연히 충분히 공부한 대학생은 다 이것을 이해하고 있으며 이 정의가 굉장히 도움된다는 것을 느낄 수 있을 것이다. 이 논법이 충격적으로 다가오는 이유는, 이를 처음 보는 사람들에게 있어서 '''[[해석학]]에 더 이상의 직관은 없다'''고 선언하듯, 언뜻 보기에 난해하기 때문이다.
+
+예로 <math> f\left(x\right) = 2x-1 </math> 이라는 함수에 대하여 <math> x=3 </math> 에서 연속임을 보이자. 
+일단 <math> f\left(x\right) = 2x-1 </math> 이라는 함수에 대해 <math> x=3 </math> 에서의 함수값을 생각하면 5이다.
+따라서 시작은 <math> \left|f\left(x\right)-f\left(3\right)\right| = \left| \left(2x-1\right) - 5 \right| = 2 \left|x-3\right| </math> 이다. 
+이때 임의의 양의 실수 <math>\epsilon</math>에 대하여 <math> 2 \left|x-3\right| < \epsilon </math> 이라 두면 <math> \left|x-3\right|< {\epsilon \over 2} </math> 이 되므로 <math> {\epsilon \over 2} = \delta </math> 라 둔다. 
+
+따라서 임의의 <math>\epsilon>0</math>에 대하여 <math> {\epsilon \over 2} = \delta </math> 인 델타가 존재하여 <math> \left|x-3\right| < \delta = {\epsilon \over 2} </math> 에 대하여  <math> 2 \left|x-3\right| =  \left| \left(2x-1\right) - 5 \right|  = \left|f\left(x\right)-f\left(3\right)\right| < \epsilon </math> 이 되므로 함수 <math> f\left(x\right) </math> 는 <math> x=3 </math> 에서 연속이다.
+
+== 위상 공간상의 연속 ==
+위상공간상에서 한 점에서 연속이라 함은
+> <math> f: X \rightarrow Y </math> 를 함수 <math> p \in X </math> 라 할때, <math> f\left(p\right) </math> 를 포함하는 임의의 <math>Y</math>-열린집합 <math>H</math>에 대하여 <math>p</math>를 포함하는 적당한 <math>X</math>-열린집합 <math>G</math>가 존재하여 <math> f\left(G\right) \subset H </math> 를 만족하거나, 또는 <math> f\left(p\right) </math> 를 포함하는 임의의 <math>Y</math>-열린집합 <math>H</math>에 대해 <math> p \in G \subset f^{-1}\left(H\right) </math> 인 <math>X</math>-열린집합 <math>G</math>가 존재하면 <math>p</math>에서 연속이라 한다.
+
+거리 공간에서의 정의와 다르게 보이지만 본질은 같다. 우선 생각해보면  ' <math> f\left(p\right) </math> 를 포함하는 <math> Y </math> 의 임의의 열린 집합 <math> H </math> '가 있다. 이것을 실함수로 바꿔서 생각해보면 '임의의 <math>\epsilon>0</math>에 대해 <math> \left|f\left(x\right)-f\left(p\right)\right| < \epsilon </math> '과 같은 의미이다. <math>\epsilon</math>이 임의의 양수이므로 <math> f\left(p\right) </math> 를 포함하는 임의의 열린 집합(혹은 <math>f\left(p\right)</math>라는 점에 대해 <math>\epsilon</math>반경의 근방)을 잡은 것과 마찬가지이다.  <math> \left|x-p\right| < \delta </math> 인 적당한 양수 <math>\delta</math>가 존재한다는 말은 <math>f</math>의 역상 <math> f^{-1} \left(H\right) </math> 이 <math>X</math>에서의 열린 집합이라는 것과 같은 말이다.
+
+실함수에서는 정의역 내의 모든 점에서 연속이라면 연속함수라고 하지만 위상공간상에서 연속함수는 다르게 정의한다.
+> <math> X </math> 와 <math> Y </math> 를 위상공간이라 하자. <math> Y </math> 의 임의의 열린 집합 <math> V </math> 에 대하여 <math> f^{-1}\left(V\right) </math> 가 <math> X </math> 에서 열린 집합이 되면, <math>f</math>를 연속함수라 한다. 
+
+
+여기서는 일반적인 위상공간이기 때문에 보통위상공간에서의 직관적인 성질들은 성립하지 않는 경우가 있다. 
+
+예를 들어 보통위상공간 <math> \mathbb{R} </math> 에서 하한위상공간 <math> \mathbb{R}_l </math> 로 가는 함수 <math> f: \mathbb{R} \rightarrow \mathbb{R}_l </math> 를 <math> f\left(x\right)=x </math> 로 정의하면 공역이 보통위상공간으로 <math> \mathbb{R} \rightarrow \mathbb{R} </math> 이라면 당연히 연속이다. 그러나 공역, 하한위상공간에서 <math> \left[0,1\right) </math> 는 열린 집합인데 그 역상, <math> f^{-1} \left(\left[0,1\right)\right) = \left[0,1\right) </math> 는 보통위상공간에서 열린 집합이 아니므로 저 함수는 불연속이다. 역으로 일반적인 <math> \mathbb{R} \rightarrow \mathbb{R} </math> 에서는 불연속이지만 정의역을 이산위상공간으로 주거나 또는 공역에 비이산위상공간을 생각하면, 보통위상공간에서 불연속인 함수라도 연속이 되게 만들 수도 있다. 실수 전체에서 불연속인 대표적인 함수 디리클레 함수[* 유리수에서 값을 1 무리수에서 값을 0 으로 정의한 함수]도 정의역을 이산위상공간으로 할 필요도 없이 공역에서 열린집합이 항상 0,1 을 동시에 포함하거나 포함하지 않게 위상을 정의하면 충분히 연속으로 만들 수 있다.
+=== 관련된 함수들 ===
+연속이거나 연속은 아니지만 연속함수와 비슷한 개념들이며, 연속만으로 설명하기 힘든 공간이나 함수의 성질들을 이해하는데 도움이 되는 정의들이다.
+==== 열린사상(Open map) ====
+> <math> X </math> 와 <math> Y </math> 를 위상공간이라 하자. 함수 <math>f:X  \rightarrow Y </math> 에 대해 <math> X </math> 의 임의의 열린집합 <math> O </math> 대하여  <math> f(O) </math> 가  <math> Y </math>열린집합이 되면 <math>f </math> 를 열린사상(Open map) 이라 한다. 
+언뜻 보면 연속사상과 그다지 달라 보이지 않지만, 연속이 아님에도 열린사상이 되는 함수들이 존재한다. 대표적으로 <math> f: \mathbb{R} \rightarrow \mathbb{R}_l </math>  인 항등함수는 연속이 아니지만 열린사상이다. 
+
+==== 닫힌사상(Closed map) ====
+> <math> X </math> 와 <math> Y </math> 를 위상공간이라 하자. 함수 <math>f:X  \rightarrow Y </math> 에 대해 <math> X </math> 의 임의의 닫힌집합 <math> C </math> 대하여  <math> f(C) </math> 가  <math> Y </math>닫힌집합이 되면 <math>f </math> 를 닫힌사상(Closed map) 이라 한다. 
+이 또한 열린사상과 마찬가지로 연속이 아님에도 열린사상이 되는 함수들이 존재한다. <math> f: \mathbb{R} \rightarrow \mathbb{R}_l </math>  인 항등함수는 열린사상이며 동시에 닫힌사상이다. 하지만 닫힌사상이나, 열린사상이 아니고, 열린사상이나, 닫힌사상이 아닌 함수가 존재한다. 여기까지 보았다면 알겠지만 연속성과 열린사상 닫힌사상은 직접적으로는 아무런 관련이 없다.  다만, 연속함수의 성질을 논할때, 중요하게 사용되는 개념들이다.
+==== 몫사상(Quotient map)[* 한글로는 상사상 영어로는 identification 이라고도 한다.] ====
+> <math> X </math> 와 <math> Y </math> 를 위상공간이라 하자. 연속인 전사함수 <math>p:X  \rightarrow Y </math> 에 대해 <math> Y </math> 의 임의의 부분집합 <math> O </math> 대하여 <math> O </math> 가 열린집합일 필요충분조건이 <math> p^{-1}(O) </math> 가  <math> X </math>에서의 열린집합인 것일때 <math>p </math> 를 몫사상(Quotient map) 이라 한다. 
+언뜻 보면 연속과 정의가 달라보이지 않으나, 열린집합의 역상이 열린집합이며 그때에만 열린집합이 된다는 것으로 일반적인 연속사상이 열린집합도 닫힌집합도 아닌 애매한 집합들의 역상이 열린집합이 되어도 연속으로 인정하는 반면에 열린집합이 되는 것을 오직 열린집합만으로 한정하였다고 보면 된다. 조금더 위험하게 일반화를 하자면, 우리가 보는 위상동형 사상에서 단사인 조건을 빼놓았다고 보면 된다. 이는 흔히 우리가 아는 기하학적인 위상수학에서 공간을 '붙인다' 라는 개념을 설명할 때, 붙이려는 부분을 상사상을 이용해 같은 값으로  보낸 후 해당 값의 역상의 동치류로 정의한다. 
+
+==== 거리함수(Metric function) ====
+위상수학에서 거리공간을 정의할 때 집합에 거리함수가 주어진 공간으로 정의를 한다. 자세한 내용은 [[삼각부등식]] 항목 참고.
+
+==== 경로(path) ====
+
+> <math> X </math> 를 어떤 위상공간이라 하자. 이제  <math>p,q\in X </math> 에 대해 연속함수 <math>f:[0,1] \rightarrow  X </math> 가[* 보면 알겠지만 그냥 임의의 유계인 닫힌구간을 정의역으로 두어도 무방하다.] <math> f(0)=p, f(1)=q </math> 인 것을<math> X </math> 경로 라고 한다 . 
+쉽게 말해서 위상공간 안에 실수의 구간이랑 비슷하게 생긴 집합이 존재하는것을 의미한다. 이게 무슨의미가 있느냐 하겠지만, 위상공간 내에서 일반적인 연결과 경로 연결성을 구분하는데 필요한 개념이다. 연결성은 우리가 아는 실수공간을 2차원으로만 확장해도 연결성=경로연결성이 보장되지 않는다. 또 미적분학을 공부하는 학부 1학년 위키러는 닫힌곡선(loop)이라는 개념을 알고 있을텐데 그 닫힌곡선을  <math> f(0)=(1) </math> 인 경로로 정의한다.
+== 성질 ==
+이렇게 연속함수를 연구하는 이유 중에 하나는 연속함수가 매우 좋은 성질 몇개를 갖고 있기 때문이다. 위상공간 <math> X </math> 와 <math> Y </math> 에서 정의된 함수 <math> f:X \rightarrow Y </math> 가 연속이라면
+ * <math> X </math> 가 컴팩트 집합(compact set)이면 <math> f\left(X\right) </math> 도 컴팩트 집합이다.
+ * <math> X </math> 가 연결 집합(connected set)이면 <math> f\left(X\right) </math> 도 연결 집합이다.
+ * <math> X </math> 가 분리 가능(separable)하면 <math> f\left(X\right) </math> 도 분리 가능이다.
+등과 같이 공간의 성질을 알 수 있기 때문이다.[* 해당 정리중 첫번째,두번째 정리는 각각 최대•최소정리, 사잇값정리의 일반화된 정리이다.]
+
+위상동형함수를 연구하는 이유 중에 하나가 어떤 공간 <math>Y</math>의 성질을 탐구하고 싶은데 그 공간이 너무 복잡할때, 기존에 알고 있던 위상공간 <math>X</math>에서 <math>Y</math>로의 위상동형함수를 정의해주면 <math>X</math>에 대한 성질은 연구되어 알고 있으므로 바로 <math>Y</math>에 적용할 수 있기 때문이다.
+
+이러한 연속함수의 컴팩트 집합의 보존에서 컴팩트 집합의 정의에 대한 동기를 유추할 수 있다.
+컴팩트의 개념없이 다루는 일변수함수의 최대 최소 정리를 잘 살펴보면 닫힌 집함[a,b]의 볼차노-바이어슈트라스 정리(닫힌 구간의 무한 부분집합은 직접접을 닫힌구간내에서 가진다는것)를 이용하는 것이 핵심임을 살펴볼 수 있는데 이 볼차노-바이어슈트라스 정리가 의미하는 것이 점렬 컴팩트성이고 이것이 일반화 된것이 컴팩트 집합이다.(사실 거리공간만 다룰때는 컴팩트의 정의가 점렬 컴팩트와 동치였다.)
+
+=== 기본 성질 ===
+고교과정에서도 배우는 연속함수의 기본적인 성질은 다음과 같다.
+>1. 함수 <math>f, g</math>가 <math>x = x_0</math>에서 각각 연속이라고 하자. 그럼 <math>kf,</math> (<math>k</math>는 임의의 상수) <math>f+g, f \cdot g</math>는 <math>x_0</math>에서 연속이고 <math>f/g</math>는 <math>g\left(x_0\right) \neq 0</math>일 때 <math>x_0</math>에서 연속이다. [br] 2. 함수 <math>f</math>가 <math>x_0</math>에서 연속이고 <math>g</math>는 <math>f\left(x_0\right)</math>에서 연속이면, <math>\left(g \circ f\right)\left(x\right) = g\left(f\left(x\right)\right)</math>도 <math>x_0</math>에서 연속이다.
+1번 성질은 극한의 기본 성질을 이용해서 고교과정에서도 증명할 수 있다. 반면 2번 성질은 엡실론 델타 논법을 사용해서 증명해야 하므로 고교과정에선 다루지 않는다. 2번 성질의 증명은 아래와 같다.
+{{|<math>\epsilon>0</math>가 주어졌다 하자. 함수 <math>g</math>가 <math>f\left(x_0\right)</math>에서 연속이므로, <math>\left|y-f\left(x_0\right)\right|<\eta</math>이면 <math>\left|g\left(y\right) - g\left(f\left(x_0\right)\right)\right|<\epsilon</math>를 만족하게 하는 <math>\eta >0</math>이 존재한다. 한편, 함수 <math>f</math>가 <math>x_0</math>에서 연속이므로, <math>\left|x-x_0\right|<\delta</math>이면 <math>\left|f\left(x\right)-f\left(x_0\right)\right|<\eta</math>를 만족하게 하는 <math>\delta>0</math>가 존재한다. 따라서 <math>\left|x-x_0\right|<\delta</math>를 만족하는 <math>x</math>에 대해 <math>\left|g\left(f\left(x\right)\right)-g\left(f\left(x_0\right)\right)\right|<\epsilon</math>가 성립한다. 따라서 <math>g \cdot f</math>는 <math>x_0</math>에서 연속이다.|}}
+=== [[최대·최소의 정리]] ===
+[[최대·최소의 정리|항목]] 참조.
+
+=== [[사이값 정리]] ===
+[[사이값 정리|항목]] 참조
+
+=== [[매끄러움]] ===
+연속함수를 몇 번이고 [[미분]]해도 연속함수인가에 대한 성질이다.
+=== 수열의 극한과의 교환성 ===
+고등학교 과정에서 암암리에 쓰이고 있는 정리이다. 고등학교 과정의 함수는 거의 대부분 연속이기때문에 가능한 일이다.
+
+> 함수 <math>f</math>가 <math>c</math>에서 연속이고, 수열 <math>\left\{x_{n}\right\}</math>이 <math>c</math>에 수렴한다고 하자. 그러면. <math>{\displaystyle \lim_{n\to\infty}}f\left(x_{n}\right)=f\left({\displaystyle \lim_{n\to\infty}}x_{n}\right)=f\left(c\right)</math>이다.
+
+{{| 임의의 <math>\epsilon>0</math>에 대해, <math>\delta>0</math>이 존재하여 임의의 <math>|x-c|<\delta</math>에 대해, <math>\left|f\left(x\right)-f\left(a\right)\right|<\epsilon</math>이다. 그리고 자연수 <math>N</math>이 존재하여 임의의 <math>N\le n</math>에 대해 <math>\left|x_{n}-c\right|<\delta</math>이다. 따라서, 이 <math>N</math>에 대해, 임의의 <math>N\le n</math>은 <math>\left|f\left(x_{n}\right)-f\left(a\right)\right|<\epsilon</math>을 만족한다.
+|}}
+
+ * [[0.999... = 1]]는 연속성 조건이 중요함을 보여주는 아주 대표적인 반례이다. 가우스 함수 <math>\left[\right]</math>에 대해, <math>\left[0.999...\right]=0\ne 1=\left[1\right]</math>기 때문에 둘은 다르다고 생각한다. 그러나 이는 잘못된 것으로 설명해보자면 다음과 같다.[br]가우스 함수는 <math>{\displaystyle \lim_{n\to\infty}}1-10^{-n}=1</math>에서 불연속이므로, <math>1=\left[0.999...\right]=\left[{\displaystyle \lim_{n\to\infty}}1-10^{-n}\right]\ne{\displaystyle \lim_{n\to\infty}}\left[1-10^{-n}\right]=0</math>이다. 흔히 범하는 오류는 불연속 조건을 무시하여 <math>\ne</math>가 아닌 <math>=</math>가 성립한다고 넘겨짚는 것에 있다.
+
+[[분류:해석학]]

@@ -1,0 +1,7 @@
+numpy
+krwordrank
+gensim
+nltk
+sklearn
+jpype1
+konlpy

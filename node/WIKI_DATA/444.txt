@@ -1,0 +1,20 @@
+||<:><-4><tablewidth=100%><table align=center><table bordercolor=#47B035><#47B035> '''[[한국 내셔널리그|{{{#ffffff 인천국제공항 2017 내셔널리그}}}]]''' [[틀:한국 내셔널리그|{{{#ffffff 참가구단}}}]]||
+||<:><width=25%><rowbgcolor=#ffffff>[[파일:attachment/틀:한국 내셔널리그/GAN.jpg|height=60]]
+||<:><width=25%>[[파일:attachment/틀:한국 내셔널리그/GIM.jpg|height=60]]
+||<:><width=25%>[[파일:khnp_mens.png|height=60]]
+||<:><width=25%>[[파일:attachment/틀:한국 내셔널리그/DAK.jpg|height=60]] ||
+||<:><rowbgcolor=#eeeeee>  [[강릉시청 축구단|강릉]] 
+||<:> [[김해시청 축구단|김해]] 
+||<:> [[경주 한국수력원자력|경주]] 
+||<:> [[대전 코레일|대전]] ||
+||<:><rowbgcolor=#ffffff> [[파일:attachment/틀:한국 내셔널리그/MOK.jpg|height=60]]
+||<:>[[파일:attachment/틀:한국 내셔널리그/BUT.jpg|height=60]]
+||<:>[[파일:attachment/틀:한국 내셔널리그/CHA.jpg|height=60]]
+||<:>[[파일:attachment/틀:한국 내셔널리그/CHE.jpg|height=60]]||
+||<:><rowbgcolor=#eeeeee> [[목포시청 축구단|목포]] 
+||<:>  [[부산교통공사 축구단|부산]]
+||<:> [[창원시청 축구단|창원]] 
+||<:> [[천안시청 축구단|천안]] ||
+||<-4><:><#000000>[[틀:한국 내셔널리그/사라진 구단|{{{#ffffff 한국 내셔널리그 사라진 구단 보기}}}]] ||
+
+[[분류:한국 내셔널리그]]

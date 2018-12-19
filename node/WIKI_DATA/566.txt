@@ -1,0 +1,6 @@
+||<table align=center><bgcolor=#6CC0FF><table bordercolor=#6CC0FF><-4><:>[[수원시/교육#s-3|[[파일:external/lh3.googleusercontent.com/tmp_29684-%25EC%2588%2598%25EC%259B%2590%25EC%258B%259C-%25EB%25A1%259C%25EA%25B3%25A01907934411.png|width=65]]]] '''[[경기도|{{{#white 경기도}}}]] [[수원시|{{{#white 수원시}}}]] [[팔달구|{{{#white 팔달구}}}]]{{{#white 의}}}  [[고등학교|{{{#white 고등학교}}}]]'''  ||
+||<:><bgcolor=pink><width=25%> [[매향여자정보고등학교]] ||<:><bgcolor=white><width=25%> [[삼일공업고등학교]] ||<:><bgcolor=white><width=25%> [[삼일상업고등학교]] ||<:><bgcolor=cyan><width=25%> [[수원고등학교]] ||
+||<:><bgcolor=white> [[수원공업고등학교]] ||<:><bgcolor=pink> [[수원여자고등학교]] ||<:><bgcolor=white> [[숙지고등학교]] ||<:><bgcolor=pink> [[영복여자고등학교]] ||
+||<:><bgcolor=cyan> [[유신고등학교]] ||<:><bgcolor=white> [[창현고등학교]] ||<:><bgcolor=white> [[율천고등학교]] ||<:><bgcolor=white>||
+||<-4> ※ {{{#pink 분홍색}}}은 [[여자고등학교]]를, {{{#cyan 밝은 파란색}}}은 [[남자고등학교]]를 가리킨다. ||
+[[분류:둘러보기 틀/학교]]

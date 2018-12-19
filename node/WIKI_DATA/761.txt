@@ -1,0 +1,17 @@
+Good Morning
+
+[목차]
+
+== [[영어]] 아침 인삿말 ==
+영어의 아침 인삿말이다. Hi나 Hello보다는 격식을 차린 표현으로 여겨진다. 
+
+== 운동법 ==
+{{{#!html
+<iframe src='http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=49E029064970D97734FCBBC72B7A66561CB9&outKey=V125cb76285de1380a25f0298bd90fa246e427a2e0530fcc43deb0298bd90fa246e42&controlBarMovable=true&jsCallable=true&isAutoPlay=false&skinName=tvcast_white' frameborder='no' scrolling='no' marginwidth='0' marginheight='0' WIDTH='544' HEIGHT='306' allowfullscreen></iframe>}}}
+
+운동의 동작이 마치 인사를 하는 것과 같다고 하여 굿모닝이라는 이름이 붙었다. 동작에서 알 수 있듯이 [[척추기립근]]을 중점적으로 단련하는 운동이다. 척추기립근에 한해서는 [[데드리프트]]보다도 더 집중적으로 운동할 수 있다. 맨몸에서는 데드리프트 동작을 하기 어렵기 때문에 데드리프트보다 척추기립근 단련에 좋다. 
+
+하지만 [[척추]]에 큰 부담을 준다는 것 때문에 고중량에서는 대단히 위험한 동작이며, [[이소룡]]의 허리를 갈아먹은 운동으로 악명이 높다.[* [[이소룡]]은 '''약 100kg의 중량'''으로 이 운동을 했다고 한다.] 맨몸 또는 1-5kg정도의 덤벨이나 바벨 정도로 시행하는 것이 좋으며, 허리에 약간이라도 무리가 올 경우 중량을 낮추거나 중단해야 한다.
+
+[각주]
+[[분류:동음이의어/ㄱ]]

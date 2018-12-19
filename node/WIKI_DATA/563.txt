@@ -1,0 +1,34 @@
+||||<table align=right><bgcolor=#921b01><:>'''{{{#ffffff 前 히어로즈 오브 더 스톰 프로게임단}}}'''||
+||||<:>[[파일:COGnitive_Gaming_logo.png|width=250]]||
+||||<bgcolor=#921b01><:>'''{{{#ffffff COGnitive Gaming}}}'''||
+||<bgcolor=#b3b0b0><:>{{{#ffffff 소재 지역 }}}||<:>[[미국]]||
+
+[목차]
+== 개요 ==
+[[캘리포니아]]에 위치해 있는 북미 [[e스포츠]] 구단. 현재는 [[슈퍼 스매시브라더스 for 닌텐도 3DS / Wii U|슈퍼 스매시 브라더스]] 팀만 운영하고 있다. 그러나 마지막 유저였던 wizzrobe가 나가서 지금은 완전히 해체되었다.
+
+== [[히어로즈 오브 더 스톰]] ==
+[include(틀:히어로즈 프로게임단/해체)]
+
+[[2015년]] [[5월 5일]] [[http://cognitive-gaming.com/articles/news/general/25/cognitive-gaming-enters-the-storm|창단했다.]] 창단이후 항상 중위권에 머무르며 [[Heroes of the Storm 2016 Summer Global Championship|글로벌 챔피언십]] 진출엔 번번히 실패했다. 결국 [[2016년]] [[5월 11일]], [[DreamHack AllStars Austin 2016]] 3-4위를 끝으로 [[https://twitter.com/cattlepillar/status/730593756995424258|해체 소식을 알렸다.]]
+=== 멤버 ===
+==== 해체 당시 인원 ====
+ * 벤 분크 (Ben Bunk) (cattlepillar) - Tank
+ * 제프리 돌런(Jeffrey Dolan) (iakona) - Support
+ * 마이크 피스크(Mike Fisk) (Glaurung) - Bruiser
+ * 로리 브라이언트레이블(Rori Bryant-Raible) (CauthonLuck) - Carry
+ * 케일러 머레이(Kayla Murray) (Faye) - Carry
+ * (Josh Kofalt) (RawrJar) - Flex
+
+==== 예전 인원 ====
+ * 조이 개블러스(Joey Gavlas) (Hospital)
+ * 다나 홀랜드 (Dana Holland) (Syracuse) - Carry
+ * 도널드 도빈(Donald Dobbin) (Scylol) - Tank
+ * 에런 프렌티스(Aaron Prentice) (iVSlime) - Carry
+
+== [[슈퍼 스매시브라더스 for 닌텐도 3DS / Wii U|슈퍼 스매시 브라더스]] ==
+=== 전 멤버 ===
+*Mew2king:밀리 5신, [[Echo Fox]]로 이적
+*wizzrobe:밀리 팔콘 플레이어
+
+[[분류:e스포츠 팀]]

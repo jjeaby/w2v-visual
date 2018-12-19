@@ -1,0 +1,28 @@
+|||| [[DJMAX 시리즈/수록곡 목록|DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 ||[[DJMAX 온라인]]||
+|| 추가 수록 버전 ||[[DJMAX Portable 2]], [[DJMAX Trilogy]], [[DJMAX RESPECT]]||
+|| 장르 || ||
+|| [[BPM]] || ||
+|| 작곡 ||EarBreaker, eszett||
+|| BGA ||[[TARI]]||
+
+
+[목차]
+[youtube(NePWEJ1hUM4,width=420, height=315)]
+
+== 개요 ==
+[[DJMAX 온라인]]에 첫 등장한 EarBreaker와 eszett이 작곡한 중세풍의 트랜스곡이다.
+TARI가 제작한 유려한 BGA가 일품.
+곡과 BGA가 좋고 중~상위권 난이도의 재미있는 패턴을 가지고 있어서 인기곡이였다.
+[[DJMAX Portable 2]], [[DJMAX Trilogy]], [[DJMAX RESPECT]]에 이식되었다.
+== BGA ==
+TARI가 제작한 유려한 BGA가 일품.
+등장하는 두 쌍둥이의 이름은 아그네스(청색 옷)과 티트리(적색 옷)
+BGA의 관련된 제작자의 이야기는 [[http://tari.co.kr/tari/14th/tustart.html|TARI의 블로그]]를 참조.
+== [[DJMAX 온라인]] ==
+== [[DJMAX Portable 2]] ==
+== [[DJMAX Trilogy]] ==
+== [[DJMAX RESPECT]] ==
+초기에는 5버튼 노멀에서 고렙곡에서 나올법한 변칙적인 패턴이[* 3번에 롱노트가 나오고 1 1 5[[https://pbs.twimg.com/media/DHPlaaDUQAA3qou.jpg|캡쳐]]] 대비할 틈 없이 나와서 맥스콤보 불렙과 논란이 되었고, 수정 되었다.
+판정이 짠편이던것도 1.05에서 수정
+[include(틀:문서 가져옴/문단, title=DJMAX 시리즈/기타 수록곡, version=55, paragraph=2.9)][[분류:DJMAX의 수록곡]]
