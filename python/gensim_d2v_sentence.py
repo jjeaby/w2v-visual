@@ -60,12 +60,12 @@ for index in range(0, 750):
 
 
 
-LabeledSentence1 = gensim.models.doc2vec.TaggedDocument
+LabeledSentence = gensim.models.doc2vec.TaggedDocument
 all_content = []
 texts = []
 j = 0
 for docu in doc2vector_data:
-    all_content.append(LabeledSentence1(docu, [j]))
+    all_content.append(LabeledSentence(docu, [j]))
     j+= 1
 
 print("Number of docu vectors: ", j)
@@ -78,15 +78,17 @@ d2v_model.save('doc2vec.model')
 d2v_model = Doc2Vec.load('doc2vec.model')
 
 
-print (d2v_model.docvecs.most_similar(1))
+print ('most similar',d2v_model.docvecs.most_similar(1))
 
-
+ut.visualize(d2v_model, "./doc2vec_log")
+ut.plt_show(d2v_model, "d2v_model.png")
 
 # kmean cluster
-
 kmeans_model = KMeans(n_clusters=8, init='k-means++', max_iter=100)
 X = kmeans_model.fit(d2v_model.docvecs.doctag_syn0)
 labels=kmeans_model.labels_.tolist()
+
+print(labels)
 
 l = kmeans_model.fit_predict(d2v_model.docvecs.doctag_syn0)
 pca = PCA(n_components=2).fit(d2v_model.docvecs.doctag_syn0)
@@ -102,11 +104,17 @@ plt.scatter(datapoint[:, 0], datapoint[:, 1], c=color)
 centroids = kmeans_model.cluster_centers_
 centroidpoint = pca.transform(centroids)
 plt.scatter(centroidpoint[:, 0], centroidpoint[:, 1], marker='^', s=150, c='#000000')
-plt.savefig('kmeandoc2vec.png', quality=100, dpi=500)
+plt.savefig('kmean-doc2vec.png', quality=100, dpi=500)
 
 plt.show()
 
 stop = timeit.default_timer()
 execution_time = stop - start
 
+
+
+#sort cluster centers by proximity to centroid
+
 print(execution_time) #It returns time in sec
+
+
