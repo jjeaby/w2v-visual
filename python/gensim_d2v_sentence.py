@@ -1,23 +1,21 @@
-import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-import re
-import os, sys, email
 import gensim
 from gensim.models import Doc2Vec
-from nltk.tokenize import RegexpTokenizer
-from nltk.corpus import stopwords
-from nltk.stem.porter import PorterStemmer
-import nltk
-from string import punctuation
 import timeit
 from sklearn.cluster import KMeans
-from sklearn import metrics
-import pylab as pl
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 
-import python.w2vft_util as ut
+import timeit
 
+import gensim
+import matplotlib.pyplot as plt
+import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
+from gensim.models import Doc2Vec
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+
+import w2vft_util as ut
 
 start = timeit.default_timer()
 
@@ -25,9 +23,9 @@ start = timeit.default_timer()
 doc2vector_data = []
 counter = 0
 
-for index in range(0, 750):
-    # intput_fname = '../node/WIKI_DATA/' + str(index) + '.txt'
+for index in range(1, 1600):
     intput_fname = './NEWS_DATA/' + str(index) + '.txt'
+    intput_fname = './donga/donga_' + str(index) + '_ko.txt'
     output_fname = intput_fname + '_norm.txt'
 
     texts = ut.normalizeCF(intput_fname, output_fname)
@@ -84,11 +82,11 @@ ut.visualize(d2v_model, "./doc2vec_log")
 ut.plt_show(d2v_model, "d2v_model.png")
 
 # kmean cluster
-kmeans_model = KMeans(n_clusters=8, init='k-means++', max_iter=100)
+cluster_number = 20
+
+kmeans_model = KMeans(n_clusters=cluster_number, init='k-means++', max_iter=100)
 X = kmeans_model.fit(d2v_model.docvecs.doctag_syn0)
 labels=kmeans_model.labels_.tolist()
-
-print(labels)
 
 l = kmeans_model.fit_predict(d2v_model.docvecs.doctag_syn0)
 pca = PCA(n_components=2).fit(d2v_model.docvecs.doctag_syn0)
@@ -97,7 +95,7 @@ datapoint = pca.transform(d2v_model.docvecs.doctag_syn0)
 
 
 # kmeas show plt
-label1 = ["#660000", "#AA0000", "#CC0000", "#00AA00", "#006600", "#00CC00", "#0000AA", "#000066"]
+label1 = ["#660000", "#AA0000", "#CC0000", "#00AA00", "#006600", "#00CC00", "#0000AA", "#000066","#660000", "#AA0000", "#CC0000", "#00AA00", "#006600", "#00CC00", "#0000AA", "#000066","#660000", "#AA0000", "#CC0000", "#00AA00"]
 color = [label1[i] for i in labels]
 plt.scatter(datapoint[:, 0], datapoint[:, 1], c=color)
 
@@ -108,13 +106,27 @@ plt.savefig('kmean-doc2vec.png', quality=100, dpi=500)
 
 plt.show()
 
+
+
+
+## Print Sentence Clusters ##
+
+#all_content
+cluster_info = {'sentence': doc2vector_data, 'cluster' : labels}
+sentenceDF = pd.DataFrame(cluster_info, index=[labels], columns = ['sentence','cluster'])
+
+for num in range(cluster_number):
+    print()
+    print("Sentence cluster %d: " %int(num+1), end='')
+    print()
+    for sentence in sentenceDF.ix[num]['sentence'].values.tolist():
+        print(' %s ' %sentence, end='')
+        print()
+    print()
+
+
 stop = timeit.default_timer()
 execution_time = stop - start
-
-
-
-#sort cluster centers by proximity to centroid
-
 print(execution_time) #It returns time in sec
 
 
