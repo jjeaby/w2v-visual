@@ -53,7 +53,7 @@ if __name__ == '__main__':
     fasttext_data = []
 
      # intput_fname = '../node/WIKI_DATA/' + str(index) + '.txt'
-    intput_fname = './naver/naver_news_stock.txt'
+    intput_fname = './naver/naver_news_economy.txt'
     output_fname = intput_fname + '_norm.txt'
 
     input_file = open(intput_fname, mode='r', encoding='utf-8'    )
@@ -69,7 +69,7 @@ if __name__ == '__main__':
         text = remove_keyboard_out_chractor(text)
         text = remove_naver_news(text)
         
-        if  len(re.findall('function', text))  > 1 :
+        if  len(re.findall('function', text)) > 1 or len(re.findall('var currentDateParam',text)) > 0 :
             continue
 
         line_sentence = []
@@ -91,8 +91,10 @@ if __name__ == '__main__':
         print(line_number, line_sentence[:-2])
         line_number = line_number +1
 
-        output_file = open(output_fname, mode='a+', encoding='utf-8')
-        output_file.write(line_sentence[0] + " ∥ " + " ".join(line_sentence[1:-2]) + "\n")
-        output_file.close()
+        contents = (" ".join(line_sentence[1:-2]).strip())
+        if len(contents) > 0 :
+            output_file = open(output_fname, mode='a+', encoding='utf-8')
+            output_file.write(line_sentence[0] + " ∥ " + " ".join(line_sentence[1:-2]) + "\n")
+            output_file.close()
 
 
